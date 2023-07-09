@@ -13,8 +13,8 @@ Scraper: [animenewsnetwork.py](https://github.com/gunnaryonker/gunnaryonker.gith
 Table B: [tableB.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/tableB.csv)  
 HTML Data: [HTML Data 2](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/html_content_tableB.txt)  
 
-**I originally was going to use IMDB but there would not have been enough tuples using their data on the Anime genre tag, only about 940 entries, so this is just back up data in case I need it later on**
-Website 3: [IMDB](https://www.imdb.com/)
+**I originally was going to use IMDB but there would not have been enough tuples using their data on the Anime genre tag, only about 940 entries, so this is just back up data in case I need it later on**  
+Website 3: [IMDB](https://www.imdb.com/)  
 Scraper: [imdbscrape.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/imdbscrape.py)  
-Table C: [tableC.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/tableC.csv)  
+Table C: [tableC.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/tableC.csv)   
 HTML Data: [HTML Data 3](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/html_content_tableC.txt)  
