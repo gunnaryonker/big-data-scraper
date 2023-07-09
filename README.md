@@ -3,7 +3,7 @@ Gunnar Yonker
 
 # Projects
 ## Project 1 (Anime Movies & TV Shows)
-Website 1: My Anime List(myanimelist.net)  
+Website 1: My Anime List(https://myanimelist.net/topanime.php))  
 Scraper: [myanimelistscrape.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/myanimelistscrape.py)  
 Table A: [tableA.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/tableA.csv)  
 HTML Data: [HTML Data](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/html_content_tableA.txt)  
