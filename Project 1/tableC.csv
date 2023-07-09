@@ -1,0 +1,947 @@
+rank,title,rating,age_rating,run_time,year_range,votes
+1c,Demon Slayer: Kimetsu no Yaiba,8.7,TV-14,24 min,(2019– ),125483
+2c,Attack on Titan,9.1,TV-MA,24 min,(2013–2023),417726
+3c,Vinland Saga,8.8,TV-MA,24 min,(2019– ),54215
+4c,Black Clover,8.3,TV-PG,24 min,(2017–2021),28783
+5c,Heavenly Delusion,8.1,TV-MA,24 min,(2023– ),2347
+6c,Jujutsu Kaisen,8.5,TV-MA,24 min,(2020– ),74925
+7c,Naruto,8.4,TV-PG,24 min,(2002–2007),112985
+8c,My Hero Academia,8.3,TV-14,24 min,(2016– ),70741
+9c,Hunter x Hunter,9.0,TV-14,24 min,(2011–2014),113761
+10c,Naruto: Shippuden,8.7,TV-PG,24 min,(2007–2017),139475
+11c,Kill Bill: Vol. 1,8.2,R,111 min,(2003),1146100
+12c,Death Note,8.9,TV-14,23 min,(2006–2007),347471
+13c,Chainsaw Man,8.5,TV-MA,25 min,(2022– ),39532
+14c,Fullmetal Alchemist: Brotherhood,9.1,TV-14,24 min,(2009–2010),180878
+15c,Bleach,8.2,TV-14,24 min,(2004–2012),61491
+16c,JoJo's Bizarre Adventure,8.5,TV-14,24 min,(2012– ),29098
+17c,Monster,8.7,TV-14,24 min,(2004–2005),36676
+18c,One Punch Man,8.7,TV-PG,24 min,(2015–2019),172402
+19c,Bleach: Thousand-Year Blood War,9.1,TV-MA,24 min,(2022– ),20548
+20c,Devilman: Crybaby,7.6,TV-MA,25 min,(2018),24681
+21c,Dragon Ball Z,8.8,TV-PG,24 min,(1989–1996),138096
+22c,Cyberpunk: Edgerunners,8.3,TV-MA,24 min,(2022),61531
+23c,Tokyo Revengers,7.9,TV-14,24 min,(2021– ),21067
+24c,Berserk,8.7,TV-MA,23 min,(1997–1998),45138
+25c,Dr. Stone,8.1,TV-14,24 min,(2019– ),23917
+26c,Cowboy Bebop,8.9,TV-14,24 min,(1998–1999),128173
+27c,Spy x Family,8.4,TV-14,24 min,(2022– ),30410
+28c,Neon Genesis Evangelion,8.5,TV-MA,24 min,(1995–1996),76744
+29c,Mushoku Tensei: Jobless Reincarnation,8.4,TV-14,24 min,(2021– ),14474
+30c,Gintama,8.7,TV-14,25 min,(2005–2021),13135
+31c,Perfect Blue,8.0,R,81 min,(1997),85008
+32c,Boruto: Naruto Next Generations,6.6,TV-14,23 min,(2017– ),24602
+33c,Knights of the Zodiac,8.5,TV-PG,24 min,(1986–1989),10678
+34c,Demon Slayer the Movie: Mugen Train,8.2,R,117 min,(2020),65750
+35c,Kill Bill: Vol. 2,8.0,R,137 min,(2004),777095
+36c,Haikyu!!,8.7,TV-14,24 min,(2014–2020),29914
+37c,Steins;Gate,8.8,TV-14,24 min,(2011–2015),67387
+38c,Mob Psycho 100,8.6,TV-14,24 min,(2016–2022),38688
+39c,A Silent Voice: The Movie,8.1,Not Rated,130 min,(2016),91117
+40c,Code Geass,8.7,TV-14,24 min,(2006–2008),73598
+41c,The Seven Deadly Sins: Signs of Holy War,7.8,TV-14,24 min,(2014–2021),35090
+42c,Ghost in the Shell,7.9,TV-MA,83 min,(1995),149377
+43c,Tokyo Ghoul,7.7,TV-MA,24 min,(2014),58902
+44c,Sword Art Online,7.5,TV-14,24 min,(2012– ),49043
+45c,Fairy Tail,7.9,TV-14,24 min,(2009–2019),26284
+46c,My Dress-Up Darling,8.0,TV-14,24 min,(2022– ),11058
+47c,The Witcher: Nightmare of the Wolf,7.2,TV-MA,83 min,(2021),47556
+48c,Erased,8.5,TV-14,264 min,(2016– ),52688
+49c,The Promised Neverland,8.2,TV-14,23 min,(2019–2021),42401
+50c,How Do You Live?,,TV-14,125 min,(2023),
+51c,Kaguya-sama: Love is War,8.5,TV-14,24 min,(2019– ),17009
+52c,Weathering with You,7.5,PG-13,112 min,(2019),48849
+53c,Nausicaä of the Valley of the Wind,8.0,PG,117 min,(1984),174875
+54c,"Re: Zero, Starting Life in Another World",8.1,TV-14,24 min,(2016– ),21220
+55c,High School DxD,7.6,TV-MA,23 min,(2012–2018),12193
+56c,Fruits Basket,8.6,TV-14,24 min,(2019–2021),7626
+57c,World's End Harem,5.9,TV-MA,24 min,(2021–2022),1393
+58c,Neon Genesis Evangelion: The End of Evangelion,8.1,TV-MA,87 min,(1997),59196
+59c,Paprika,7.7,R,90 min,(2006),88449
+60c,Why Raeliana Ended Up at the Duke's Mansion,7.4,,,(2023– ),366
+61c,The Wind Rises,7.7,PG-13,126 min,(2013),91136
+62c,Parasyte: The Maxim,8.3,TV-MA,22 min,(2014–2015),43018
+63c,Record of Ragnarok,6.4,TV-14,24 min,(2021– ),7266
+64c,Classroom of the Elite,7.7,TV-14,24 min,(2017– ),10007
+65c,Highschool of the Dead,7.2,TV-MA,24 min,(2010),14420
+66c,Jujutsu Kaisen 0,7.8,PG-13,112 min,(2021),24880
+67c,Goblin Slayer,7.5,TV-MA,30 min,(2018– ),8903
+68c,Overlord,7.7,TV-MA,30 min,(2015– ),11979
+69c,Fire Force,7.6,TV-14,23 min,(2019– ),9241
+70c,Violet Evergarden,8.4,TV-14,24 min,(2018),25928
+71c,Psycho-Pass,8.2,TV-MA,25 min,(2012– ),20708
+72c,Ultraman,6.8,TV-14,25 min,(2019–2023),2428
+73c,Akame ga Kill!,7.8,TV-MA,24 min,(2014),26866
+74c,Redo of Healer,6.4,TV-MA,24 min,(2021– ),4061
+75c,Dororo,8.3,Not Rated,30 min,(2019),16699
+76c,Is It Wrong to Try to Pick Up Girls in a Dungeon?,7.4,TV-14,24 min,(2015– ),9349
+77c,Dead Mount Death Play,6.9,,,(2023– ),421
+78c,Whisper of the Heart,7.8,G,111 min,(1995),67220
+79c,Ranking of Kings,8.5,TV-14,23 min,(2021– ),10585
+80c,Konosuba: God's Blessing on This Wonderful World!,7.8,TV-14,24 min,(2016–2023),13016
+81c,Belle,7.1,PG,121 min,(2021),14890
+82c,Food Wars,8.1,TV-14,24 min,(2015–2020),11267
+83c,I Want to Eat Your Pancreas,8.0,Not Rated,109 min,(2018),20543
+84c,The Cat Returns,7.1,G,75 min,(2002),60247
+85c,Serial Experiments Lain,8.1,TV-14,316 min,(1998),15504
+86c,Trigun Stampede,7.4,TV-14,24 min,(2023– ),1285
+87c,The Disastrous Life of Saiki K.,8.3,TV-14,24 min,(2016–2018),9130
+88c,The Garden of Words,7.4,TV-14,46 min,(2013),48769
+89c,Hellsing Ultimate,8.2,Not Rated,50 min,(2006–2012),24994
+90c,Elfen Lied,7.9,TV-MA,24 min,(2004),35144
+91c,Black Lagoon,7.9,TV-MA,25 min,(2006),16491
+92c,Rent-a-Girlfriend,7.1,TV-14,23 min,(2020– ),7010
+93c,Porco Rosso,7.7,PG,94 min,(1992),94915
+94c,Darling in the Franxx,7.3,TV-14,24 min,(2018),12138
+95c,Legend of the Galactic Heroes,9.0,TV-MA,25 min,(1988–1997),4054
+96c,Dragon Ball Super: Broly,7.7,PG,100 min,(2018),29715
+97c,Dota: Dragon's Blood,7.8,TV-MA,25 min,(2021– ),20627
+98c,When Marnie Was There,7.7,PG,103 min,(2014),44091
+99c,Banana Fish,8.2,TV-MA,22 min,(2018),7194
+100c,Gurren Lagann,8.3,TV-14,24 min,(2007),19649
+101c,From Up on Poppy Hill,7.4,PG,91 min,(2011),47777
+102c,My Teen Romantic Comedy SNAFU,7.9,TV-14,24 min,(2013–2023),7840
+103c,Skip and Loafer,7.9,,23 min,(2023– ),615
+104c,The Tale of The Princess Kaguya,8.0,PG,137 min,(2013),50113
+105c,Kingdom,8.5,TV-MA,25 min,(2012– ),2597
+106c,Death Parade,7.9,TV-MA,24 min,(2015),18247
+107c,Tales from Earthsea,6.3,PG-13,115 min,(2006),41927
+108c,The Rising of the Shield Hero,7.9,TV-14,24 min,(2019– ),15364
+109c,Ninja Scroll,7.8,Not Rated,94 min,(1993),39091
+110c,KILL la KILL,7.9,TV-14,25 min,(2013–2014),15649
+111c,Blade Runner: Black Lotus,6.3,TV-14,,(2021– ),3057
+112c,"Bastard!! Heavy Metal, Dark Fantasy",6.5,TV-MA,25 min,(2022– ),2042
+113c,Redline,7.5,Not Rated,102 min,(2009),15739
+114c,Kakegurui,7.1,TV-14,24 min,(2017– ),11402
+115c,Vampire Hunter D: Bloodlust,7.6,R,103 min,(2000),33653
+116c,5 Centimeters per Second,7.5,TV-PG,63 min,(2007),61068
+117c,How NOT to Summon a Demon Lord,7.0,TV-MA,24 min,(2018– ),4089
+118c,Belladonna of Sadness,7.3,Unrated,86 min,(1973),7043
+119c,A Whisker Away,6.7,TV-PG,104 min,(2020),12182
+120c,Only Yesterday,7.6,PG,119 min,(1991),34754
+121c,Nier: Automata Ver1.1a,7.4,TV-14,23 min,(2023– ),864
+122c,Memories,7.5,PG-13,113 min,(1995),19915
+123c,The Future Diary,7.5,TV-MA,25 min,(2011–2013),18764
+124c,Prison School,7.6,TV-MA,24 min,(2015–2016),6665
+125c,Call of the Night,7.4,TV-14,23 min,(2022– ),2336
+126c,Beastars,7.7,TV-MA,23 min,(2019– ),11285
+127c,Evangelion: 3.0+1.01 Thrice Upon a Time,8.0,TV-MA,154 min,(2021),12361
+128c,Deadman Wonderland,7.1,TV-MA,24 min,(2011),11377
+129c,"Don't Toy with Me, Miss Nagatoro",7.2,TV-14,24 min,(2021– ),4203
+130c,Ergo Proxy,7.9,TV-14,25 min,(2006),15308
+131c,Tomo-chan Is a Girl!,7.6,TV-14,23 min,(2023),1591
+132c,Angel's Egg,7.6,Not Rated,71 min,(1985 Video),10823
+133c,Wolf Children,8.1,PG,117 min,(2012),47187
+134c,Berserk: The Golden Age Arc I - The Egg of the King,7.5,TV-MA,76 min,(2012),13534
+135c,Heaven Official's Blessing,8.2,TV-14,,(2020– ),1985
+136c,Golden Boy,8.0,Not Rated,165 min,(1995–1996),6440
+137c,Gantz: O,7.1,,95 min,(2016),15951
+138c,Noragami,7.9,TV-14,24 min,(2014–2015),17404
+139c,The Quintessential Quintuplets,7.7,TV-PG,24 min,(2019–2021),6029
+140c,The Daily Life of the Immortal King,7.2,TV-14,18 min,(2020– ),1963
+141c,Cowboy Bebop: The Movie,7.8,TV-14,115 min,(2001),50878
+142c,Final Fantasy VII: Advent Children,7.2,PG-13,101 min,(2005),57292
+143c,Ghost in the Shell: Stand Alone Complex,8.5,TV-MA,24 min,(2002–2005),20334
+144c,Summoned to Another World for a Second Time,5.5,,,(2023– ),237
+145c,Pom Poko,7.3,PG,119 min,(1994),32154
+146c,Bubble,6.3,TV-PG,100 min,(2022),6977
+147c,The Animatrix,7.3,Unrated,100 min,(2003 Video),80410
+148c,Tokyo Godfathers,7.8,PG-13,92 min,(2003),43452
+149c,The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far,6.5,TV-14,,(2023– ),441
+150c,Vampire Hunter D,7.0,Not Rated,80 min,(1985),16638
+151c,Drifting Home,6.3,PG,119 min,(2022),3133
+152c,The Girl Who Leapt Through Time,7.7,TV-PG,98 min,(2006),68658
+153c,FLCL,8.1,TV-14,151 min,(2000–2001),18747
+154c,The Red Turtle,7.5,PG,80 min,(2016),36879
+155c,Buddy Daddies,8.0,TV-14,24 min,(2023),1231
+156c,"No Game, No Life",7.6,TV-14,23 min,(2014),17193
+157c,Mieruko-chan,7.2,TV-14,24 min,(2021– ),2100
+158c,Romantic Killer,7.6,TV-14,24 min,(2022),1963
+159c,Harem in the Labyrinth of Another World,6.3,TV-MA,24 min,(2022– ),1101
+160c,The Angel Next Door Spoils Me Rotten,7.4,TV-14,,(2023– ),1011
+161c,Vermeil in Gold: A Desperate Magician Barges Into the Magical World Alongside the Strongest Calamity,6.5,TV-MA,24 min,(2022– ),1247
+162c,Toradora!,8.0,TV-14,24 min,(2008–2009),17239
+163c,"Why the Hell are You Here, Teacher!?",6.3,TV-MA,12 min,(2019),1765
+164c,Date a Live,6.9,TV-14,25 min,(2013– ),3617
+165c,Yuri!!! On Ice,8.3,TV-14,20 min,(2016),9284
+166c,Monster Musume: Everyday Life with Monster Girls,6.6,TV-MA,23 min,(2015– ),2946
+167c,Welcome to the N.H.K.,8.3,TV-MA,24 min,(2006),7390
+168c,When They Cry,7.8,TV-MA,24 min,(2006),6141
+169c,Lupin III: The Castle of Cagliostro,7.6,,102 min,(1979),31930
+170c,ReLIFE,7.8,TV-14,24 min,(2016–2018),5696
+171c,Evangelion: 1.0 You Are (Not) Alone,7.6,PG-13,98 min,(2007),25942
+172c,Inuyashiki,7.7,Not Rated,24 min,(2017),4632
+173c,Kimi ni Todoke: From Me to You,7.8,TV-PG,24 min,(2009–2011),4567
+174c,The Reincarnation of the Strongest Exorcist in Another World,7.1,TV-14,23 min,(2023),647
+175c,Barefoot Gen,8.0,TV-PG,83 min,(1983),8421
+176c,"More Than a Married Couple, But Not Lovers.",7.4,,24 min,(2022– ),1433
+177c,Lupin III: The First,6.9,Not Rated,93 min,(2019),3447
+178c,Spice and Wolf,7.8,TV-14,24 min,(2008–2009),4754
+179c,Grand Blue,7.8,Not Rated,24 min,(2018),3695
+180c,Summer Wars,7.4,PG,114 min,(2009),30808
+181c,SK8 the Infinity,8.1,TV-14,,(2021– ),4021
+182c,Wonder Egg Priority,7.4,TV-MA,23 min,(2021– ),3580
+183c,Metropolis,7.2,PG-13,108 min,(2001),22067
+184c,Maquia: When the Promised Flower Blooms,7.4,Not Rated,115 min,(2018),7458
+185c,Nisekoi,7.2,TV-PG,25 min,(2014–2016),3852
+186c,"Welcome to Demon-School, Iruma-kun",7.7,TV-14,23 min,(2019– ),2024
+187c,Kiss x sis,6.0,TV-MA,24 min,(2010),2215
+188c,Sacrificial Princess & the King of Beasts,7.9,TV-14,23 min,(2023– ),80
+189c,Yasuke,6.2,TV-MA,30 min,(2021– ),5731
+190c,Mirai,7.0,PG,98 min,(2018),17111
+191c,Kubo Won't Let Me Be Invisible,7.1,TV-14,24 min,(2023– ),379
+192c,Boruto: Naruto The Movie,7.8,PG,95 min,(2015),11465
+193c,Neo Tokyo,7.0,,50 min,(1987),3982
+194c,The Boy and the Beast,7.6,PG-13,119 min,(2015),25555
+195c,Jin-Roh: The Wolf Brigade,7.3,R,102 min,(1999),17795
+196c,Made in Abyss: Dawn of the Deep Soul,8.0,TV-MA,113 min,(2020),4777
+197c,To the Forest of Firefly Lights,7.8,,45 min,(2011),20130
+198c,Aggretsuko,8.0,TV-14,15 min,(2018–2023),7052
+199c,Pengin haiwei,7.1,Not Rated,117 min,(2018),3470
+200c,Ghost in the Shell 2: Innocence,7.4,PG-13,100 min,(2004),39447
+201c,Spriggan,6.8,TV-MA,45 min,(2022– ),1335
+202c,Captain Tsubasa,8.2,TV-G,22 min,(2018–2019),1812
+203c,Haganai: I Don't Have Many Friends,7.0,TV-MA,25 min,(2011– ),2540
+204c,Danganronpa: The Animation,6.8,TV-14,25 min,(2013),2905
+205c,Space Dandy,8.1,TV-14,24 min,(2014),4371
+206c,Knights of the Zodiac: Saint Seiya,4.6,TV-14,24 min,(2019–2022),2104
+207c,Battle Angel,7.2,Not Rated,54 min,(1993),5626
+208c,School Days,5.9,TV-14,,(2007),2714
+209c,Resident Evil: Degeneration,6.4,R,98 min,(2008),32272
+210c,My Life as Inukai-san's Dog,4.3,TV-MA,,(2023– ),289
+211c,Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist,7.0,TV-MA,22 min,(2015– ),2785
+212c,Hajimete No Gal,6.1,TV-MA,24 min,(2017– ),1960
+213c,Mary and the Witch's Flower,6.8,PG,103 min,(2017),15263
+214c,To LOVE-Ru,6.4,TV-14,24 min,(2008–2010),1496
+215c,In This Corner (and Other Corners) of the World,7.8,PG-13,129 min,(2016),11793
+216c,Durarara!!,7.8,TV-14,24 min,(2010),7588
+217c,Aesthetica of a Rogue Hero,6.9,TV-MA,,(2012),1895
+218c,Stitch!,4.5,TV-Y7,,(2008–2015),319
+219c,Bakugan Battle Brawlers,5.6,TV-Y7,22 min,(2007–2011),3157
+220c,Yashahime: Princess Half-Demon,7.1,TV-14,,(2020– ),1147
+221c,Ghost in the Shell SAC_2045,6.4,TV-MA,25 min,(2020– ),2781
+222c,And You Thought There Is Never a Girl Online?,6.4,TV-MA,24 min,(2016),1395
+223c,The Place Promised in Our Early Days,6.9,TV-PG,90 min,(2004),14686
+224c,Heaven's Lost Property,7.2,TV-MA,,(2009–2010),1982
+225c,Wise Man's Grandchild,6.8,TV-14,24 min,(2019– ),2694
+226c,White Snake,7.0,,99 min,(2019),4865
+227c,Saekano: How to Raise a Boring Girlfriend,7.0,TV-14,24 min,(2015–2017),1434
+228c,Tekkonkinkreet,7.5,R,111 min,(2006),14115
+229c,My Hero Academia: Two Heroes,7.3,PG-13,96 min,(2018),11616
+230c,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,7.8,Not Rated,68 min,(2003),15169
+231c,My Hero Academia: Heroes Rising,7.8,PG-13,104 min,(2019),9030
+232c,Silver Fang,8.9,,25 min,(1986),3022
+233c,A Certain Scientific Railgun,7.5,TV-14,24 min,(2009– ),1738
+234c,Full Metal Panic!,7.6,TV-14,24 min,(2002–2006),5739
+235c,"The Night Is Short, Walk on Girl",7.5,PG-13,92 min,(2017),5794
+236c,Rosario + Vampire,6.9,TV-14,25 min,(2008),3442
+237c,Love Flops,6.1,,,(2022– ),337
+238c,Steamboy,6.8,PG-13,126 min,(2004),18249
+239c,Konosuba!: God's Blessing on This Wonderful World! - Legend of Crimson,7.8,Not Rated,90 min,(2019),4703
+240c,Karakai Jouzu no Takagi-san,7.7,TV-PG,23 min,(2018– ),2574
+241c,Kizumonogatari Part 1: Tekketsu,7.4,,64 min,(2016),3351
+242c,Sword of the Stranger,7.8,Not Rated,103 min,(2007),17578
+243c,The Iceblade Sorcerer Shall Rule the World,6.2,TV-14,,(2023),465
+244c,Dragon Ball Z: Revival Fusion,7.6,PG,51 min,(1995),11503
+245c,Battle of the Planets,7.6,TV-Y7,30 min,(1978–1980),2128
+246c,Sword Art Online the Movie: Ordinal Scale,7.3,TV-14,119 min,(2017),8611
+247c,Flavors of Youth,6.6,TV-PG,74 min,(2018),8072
+248c,Robotech,8.5,TV-Y7,30 min,(1985),3860
+249c,A Certain Magical Index,6.8,TV-14,23 min,(2008–2019),2156
+250c,My Neighbors the Yamadas,7.1,PG,104 min,(1999),15025
+251c,Fullmetal Alchemist the Movie: Conqueror of Shamballa,7.3,PG-13,105 min,(2005),11833
+252c,Btooom!,7.1,TV-MA,25 min,(2012),4451
+253c,Promare,7.0,PG-13,111 min,(2019),4786
+254c,Urusei Yatsura,7.0,TV-14,25 min,(2022– ),427
+255c,Free!,7.4,TV-PG,24 min,(2013– ),3399
+256c,Beyblade Burst,6.8,TV-Y7,24 min,(2016– ),703
+257c,Fist of the North Star,7.1,Not Rated,110 min,(1986),7073
+258c,Dead Leaves,7.1,Not Rated,55 min,(2004),4235
+259c,The Deer King,6.4,R,113 min,(2021),751
+260c,To Love-Ru - Darkness,7.0,TV-14,25 min,(2012–2017),1023
+261c,Yuuna and the Haunted Hot Springs,6.8,TV-14,24 min,(2018– ),631
+262c,Panty & Stocking with Garterbelt,7.3,TV-MA,23 min,(2010– ),2732
+263c,Ikki tousen,5.9,TV-MA,325 min,(2003– ),1233
+264c,Appleseed,6.9,R,101 min,(2004),18338
+265c,Chillin' in My 30s after Getting Fired from the Demon King's Army,6.7,TV-14,23 min,(2023),453
+266c,Robot Carnival,6.8,Unrated,90 min,(1987 Video),2755
+267c,The Hidden Dungeon Only I Can Enter,6.4,TV-14,24 min,(2021),1805
+268c,"WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",7.2,TV-14,25 min,(2013),2301
+269c,Handyman Saitou in another world,7.0,TV-14,23 min,(2023),502
+270c,Zombieland Saga,7.1,TV-MA,24 min,(2018– ),1316
+271c,Appleseed Alpha,6.5,PG-13,93 min,(2014),8676
+272c,A Place Further Than the Universe,8.2,,23 min,(2018),2537
+273c,Yu-Gi-Oh!: The Movie - Pyramid of Light,4.9,PG,90 min,(2004),8854
+274c,The Garden of Sinners: Overlooking View,7.0,,49 min,(2007),2596
+275c,Immoral Guild,6.1,,,(2022),256
+276c,Revenger,6.5,TV-MA,23 min,(2023– ),312
+277c,Patlabor: The Movie,7.0,Unrated,100 min,(1989),5391
+278c,Blood: The Last Vampire,6.6,Not Rated,48 min,(2000),12991
+279c,Tsuredure Children,7.3,TV-14,13 min,(2017– ),1992
+280c,Stand by Me Doraemon,7.3,TV-PG,95 min,(2014),8741
+281c,Yamada-kun to 7-nin no Majo,7.2,TV-14,24 min,(2014–2015),2364
+282c,Tsugumomo,6.6,TV-MA,,(2017–2020),426
+283c,Wings of Honneamise,7.2,Unrated,121 min,(1987),5538
+284c,Kase-san and Morning Glories,7.2,,58 min,(2018),705
+285c,The 8th Son? Are You Kidding Me?,6.5,,24 min,(2020– ),1157
+286c,Radiant,6.7,TV-PG,24 min,(2018– ),578
+287c,Trigun: Badlands Rumble,7.4,TV-14,90 min,(2010),5685
+288c,Yu-Gi-Oh!: The Dark Side of Dimensions,6.9,PG,130 min,(2016),3310
+289c,The Marginal Service,5.1,,,(2023),36
+290c,Daily Lives of High School Boys,7.8,TV-PG,24 min,(2012),2693
+291c,Is this a Zombie?,6.9,TV-MA,25 min,(2011–2012),1846
+292c,Tsukigakirei,7.8,TV-14,24 min,(2017),2244
+293c,Eden,6.6,TV-Y7,25 min,(I) (2021– ),1344
+294c,Roujin Z,6.8,PG-13,80 min,(1991),2975
+295c,Astro Boy,6.9,TV-Y7,30 min,(2003–2004),536
+296c,Bobobo-bo Bo-bobo,7.1,TV-Y7-FV,26 min,(2003–2005),944
+297c,Bottom-Tier Character Tomozaki,7.0,,24 min,(2021– ),1120
+298c,Our Last Crusade or the Rise of a New World,6.4,TV-14,23 min,(2020– ),846
+299c,Senpai ga Uzai Kouhai no Hanashi,7.4,TV-14,,(2021– ),1069
+300c,Thermae Romae Novae,7.0,TV-MA,30 min,(2022),1077
+301c,Dakaichi: I'm Being Harassed by the Sexiest Man of the Year-,7.3,,24 min,(2018– ),1150
+302c,"Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",6.3,TV-14,23 min,(2019– ),908
+303c,The Pet Girl of Sakurasou,7.7,TV-14,24 min,(2012–2013),4821
+304c,Kenji Miyazawa's Night on the Galactic Railroad,7.0,Unrated,113 min,(1985),2210
+305c,Raven of the Inner Palace,7.4,,23 min,(2022),296
+306c,Idaten Jump,8.2,TV-PG,20 min,(2005–2006),640
+307c,Majikoi ~ Oh! Samurai Girls,5.7,TV-14,,(2011–2012),332
+308c,Dragonaut: The Resonance,6.2,TV-14,25 min,(2007–2009),130
+309c,Magical Sempai,6.2,TV-14,15 min,(2019– ),634
+310c,Love Tyrant,6.3,TV-14,24 min,(2017),838
+311c,The World God Only Knows,7.3,TV-14,24 min,(2010–2013),1119
+312c,Okko's Inn,7.1,PG,94 min,(2018),2148
+313c,Splinter Cell,,,,,
+314c,Colorful,7.4,TV-14,126 min,(2010),6707
+315c,Project A-Ko,6.9,Unrated,86 min,(1986),1388
+316c,Oban Star Racers: The Alwas Cycle,8.0,TV-Y7,25 min,(2006),2017
+317c,Urusei Yatsura 2: Beautiful Dreamer,7.4,Unrated,90 min,(1984),2109
+318c,Stand by Me Doraemon 2,7.5,Not Rated,96 min,(2020),4443
+319c,Black Cat,7.0,TV-PG,25 min,(2005–2006),1169
+320c,Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World,6.0,TV-14,,(2023),415
+321c,Are You Really the Only One Who Likes Me,7.0,TV-14,,(2019– ),1114
+322c,Medabots,6.7,TV-Y7,30 min,(1999–2004),2411
+323c,Macross: Do You Remember Love?,7.7,Not Rated,114 min,(1984),3294
+324c,O Maidens in Your Savage Season,7.2,TV-14,24 min,(2019– ),840
+325c,Astro Boy,7.4,TV-Y7,30 min,(1963–1965),993
+326c,Mobile Suit Gundam ZZ,6.8,TV-Y7,30 min,(1986–1987),655
+327c,Koi to uso,6.1,TV-14,24 min,(2017– ),746
+328c,Witch Craft Works,6.7,TV-14,22 min,(2014–2015),553
+329c,The Kingdom of Dreams and Madness,7.7,Not Rated,118 min,(2013),5422
+330c,Malevolent Spirits: Mononogatari,6.8,TV-14,,(2023– ),149
+331c,Made in Abyss: Journey's Dawn,7.4,,119 min,(2019),776
+332c,Wonderland,3.6,Unrated,80 min,(2011),362
+333c,A Dog's Courage,6.1,TV-PG,102 min,(I) (2018),198
+334c,Maoyu ~ Archenemy & Hero,6.9,TV-14,23 min,(2013– ),749
+335c,Venus Wars,6.6,Not Rated,103 min,(1989),1866
+336c,Boarding School Juliet,7.3,Not Rated,24 min,(2018),831
+337c,Didn't I Say to Make My Abilities Average in the Next Life?!,6.5,TV-14,23 min,(2019),726
+338c,Bright: Samurai Soul,5.5,TV-14,80 min,(2021),979
+339c,"Play it Cool, Guys",7.2,,,(2022–2023),166
+340c,Time of Eve,7.2,,106 min,(2010),3979
+341c,Terminator Salvation: The Machinima Series,5.4,TV-14,14 min,(2009),598
+342c,When Supernatural Battles Became Commonplace,6.5,TV-14,24 min,(2014),526
+343c,Princess Connect! Re: Dive,6.4,TV-14,23 min,(2020– ),575
+344c,Children of the Whales,7.0,TV-MA,24 min,(2017),1701
+345c,"My Sister, My Writer",4.1,,24 min,(2018– ),170
+346c,Modest Heroes,6.6,PG,53 min,(2018),2937
+347c,Armed Girl's Machiavellism,6.6,TV-14,,(2017),463
+348c,Amagi Brilliant Park,7.0,TV-14,24 min,(2014–2015),1271
+349c,Dragons of Wonderhatch,,,,,
+350c,Pui Pui Molcar,8.1,TV-Y7,2 min,(2021– ),519
+351c,Myriad Colors Phantom World,6.3,TV-14,24 min,(2016– ),859
+352c,Digimon Frontier,6.7,TV-Y7,,(2002–2003),2800
+353c,Cat Soup,7.6,Not Rated,34 min,(2001),5713
+354c,Eternights,,,,(2023 Video Game),
+355c,Dusk Maiden of Amnesia,7.3,TV-14,24 min,(2012),1118
+356c,Mega Man,6.6,TV-Y7,22 min,(1994–1995),1093
+357c,Revolutionary Girl Utena: The Movie,7.2,Not Rated,100 min,(1999),1686
+358c,Digimon Tamers,7.6,TV-Y7,,(2001–2002),2193
+359c,Konohana Kitan,7.2,,23 min,(2017– ),259
+360c,"Saving 80,000 Gold in Another World for my Retirement",6.5,TV-14,,(2023),262
+361c,Her Blue Sky,6.8,,106 min,(2019),1343
+362c,Les Miserables: Shoujo Cosette,8.1,,24 min,(2007),346
+363c,Appleseed: Ex Machina,7.0,PG-13,105 min,(2007),9759
+364c,Teknoman,8.4,TV-Y7,,(1995),86
+365c,Vexille,6.8,PG-13,109 min,(2007),7785
+366c,Monster Hunter: Legends of the Guild,5.1,TV-14,58 min,(2021 TV Movie),1423
+367c,Ghost in the Shell: SAC_2045 - Sustainable War,5.9,,119 min,(2021),406
+368c,The Murder of Sonic the Hedgehog,8.1,E,,(2023 Video Game),66
+369c,Horus: Prince of the Sun,6.6,Not Rated,82 min,(1968),2396
+370c,Galaxy Express 999,7.4,PG,129 min,(1979),2217
+371c,Poupelle of Chimney Town,6.4,PG,100 min,(2020),559
+372c,Pokémon the Movie: The Power of Us,6.2,Not Rated,100 min,(2018),2809
+373c,Mysterious Girlfriend X,7.1,TV-MA,30 min,(2012– ),917
+374c,Burn the Witch,6.7,,63 min,(2020),1065
+375c,The Anthem of the Heart,7.3,,119 min,(2015),6066
+376c,Mobile Suit Gundam Thunderbolt,7.6,,,(2015–2017),71
+377c,Genius Party,6.9,Not Rated,102 min,(2007),1597
+378c,Zoids: Chaotic Century,7.9,TV-Y7,,(1999– ),663
+379c,Origin: Spirits of the Past,6.3,Not Rated,94 min,(2006),4771
+380c,Beelzebub,7.5,TV-MA,,(2011–2012),2191
+381c,Beyblade X,,,,,
+382c,Blend S,6.9,TV-14,23 min,(2017),1406
+383c,Arcadia of My Youth,7.1,Not Rated,130 min,(1982),963
+384c,Assassin(s),6.5,,128 min,(1997),2174
+385c,Too Cute Crisis,7.0,,,(2023– ),60
+386c,THE IDOLM@STER CINDERELLA GIRLS U149,7.3,TV-14,24 min,(2023– ),23
+387c,Snow Daze,6.8,M,,(2018 Video Game),31
+388c,Aho Girl,6.6,,12 min,(2017),1215
+389c,Class of '09,7.1,M,,(2021 Video Game),9
+390c,Digimon Adventure 02,7.4,TV-G,30 min,(2000–2001),1808
+391c,Astro Boy,7.3,TV-G,24 min,(1980–2004),959
+392c,Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desuka?,5.2,TV-MA,24 min,(2019– ),493
+393c,Ultramarine Magmell,6.1,TV-14,24 min,(2019),731
+394c,Armitage III: Dual Matrix,6.3,Not Rated,90 min,(2001 Video),1204
+395c,Cardfight!! Vanguard,5.8,,25 min,(2011– ),136
+396c,The Dog of Flanders,7.7,Not Rated,93 min,(1997),681
+397c,Kizuna No Allele,4.1,,,(2023– ),26
+398c,I Want You to Show Me Your Panties with a Disgusted Face,5.3,,4 min,(2018),117
+399c,Linkin Park: Lost,8.3,,3 min,(2023 Music Video),29
+400c,Giovanni's Island,7.3,,102 min,(2014),2140
+401c,Mai Mai Miracle,6.9,,93 min,(2009),1166
+402c,Chibi Godzilla Raids Again,,,3 min,(2023),
+403c,Mato Seihei no Slave,,,,(2024– ),
+404c,Lovesick,4.9,,90 min,(2011),192
+405c,The Fire Hunter,6.3,TV-14,24 min,(2023– ),118
+406c,Engine Sentai Go-onger,6.4,TV-PG,25 min,(2008–2009),130
+407c,Oni,7.9,T,,(2001 Video Game),208
+408c,The Idolm@ster,6.6,,30 min,(2011),211
+409c,Maria the Virgin Witch,6.7,TV-MA,24 min,(2015– ),321
+410c,Master Keaton,7.9,,30 min,(1998–2000),204
+411c,RWBY Chibi,7.6,TV-PG,85 min,(2016– ),585
+412c,The Adventures of Tyrano Boy,6.2,,82 min,(2015),20
+413c,Robotech: The Shadow Chronicles,6.3,PG,88 min,(2006),1600
+414c,Monsuno,4.9,TV-Y7,,(2011– ),633
+415c,Dragon Crisis!,6.0,,,(2011– ),175
+416c,Macross Plus Movie Edition,7.6,,115 min,(1995),648
+417c,This Art Club Has a Problem!,6.6,TV-PG,24 min,(2016– ),401
+418c,Doraemon the Movie: Nobita's Dinosaur,7.1,PG,107 min,(2006),1369
+419c,I Want You to Show Me Your Panties with a Disgusted Face 2,6.2,,6 min,(2019),62
+420c,Slug Street Scrappers: Beat Em Up,8.2,Not Rated,79 min,(2013),105
+421c,Never-Ending Man: Hayao Miyazaki,6.8,,70 min,(2016 TV Movie),788
+422c,Vandread,7.0,TV-14,,(2000–2001),897
+423c,Puppet Princess,6.8,Not Rated,40 min,(2000 Video),106
+424c,"How Clumsy You Are, Miss Ueno.",5.8,,15 min,(2019– ),184
+425c,The Dragon from Russia,5.5,,96 min,(1990),454
+426c,Take My Brother Away!,7.1,,3 min,(2017–2020),190
+427c,Muse Dash,7.3,T,,(2018 Video Game),25
+428c,Spirit Blade Mountain,6.7,,,(2016– ),109
+429c,Pole Position,6.5,TV-Y7,30 min,(1984–1985),338
+430c,Prince Planet,8.1,,30 min,(1965–1966),208
+431c,Naruto Shippûden: Ultimate Ninja Storm 3,8.1,T,,(2013 Video Game),643
+432c,Ground Control to Psychoelectric Girl,6.6,TV-Y,24 min,(2011– ),256
+433c,Space Battleship Yamato,7.2,G,135 min,(1977),404
+434c,Biohazard 4D: Executer,5.6,,19 min,(2000),535
+435c,Kimagure Orange Road: I Want to Return to That Day,7.6,,69 min,(1988),501
+436c,MM!,6.8,TV-MA,,(2010),236
+437c,Musical Kuroshitsuji: Noah's Ark Circus,7.9,,190 min,(2017),23
+438c,Pingu in the City,7.3,TV-G,7 min,(2017–2019),177
+439c,Ginga e Kickoff,7.9,,,(2012–2013),38
+440c,GirlFight: inVite,5.7,Not Rated,13 min,(2016),379
+441c,Different Kinds of Rain,6.1,,91 min,(2017),396
+442c,Otaku,6.7,,52 min,(1994),173
+443c,Marvel vs. Capcom 2: New Age of Heroes,8.2,T,,(2000 Video Game),834
+444c,THE IDOLM@STER CINDERELLA GIRLS,6.2,TV-14,24 min,(2014–2015),145
+445c,Rock Bottom,6.3,,53 min,(II) (2020),14
+446c,Daigunder,8.6,,30 min,(2002),104
+447c,BlackedTheAnime,1.6,TV-Y,,(2020– ),1082
+448c,Ultraman X: Here He Comes! Our Ultraman,6.1,,73 min,(2016),164
+449c,Afro Samurai Champloo,7.7,,30 min,(2019),12
+450c,Zoe and the Astronaut,6.1,,88 min,(2018),109
+451c,Pretty Rhythm: Aurora Dream,8.0,,30 min,(2011–2012),28
+452c,Kunoichi Tsubaki no mune no uchi,6.4,,,(2022– ),171
+453c,Dark Cat,4.4,,60 min,(1991),121
+454c,Gal Guardians: Demon Purge,,T,,(2023 Video Game),
+455c,Adam Chaplin 2,,,,,
+456c,Flint: The Time Detective,5.9,TV-Y7,30 min,(1998–1999),265
+457c,Maximillian,4.1,,72 min,(2019),120
+458c,Re: Zero kara hajimeru isekai seikatsu: Death or Kiss,8.5,,,(2017 Video Game),85
+459c,Final Fantasy VII: Advent Children Bonus Disc,7.1,Not Rated,,(2006 Video),28
+460c,The Klutzy Witch: Fuka and the Witch of Darkness,,,,(2023),
+461c,Oblivion Island: Haruka and the Magic Mirror,6.8,TV-G,93 min,(2009),739
+462c,PERSONA3 the Movie #3 Falling Down,6.5,Not Rated,83 min,(2015),464
+463c,Marvel vs. Capcom: Clash of Super Heroes,8.1,T,,(1998 Video Game),695
+464c,Castlevania: Aria of Sorrow,8.2,T,,(2003 Video Game),367
+465c,Kureyon Shinchan: Arashi o Yobu: Utau Ketsudake Bakudan!,6.3,,102 min,(2007),99
+466c,Please Tell Me! Galko-chan,7.0,TV-14,8 min,(2016–2017),313
+467c,Moero! Top Striker,7.8,,25 min,(1992–1993),297
+468c,Shinzo,7.4,TV-Y7,,(2000–2001),264
+469c,Go Go Anime!,,Not Rated,60 min,(2004 Video),
+470c,Evil Zone,8.2,T,,(1999 Video Game),46
+471c,Date A Bullet: Nightmare or Queen,6.7,,29 min,(2020),115
+472c,Japan Sinks: 2020 Theatrical Edition,6.5,,151 min,(2020),17
+473c,Policenauts,8.4,,,(1994 Video Game),148
+474c,Tales of the Abyss,7.9,T,,(2005 Video Game),234
+475c,The King of Fighters XV,7.6,T,,(2021 Video Game),61
+476c,Tales of Vesperia,8.2,T,,(2008 Video Game),308
+477c,Anime Abandon,6.1,TV-14,,(2011– ),158
+478c,Jujutsu kaisen: Jujutôku,,,,(2021 Podcast Series),
+479c,22/7,6.6,TV-14,24 min,(2020– ),57
+480c,Afterimage,,E10+,,(2023 Video Game),
+481c,Love & Loathing & Lulu & Ayano,5.9,,105 min,(2010),133
+482c,Model Combat,,TV-MA,,(2019),
+483c,Pani poni dasshu!,6.6,TV-PG,23 min,(2005– ),210
+484c,The Rapture,6.7,Not Rated,96 min,(2007 Video),49
+485c,My Neck,,,,(2021– ),
+486c,THE iDOLM@STER MILLION LIVE!,,,,(2023– ),
+487c,Fame-ish,5.1,Not Rated,94 min,(2020),80
+488c,Chronexia and the Eight Seals,2.3,,,(2016– ),22
+489c,Cowboy Bebop: The Movie - Featurettes,8.2,Not Rated,42 min,(2003),383
+490c,Garasu no kamen,7.6,TV-PG,24 min,(1984),76
+491c,Untitled Dragon Ball & Animes Mix Movie,,,,,
+492c,Shonen Jump: Naruto the Movie - Ninja Clash in the Land of Snow - Making Movies Ninja Style,6.6,Not Rated,20 min,(2007 Video),10
+493c,Maken-ki! Two: Takeru Turns into a Woman!? Naked in a Southern Island!,7.8,,,(2013 Video),12
+494c,Bright Memory: Infinite,6.8,,,(2021 Video Game),69
+495c,AnimeTV,4.4,,,(2010– ),20
+496c,Coffee Talk,7.2,T,,(2020 Video Game),93
+497c,Gal*Gun: Double Peace,5.7,M,,(2015 Video Game),22
+498c,Slug Street Scrappers: Rise of Ryuken,8.3,Unrated,49 min,(2012),77
+499c,Future Folktales,8.0,,23 min,(2020),56
+500c,CrossCode,8.4,T,,(2018 Video Game),31
+501c,Corpse Factory,,,,(2022 Video Game),
+502c,Mega Man 8,6.8,K-A,,(1996 Video Game),331
+503c,Yume no Hoshi no Button Nose,8.2,,24 min,(1985–1986),39
+504c,Petite Princess Yucie,7.4,TV-PG,25 min,(2002–2003),88
+505c,The Idolmaster Movie: Beyond the Brilliant Future!,6.6,,121 min,(2014),123
+506c,Mecha-Ude,6.6,,25 min,(2018 Video),27
+507c,Carried by the Wind: Tsukikage Ran,7.3,,,(2000),76
+508c,Oishinbo,7.8,,23 min,(1988–1992),21
+509c,Corrector Yui,7.1,TV-Y7,,(1999–2000),62
+510c,Madonna: Drowned World Tour 2001,8.5,R,105 min,(2001 TV Special),1383
+511c,Rockman.exe Stream,7.4,TV-14,30 min,(2004–2005),29
+512c,VA-11 Hall-A,8.1,M,,(2016 Video Game),86
+513c,8 Man,5.6,,83 min,(1992),98
+514c,Himitsu no Akko-chan,6.7,,24 min,(1988– ),11
+515c,Maerchen Maedchen,5.4,,23 min,(2018– ),101
+516c,Cooking with Valkyries,6.6,,,(2019– ),15
+517c,Sekirei: Kusano's First Shopping Trip,7.3,,10 min,(2009 Video),60
+518c,X-Blades,5.8,M,,(2007 Video Game),43
+519c,Saint October,7.6,,,(2007),14
+520c,LOVE LIVE HINA: Hinata Girls ga Osaka na,,,65 min,(2000 Video),
+521c,Flaming Alpine Rose: Jeudi & Lundi,7.6,,24 min,(1985),21
+522c,Deep Space Waifu,,M,,(2017 Video Game),
+523c,Hurricane Polimar,7.6,,25 min,(1974–1975),75
+524c,Slug Street Scrappers,8.3,Unrated,16 min,(2012),49
+525c,Otaku Unite!,6.6,,70 min,(2004),78
+526c,Naruto the Movie 2: The Legend of the Stone of Gelel - Write and Adapt like a Ninja,,Not Rated,23 min,(2006 Video),
+527c,The World of Dragon Ball Z,6.8,Not Rated,20 min,(2000 Video),54
+528c,Soul of Darkness,,T,,(2010 Video Game),
+529c,Animenia,6.5,Not Rated,,(2008– ),28
+530c,Puchimas!: Petit Idolm@ster,5.0,,3 min,(2013–2014),43
+531c,IDOLiSH7 Vibrato,8.2,,14 min,(2018 TV Short),30
+532c,Boku no Son Goku,,,95 min,(2003),
+533c,"Patrasche: A Dog of Flanders, Made in Japan",7.3,,90 min,(2007),28
+534c,Solatorobo: Red the Hunter,7.2,E10+,,(2010 Video Game),14
+535c,Himote House,7.5,,,(2018),84
+536c,Archangel Alpha,,,,(2016),
+537c,Anxiety,,,,(2018– ),
+538c,Kurogane Communication,6.8,TV-PG,15 min,(1998– ),42
+539c,Onmyô taisenki,8.2,,30 min,(2004–2005),21
+540c,America's Greatest Otaku,4.8,,,(2011– ),19
+541c,The Adventures of Qiaohu Magic Island,,,80 min,(2021),
+542c,Battle Spirits: Shounen Gekiha Dan,,,24 min,(2009–2010),
+543c,Dragon Ball Z: Ultimate Battle 22,5.9,T,,(1995 Video Game),143
+544c,Hood,7.5,,20 min,(2011),13
+545c,Mars Daybreak,7.3,TV-PG,,(2004– ),60
+546c,Moyashimon,5.3,,24 min,(2010– ),15
+547c,Jushin Riger,8.4,,30 min,(1989–1990),25
+548c,A Moderate Folly,,,95 min,(2020),
+549c,Pokémon Puzzle League,7.0,E,,(2000 Video Game),126
+550c,Gunslinger Stratos: The Animation,5.7,TV-14,,(2015),88
+551c,Wakakusa no Shârotto,6.5,,24 min,(1977–1978),24
+552c,Batoru sutajiamu D.O.N.,7.0,,,(2006 Video Game),47
+553c,Gambo,6.9,,12 min,(2013),22
+554c,Mr. Massagy,4.8,M,,(2016 Video Game),16
+555c,The 44th Chamber of Shaolin,,,14 min,(2023),
+556c,Precure All Stars New Stage 2,7.3,,,(2013),10
+557c,Prince of Tennis: Atobe's Gift,6.6,,,(2005),27
+558c,Death Note,7.6,,10 min,(II) (2017),7
+559c,Anime Fan Tom,8.2,Not Rated,71 min,(2010),11
+560c,The Casebook of Charlotte Holmes,6.6,,24 min,(1977–1978),22
+561c,Litchi DE Hikari Club,4.0,,3 min,(2012),32
+562c,A Girl in a Lower Grade,,,,(1999),
+563c,Planetarian: Snow Globe,7.1,,36 min,(2021 TV Special),23
+564c,Technotise,,,,,
+565c,The Wings of Rean,5.8,TV-PG,25 min,(2005– ),16
+566c,Rokudenashi blues,,,87 min,(1996),
+567c,19 Letters,8.2,,,(2018– ),9
+568c,Dragon Force,8.4,K-A,,(1996 Video Game),27
+569c,Master Keaton,,,,(1999–2000),
+570c,Initial D: Battle Stage 3,5.6,,93 min,(2021 Video),17
+571c,A Demon's Destiny: The Lone Warrior,4.2,TV-14,,(2009– ),10
+572c,My Other Me: A Film About Cosplayers,8.0,Not Rated,85 min,(2013),88
+573c,MarzGurl Reviews,5.8,TV-PG,20 min,(2008– ),73
+574c,Zettai Karen Children: Gentei kaikin!! OVA chou sakidori special!!,,,16 min,(2010 Video),
+575c,The Mirror/Anime,,,,,
+576c,Voice of Fox,7.0,,15 min,(2018),24
+577c,Mock & Sweet,7.6,,24 min,(1986–1987),24
+578c,Re: Stage! Dream Days,6.1,TV-14,,(2019– ),16
+579c,Battle Spirits: The Core Bearers,,,24 min,(2022),
+580c,Kaiketsu Zorori the Movie: Secret Of,,,,(2017),
+581c,Nekopara OVA: Koneko no hi no yakusoku,6.7,,21 min,(2018 Video),14
+582c,Shattered Heaven,,,15 min,(2013– ),
+583c,Linking Love,6.4,,116 min,(2017),22
+584c,Sekai Meisaku Gekijou Kanketsu Ban: Romeo no Aoi Sora Part 1,,,45 min,(2001 TV Special),
+585c,Ikimono-san,,,2 min,(2023– ),
+586c,Pluster World,8.1,,,(2003–2004),10
+587c,THE IDOLM@STER CINDERELLA GIRLS Theater,6.8,TV-14,3 min,(2017–2019),8
+588c,Maesetsu!,6.2,TV-14,,(2020),20
+589c,Did You Know Anime?,7.0,,,(2014– ),29
+590c,Pokémon Channel,4.9,E,,(2003 Video Game),67
+591c,Rex Park: Curse of the Golden Buddha,,,80 min,(2021),
+592c,Pothound,7.6,,11 min,(2011),29
+593c,Milk inside a bag of milk inside a bag of milk,7.0,T,,(2020 Video Game),39
+594c,Tales of Legendia,7.6,T,,(2005 Video Game),81
+595c,Record of Lodoss War: Deedlit in Wonder Labyrinth,7.4,,,(2020 Video Game),20
+596c,III on a Match,,,,,
+597c,Pink mizu-dorobô ame-dorobô,6.4,,30 min,(1990),23
+598c,Lycoris That Blazes the Earth,,,175 min,(2014 Video),
+599c,Method: A Voice Actor Prepares,,,12 min,(2022),
+600c,Sekai Meisaku Gekijou Kanketsu Ban: Daisougen no Chiisana Tenshi Bush Baby Part 1,,,45 min,(2001 TV Special),
+601c,Zorori the Naughty Hero: The secret of ZZ,8.1,,70 min,(2017),21
+602c,Uta no prince-sama - Revolutions,7.0,,24 min,(2015),47
+603c,Blazing Transfer Student,6.3,,46 min,(1991 Video),16
+604c,Wansa-kun,8.1,,30 min,(1973),12
+605c,Battle Spirits: Gallet's Revolution,,,24 min,(2020– ),
+606c,Aikatsu on Parade!,6.4,TV-Y,24 min,(2019– ),11
+607c,Enfrentamiento para Compartir un Paraguas,,,11 min,(2022),
+608c,Coffee Talk: Hibiscus & Butterfly,6.4,T,,(2023 Video Game),12
+609c,WCW SuperBrawl II,7.0,,,(1992 TV Special),77
+610c,Three Little Ghosts,6.9,,26 min,(1991–1992),15
+611c,Anime: Drawing a Revolution,6.6,,54 min,(2007 TV Movie),84
+612c,Yuki Kajiura Live Vol. 1 Reprise,,,,(2020 TV Special),
+613c,Super Real Mahjong PIV,,,,(1993 Video Game),
+614c,Cold Dark Mirror,6.4,,85 min,(2015),9
+615c,Sekai Meisaku Gekijou Kanketsu Ban: Romeo no Aoi Sora Part 2,,,45 min,(2001 TV Special),
+616c,Panel de Pon,7.3,E,,(1995 Video Game),25
+617c,Tokio Baby,5.2,,28 min,(2010),61
+618c,Demon Turf,,E10+,,(2021 Video Game),
+619c,Million Doll,7.8,TV-14,,(2015),70
+620c,Yu Yu Hakusho 100% Serious Battle,5.3,,,(2018 Video Game),9
+621c,Dragon Ball: Advanced Adventure,7.6,E10+,,(2004 Video Game),18
+622c,E.X. Troopers,,,,(2012 Video Game),
+623c,Bright Memory,6.2,M,,(2019 Video Game),56
+624c,Tales of Destiny,7.9,,,(2006 Video Game),10
+625c,9 Years of Shadows,,,,(2023 Video Game),
+626c,Crimson Tears,7.3,T,,(2004 Video Game),17
+627c,Vanguard Bandits,8.0,T,,(1999 Video Game),25
+628c,Danchi Tomoo,,,30 min,(2013–2015),
+629c,Alundra,7.9,T,,(1997 Video Game),135
+630c,BlazBlue: Chrono Phantasma,7.4,T,,(2012 Video Game),59
+631c,Otaku Movie Anatomy,,,60 min,(2015– ),
+632c,Cliff Hanger,7.5,,,(1983 Video Game),47
+633c,Sekai Meisaku Gekijou Kanketsu Ban: Akage no Anne Part 1,,,45 min,(2001 TV Special),
+634c,Fortune Quest,,,25 min,(1997– ),
+635c,Ishida and Asakura,,,,(2020– ),
+636c,Tales of Destiny,7.5,T,,(1997 Video Game),60
+637c,Beckii: Schoolgirl Superstar at 14,5.9,,57 min,(2010 TV Movie),14
+638c,Lupin III - Speciale L'Avventura Italiana,,,30 min,(2015 TV Movie),
+639c,Dragon Ball Z for Kinect,2.6,T,,(2012 Video Game),36
+640c,Bento Monogatari,7.3,,27 min,(2010),72
+641c,The Witch's House MV,7.8,M,,(2018 Video Game),14
+642c,Invasion: Anime,7.0,Unrated,,(2002),13
+643c,Cosplayers: The Movie,2.8,,44 min,(2009 Video),24
+644c,Himote House OVA,,,16 min,(2020 Video),
+645c,Tottoko Hamutarou 2: Hamu-chanzu Daishuugou Dechu,,E,,(2001 Video Game),
+646c,Dead Estate,7.5,M,,(2021 Video Game),9
+647c,Fans and Freaks: The Culture of Comics and Conventions,8.6,,80 min,(2002),29
+648c,Super Sentai Spirits 2004 Live,,,130 min,(2005 Video),
+649c,"Farewell, FamiKamen Rider",6.3,,120 min,(2015),24
+650c,Ro-Kyu-Bu! Tomoka no ichigo sunday,,,25 min,(2013 Video),
+651c,Tales of Destiny II,8.2,T,,(2000 Video Game),80
+652c,Valdis Story: Abyssal City,,,,(2013 Video Game),
+653c,Animania: The Documentary,,,24 min,(2007 TV Movie),
+654c,Pachinko Sexy Reaction,,,,(1998 Video Game),
+655c,Executions: The Making of 'The Animatrix',7.7,,55 min,(2003 Video),164
+656c,Rave Master: Special Attack Force,6.9,T,,(2005 Video Game),12
+657c,Steam Punk and the Next Generation,,,,(2011),
+658c,Tsukikage no Tokio,6.1,,7 min,(2015),8
+659c,The Legend of the Mystical Ninja Starring Goemon,8.2,E,,(1998 Video Game),80
+660c,1 on 1's w/Deuces,,,,(2020– ),
+661c,Azure Striker Gunvolt: The Anime,,T,22 min,(2017 Video),
+662c,Eiyuu Gaiden Mozaicka,7.0,,,(1991),9
+663c,Paranormasight: The Seven Mysteries of Honjo,8.2,M,,(2023 Video Game),6
+664c,Sync,8.0,,74 min,(II) (2016),13
+665c,Kono Mangga ga Sugoi!,,,,(2018),
+666c,Shimajiro Armor Hero: The Version,,,60 min,(2020),
+667c,Yûsha tokkyû Might Gaine,7.5,,,(1993– ),16
+668c,Nodojiman the World,,,,(2018 TV Movie),
+669c,"Akai Shouzou: Char, Soshite Frontal e",,,98 min,(2010),
+670c,Neon Genesis Evangelion: Ayanami Raising Project with Asuka Complement Project,,,,(2003 Video Game),
+671c,Power Stone,7.8,,,(1999 Video Game),69
+672c,Neon Genesis Evangelion: That Little Red-Haired Girl,5.3,Not Rated,7 min,(2005 Video),9
+673c,Con Trek,,,17 min,(2009– ),
+674c,Super-Happy Kill Time,8.2,,3 min,(2017– ),26
+675c,Tales of Destiny 2,,,,(2002 Video Game),
+676c,Yu Yu Hakusho: Dark Tournament,6.8,T,,(2004 Video Game),21
+677c,Saturday Night Stream,,,180 min,(2015– ),
+678c,Ichigeki Sacchuu!! Hoihoi-san,5.9,,15 min,(2004 Video),11
+679c,Ultraman Super Fighter Legend,,,40 min,(1996 Video),
+680c,Duel Masters Zero,,,,(2007–2008),
+681c,Toonami: Broken Promise (Dreams),6.8,,3 min,(2001 Music Video),11
+682c,Assholitis,,,6 min,(2017),
+683c,Magnos the Robot,,,90 min,(1983),
+684c,Shabu Shabu Manga,,,14 min,(2009),
+685c,Lost in Fansubs,,PG-13,60 min,(2009 Video),
+686c,"Dragon Ball Z: Battle of Gods, Behind the Scenes - Battle of Voice Actors",6.2,,10 min,(2014 Video),7
+687c,Sekai Meisaku Gekijou Kanketsu Ban: Peter Pan no Bouken Part 2,,,45 min,(2001 TV Special),
+688c,Yo Reviews,,,,(2017– ),
+689c,Happening Star,,,50 min,(2012 Video),
+690c,Gegege no Kitarou: Obake Nighter,,,30 min,(1997),
+691c,Visitor,,,84 min,(1998 TV Movie),
+692c,Word!,,,,(2020– ),
+693c,Designing Your Future,8.2,,30 min,(2006– ),10
+694c,Tower of the Murder Angel,,,5 min,(2016 Video),
+695c,From Ingestion to Excretion,,,2 min,(2012),
+696c,I'm glad I could keep running,6.2,,15 min,(2018),9
+697c,Into the Blue - Perfect Blue Relay Interview File,,,30 min,(2008 Video),
+698c,Intermezzo,6.4,,23 min,(2002 Video),26
+699c,Akakage,6.3,,,(1969),19
+700c,Supa Miruku Chan,7.1,TV-MA,8 min,(1998),24
+701c,Yuki Kajiura Live,8.0,,100 min,(2008 Video),12
+702c,Flur: Blades of the Universe,,,35 min,(2014– ),
+703c,Elemental Gearbolt,7.2,T,,(1997 Video Game),23
+704c,Ping Cherry,,,5 min,(2007 Video),
+705c,The Samaritan,,,,(II),
+706c,Fragile Machine,6.8,,34 min,(2005),72
+707c,Sekai Meisaku Gekijou Kanketsu Ban: Daisougen no Chiisana Tenshi Bush Baby Part 2,,,45 min,(2001 TV Movie),
+708c,Young Rocket Samurai,,,21 min,(2002 Video),
+709c,Anime Related 1,,,93 min,(2006 Video),
+710c,Pretty guardians of a queer time and place (extract),,,11 min,(2020 Video),
+711c,Dodgeball Academia,7.9,E,,(2021 Video Game),15
+712c,The Graveyard Shift Talk Show,,,,(2005– ),
+713c,Silent Möbius gaiden: Bakumatsu Anbu shimatsu ki,5.9,,58 min,(1993 Video),9
+714c,IVAA,,,,(TV Special),
+715c,Eternal Eyes,,E,,(1999 Video Game),
+716c,Battle Spirits: Mirage,,,24 min,(2021–2022),
+717c,Thousand Arms,7.5,T,,(1999 Video Game),27
+718c,Propheteering,,,7 min,(2009),
+719c,Ghost 1.0,,E10+,,(2016 Video Game),
+720c,Maple Town no Koutsuu Anzen,,,14 min,(1987 Video),
+721c,Geek Unique,,,,(1999– ),
+722c,Sekai Meisaku Gekijou Kanketsu Ban: Peter Pan no Bouken Part 1,,,45 min,(2001 TV Movie),
+723c,Totally Street Fighter!,5.5,,5 min,(2009),28
+724c,Puppet Princess: Outtakes,,,,(2001 Video),
+725c,The Otaku Corner,,,,(2017),
+726c,Super Robot Spirits 2003 -Spring Team-,,,115 min,(2003 Video),
+727c,Robonation Super Live Super Robot Spirits Vol.1,,,111 min,(2004 Video),
+728c,Lectures by Satoshi Kon,,,42 min,(2007 Video),
+729c,Seikai no monshô tokubetsu hen,,,90 min,(2000 TV Movie),
+730c,Mercy of Whims,,,,(2019– ),
+731c,Investigating Anime,2.8,,,(2010 Video),12
+732c,Albert Odyssey: Legend of Eldean,7.9,,,(1996 Video Game),11
+733c,Petit Manga,,,5 min,(2009),
+734c,D-1 Devastator,,,,(1992–1993),
+735c,Toonami: Advanced Robotics,4.1,,3 min,(2001 Music Video),20
+736c,Saber Marionette J Again OVA,7.5,,30 min,(2001 Video),21
+737c,Translyatsia Safronova: Pro Konstruktory,2.5,,65 min,(2015 TV Special),28
+738c,ROH: Contention,,,,(2009 Video),
+739c,Sword Art Online: Fatal Bullet,6.7,T,,(2018 Video Game),62
+740c,Chô Jigen Kakumei Anime: Dimension Hai Sukûru,5.0,,25 min,(2019– ),11
+741c,Seven Days in Japan,7.4,PG-13,35 min,(2005),15
+742c,Line Offline Salaryman,,,5 min,(2013– ),
+743c,Fighter's High Gaiden: Adam Kane,,,9 min,(2010 Video),
+744c,AnimeIntensity,,,,(2011– ),
+745c,From Then to Now: Behind the Scenes,,Not Rated,21 min,(2003 Video),
+746c,FanLove,,,97 min,(2016),
+747c,All Ages of Geek,,,,(2019 Video),
+748c,Kendo Rage,7.2,E,,(1993 Video Game),7
+749c,Anime Related 2,,PG-13,58 min,(2006 Video),
+750c,Cartoon Boom,,,,(2015 Podcast Series),
+751c,BooruBrowser,,,,(2016 Video Game),
+752c,Pokémon Shuffle,6.2,,,(2015 Video Game),49
+753c,Dr. Slump & Arale-chan: Hello! Wonder Island,6.4,,,(1981 TV Movie),8
+754c,Mega Man Battle Network 2,7.1,E,,(2001 Video Game),28
+755c,Musasi-no,,,,(2022– ),
+756c,World of Horror,7.4,M,,(2019 Video Game),11
+757c,Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www,,,14 min,(2014),
+758c,Wonder Boy: Asha in Monster World,,E10+,,(2021 Video Game),
+759c,Animax Special: The Making of 'Metropolis',6.3,,33 min,(2002 Video),29
+760c,Gtts,,,,,
+761c,Weeb Watch-a-Thon,,,,(2019 Video),
+762c,Sekai Meisaku Gekijou Kanketsu Ban: Konnichiwa Anne Part 1,,,45 min,(2011 TV Special),
+763c,Melon Soda,,,16 min,(2008),
+764c,Acc3so,,,30 min,(2012–2014),
+765c,Engimon,,,24 min,(2018),
+766c,Drill Dozer,7.3,E,,(2005 Video Game),41
+767c,The Last Digidestined,,,6 min,(2019),
+768c,Lost Ruins,,,,(2021 Video Game),
+769c,Sigma Star Saga,,E10+,,(2005 Video Game),
+770c,Invasión,,,,(2005–2008),
+771c,Sekai Meisaku Gekijou Kanketsu Ban: Konnichiwa Anne Part 2,,,45 min,(2011 TV Special),
+772c,Echogeddon,,,,(2016– ),
+773c,Tuer encore? Jamais plus!,,,23 min,(2009),
+774c,Sekai Meisaku Gekijou Kanketsu Ban: Akage no Anne Part 2,,,45 min,(2001 TV Special),
+775c,Aura,,,32 min,(II) (2017),
+776c,Violet Battlefield,,TV-14,,(2013– ),
+777c,Madoromi no Vevara,,,10 min,(2019 Video),
+778c,Momodora: Reverie Under the Moonlight,6.4,T,,(2016 Video Game),25
+779c,Castlevania: The Lecarde Chronicles 2,,T,,(2017 Video Game),
+780c,Anime. Faszination des Fremden,,,60 min,(2008),
+781c,Kaubôi bibappu,8.3,Not Rated,,(1998 Video Game),32
+782c,Hamtaro: Ham-Ham Heartbreak,6.8,E,,(2002 Video Game),7
+783c,Infinite Adventures,,,,(2018 Video Game),
+784c,Frank DanCoolo: Paranormal Drug Dealer,7.1,PG-13,8 min,(2010),61
+785c,Megami Kouhosei Special Curriculum: Nakama,,,24 min,(2002 Video),
+786c,Pop Filter Podcast,,,,(2019 Video),
+787c,Ys III: Wanderers from Ys,7.2,,,(1989 Video Game),16
+788c,Tenkai Knights: Brave Battle,2.3,E,,(2014 Video Game),13
+789c,Hamtaro: Ham-Ham Games,,E,,(2004 Video Game),
+790c,TV Animation X: Unmei No Tatakai,6.5,,,(2002 Video Game),8
+791c,Spriggan: Rob Zombie - Feel So Numb,,,,(2008 Music Video),
+792c,Atelier Iris 3: Grand Phantasm,7.5,T,,(2006 Video Game),32
+793c,Magic Knight Rayearth,8.2,T,,(1995 Video Game),31
+794c,The Lo0n,,,5 min,(2011),
+795c,Cybernaut,,,,(1984 Video Game),
+796c,Mega Man Battle Network 4,4.8,E,,(2003 Video Game),8
+797c,Robotech: The New Generation,6.5,,,(2007 Video Game),14
+798c,Psychic Force 2012,5.6,T,,(1998 Video Game),13
+799c,Find Love 2: The Prologue,,,,(1998 Video Game),
+800c,Toonami: Mad Rhetoric (Walking Stick),,,3 min,(2001 Music Video),
+801c,Coromon,7.3,E,,(2022 Video Game),8
+802c,Otakus,8.3,,8 min,(2007),125
+803c,Cotton Fantasy: Superlative Night Dreams,,E10+,,(2021 Video Game),
+804c,Hamtaro: Rainbow Rescue,,E,,(2003 Video Game),
+805c,ActRaiser Renaissance,,E10+,,(2021 Video Game),
+806c,Ara Fell,,T,,(2020 Video Game),
+807c,Mega Man Battle Network 5: Double Team DS,,E,,(2005 Video Game),
+808c,Sûpâ Riaru Mâjan PV,,,,(1994 Video Game),
+809c,Time Hollow,7.2,T,,(2008 Video Game),14
+810c,The Legend of the Mystical Ninja,7.6,E,,(1991 Video Game),80
+811c,Psychic Force,6.5,T,,(1995 Video Game),10
+812c,Ib,,T,,(2022 Video Game),
+813c,Recettear: An Item Shop's Tale,6.5,E,,(2007 Video Game),12
+814c,Super Real Mahjong PII & PIII Custom,,,,(1994 Video Game),
+815c,Demon Turf: Neon Splash,,E10+,,(2022 Video Game),
+816c,Cotton 100%,,E10+,,(1994 Video Game),
+817c,Momodora,5.2,,,(2010 Video Game),11
+818c,Rusted Moss,,,,(2023 Video Game),
+819c,Minoria,,T,,(2019 Video Game),
+820c,Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition,6.4,,,(2015 Video Game),32
+821c,Macross Frontier Music Clip Shuu: Nyankuri,7.2,,,(2010 Music Video),16
+822c,Robotech: The Macross Saga,7.6,E,,(2002 Video Game),48
+823c,"Prinny 2: Dawn of Operation Panties, Dood!",6.5,T,,(2010 Video Game),8
+824c,Find Love 2: Rhapsody,,,,(1998 Video Game),
+825c,Cotton 2: Magical Night Dreams,,E10+,,(1997 Video Game),
+826c,Nero: Innocence,,,4 min,(2010 Music Video),
+827c,30XX,,E10+,,(2021 Video Game),
+828c,TV Animation X: Kado o bufeito,,,,(2002 Video Game),
+829c,Strong Bad's Cool Game for Attractive People Episode 5: 8-Bit Is Enough,8.2,E10+,,(2008 Video Game),31
+830c,Spriggan: Saju - Jing Ling,,,,(2012 Music Video),
+831c,Kawaii Deathu Desu,,,,(2019 Video Game),
+832c,M.o.v.e: Raimei - Out of Kontrol,,,5 min,(2005 Music Video),
+833c,Momodora II,6.0,,,(2011 Video Game),9
+834c,Otomedius,,T,,(2007 Video Game),
+835c,Momodora III,7.0,,,(2014 Video Game),9
+836c,Evan's Remains,6.7,E,,(2020 Video Game),11
+837c,Blaster Master Zero 2,,E10+,,(2019 Video Game),
+838c,ANNCast,,,,(2009 Podcast Series),
+839c,Panorama Cotton,,E10+,,(1994 Video Game),
+840c,Psychic Force Complete,,,,(2005 Video Game),
+841c,DaiCast,,,,(2017 Podcast Series),
+842c,Puyo Pop,,E,,(2001 Video Game),
+843c,Parodius Portable,,T,,(2007 Video Game),
+844c,Noodle Shop Podcast,,,,(2022 Podcast Series),
+845c,Super Real Mahjong PII & PIII,,,,(1992 Video Game),
+846c,Ys IV: Mask of the Sun,,,,(1993 Video Game),
+847c,Vacant Sky Vol. I: Contention,6.6,T,,(2008 Video Game),14
+848c,M.U.S.H.A.: Metallic Uniframe Super Hybrid Armor,8.2,,,(1990 Video Game),22
+849c,Rainbow Cotton,,E10+,,(2000 Video Game),
+850c,Shadowrun,,,,(1996 Video Game),
+851c,Jack Move,,E10+,,(2022 Video Game),
+852c,Milon's Secret Castle,2.8,,,(1986 Video Game),32
+853c,Another Century's Episode,,,,(2005 Video Game),
+854c,Castlevania: Resurrection,,T,,(2021 Video Game),
+855c,Pocky & Rocky 2,7.6,E,,(1994 Video Game),9
+856c,Mega Man Battle Network 4.5: Real Operation,,E,,(2004 Video Game),
+857c,Black Belt Challenge,,E,,(2002 Video Game),
+858c,Air Strike 1944: Flight for Freedom,,E,,(2006 Video Game),
+859c,DeathSmiles II,,T,,(2009 Video Game),
+860c,Reaper,,,,(2020 Music Video),
+861c,Khimera: Destroy All Monster Girls,,,,(2016 Video Game),
+862c,Puyo Puyo 2,,E,,(1994 Video Game),
+863c,Blaster Master Zero 3,,E10+,,(2021 Video Game),
+864c,Hate Plus,,,,(2013 Video Game),
+865c,Psychic Force: Puzzle Taisen,,,,(1997 Video Game),
+866c,Slime-San,,E10+,,(2017 Video Game),
+867c, Ranma ½ OVA,7.4,Not Rated,31 min,(1993–2008),481
+868c, Crying Freeman,6.6,TV-MA,52 min,(1988–1994),289
+869c, Crying Freeman,6.5,TV-MA,56 min,(1988–1994),226
+870c, Crying Freeman,6.4,TV-MA,52 min,(1988–1994),208
+871c, Crying Freeman,6.3,TV-MA,52 min,(1988–1994),206
+872c, Crying Freeman,6.7,TV-MA,52 min,(1988–1994),165
+873c, Outlaw Star,7.3,TV-14,25 min,(1998– ),108
+874c, Mai otome,,,25 min,(2005–2006),
+875c, SMG4,7.5,TV-14,10 min,(2011– ),39
+876c, SMG4,7.0,TV-14,13 min,(2011– ),37
+877c, SMG4,6.9,TV-14,14 min,(2011– ),36
+878c, SMG4,7.2,TV-14,12 min,(2011– ),35
+879c, SMG4,7.5,TV-14,12 min,(2011– ),34
+880c, SMG4,7.2,TV-14,12 min,(2011– ),32
+881c, SMG4,7.5,TV-14,11 min,(2011– ),31
+882c, SMG4,7.4,TV-14,10 min,(2011– ),31
+883c, SMG4,7.6,TV-14,12 min,(2011– ),33
+884c, That Time I Got Reincarnated as a Slime,6.8,TV-PG,24 min,(2018– ),162
+885c, SMG4,7.8,TV-14,13 min,(2011– ),49
+886c, SMG4,7.5,TV-14,17 min,(2011– ),58
+887c, Senki Zessho Symphogear,,,,(2012– ),
+888c, Asdfmovie,6.8,TV-PG,2 min,(2008– ),172
+889c, Girls Bravo,6.6,TV-MA,,(2004–2005),27
+890c, SMG4,6.6,TV-14,13 min,(2011– ),25
+891c, Ranma ½,6.4,TV-14,23 min,(1989–1992),46
+892c, The Late Show Con Karim Musa,,,13 min,(2016– ),
+893c, The Late Show Con Karim Musa,,,14 min,(2016– ),
+894c, Ranma ½,6.4,TV-14,23 min,(1989–1992),37
+895c, Night Warriors: Darkstalkers' Revenge,,TV-14,,(1997–1998),
+896c, Super HxEros,5.8,,,(2020– ),24
+897c, Miss Machiko,,,,(1981–1983),
+898c, Miss Machiko,,,,(1981–1983),
+899c, Mushoku Tensei: Jobless Reincarnation,8.3,TV-14,24 min,(2021– ),1348
+900c, Brandon's Cult Movie Reviews,,,,(2011– ),
+901c, Jaiden Animations,7.6,TV-G,2 min,(2014– ),15
+902c, Rick and Morty,6.4,TV-14,23 min,(2013– ),8858
+903c, SMG4,5.9,TV-14,11 min,(2011– ),33
+904c, World's End Harem,7.6,TV-MA,,(2021–2022),79
+905c, World's End Harem,7.8,TV-MA,,(2021–2022),80
+906c, World's End Harem,7.2,TV-MA,,(2021–2022),71
+907c, World's End Harem,7.3,TV-MA,,(2021–2022),70
+908c, World's End Harem,7.0,TV-MA,,(2021–2022),73
+909c, Aika Zero,5.7,,25 min,(2009– ),19
+910c, Yu-Gi-Oh! The Abridged Series,7.8,TV-14,,(2006– ),24
+911c, Corncast,,,74 min,(2020–2021),
+912c, Corncast,,,102 min,(2020–2021),
+913c, Corncast,,,84 min,(2020–2021),
+914c, Corncast,,,77 min,(2020–2021),
+915c, Corncast,,,69 min,(2020–2021),
+916c, Corncast,,,54 min,(2020–2021),
+917c, JAR Media Podcast,,E10+,70 min,(2016– ),
+918c, JAR Media Podcast,,E10+,119 min,(2016– ),
+919c, Fist of the North Star,6.9,TV-14,25 min,(1984–1988),38
+920c, Black Lagoon: Roberta's Blood Trail,7.6,TV-MA,34 min,(2010–2011),150
+921c, Girls Bravo,7.3,TV-MA,,(2004–2005),14
+922c, SMG4,5.4,TV-14,10 min,(2011– ),18
+923c, QAnon Anonymous,,,,(2018– ),
+924c, Brandon's Cult Movie Reviews,,,24 min,(2011– ),
+925c," Um, Actually",,,39 min,(2018– ),
+926c, Weebs & Waifus,,,,(2022– ),
+927c, Miss Machiko,,,,(1981–1983),
+928c, The Matt Walsh Show,,,,(2018– ),
+929c, The Matt Walsh Show,,,,(2018– ),
+930c, The Matt Walsh Show,,,,(2018– ),
+931c, Sankarea,7.4,TV-MA,25 min,(2012),28
+932c, Attack on Titan,9.1,TV-MA,26 min,(2013–2023),23655
+933c,Milk outside a bag of milk outside a bag of milk,,T,,(2021 Video Game),
+934c,Hammerhead,,,8 min,(2015),
+935c, Sekirei,7.6,TV-MA,28 min,(2008–2010),46
+936c, Haganai: I Don't Have Many Friends,7.9,TV-MA,25 min,(2011– ),43
+937c, Mushi-Shi,8.5,TV-14,44 min,(2005–2014),1552
+938c, A Certain Scientific Railgun,7.1,TV-14,,(2009– ),162
+939c, Mushi-Shi: Next Passage,8.6,TV-14,47 min,(2014–2015),1209
+940c, In Search of the Lost Future,,TV-14,23 min,(2014– ),
+941c, The Art of Japanese Life,5.5,,59 min,(2017),28
+942c, Rage of Bahamut: Virgin Soul,7.5,,24 min,(2017),28
+943c, Rage of Bahamut: Virgin Soul,7.1,,24 min,(2017),27
+944c, Doraemon,7.4,TV-PG,11 min,(1979–2005),7
+945c, Doraemon,6.9,TV-PG,11 min,(1979–2005),11
+946c, Gods School,8.2,,,(2018– ),13

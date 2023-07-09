@@ -1,947 +1,1001 @@
-rank,title,rating,age_rating,run_time,year_range,votes
-1,Demon Slayer: Kimetsu no Yaiba,8.7,TV-14,24 min,(2019– ),125472
-2,Attack on Titan,9.1,TV-MA,24 min,(2013–2023),417720
-3,Vinland Saga,8.8,TV-MA,24 min,(2019– ),54210
-4,Black Clover,8.3,TV-PG,24 min,(2017–2021),28780
-5,Heavenly Delusion,8.1,TV-MA,24 min,(2023– ),2342
-6,Jujutsu Kaisen,8.5,TV-MA,24 min,(2020– ),74920
-7,Naruto,8.4,TV-PG,24 min,(2002–2007),112982
-8,My Hero Academia,8.3,TV-14,24 min,(2016– ),70741
-9,Hunter x Hunter,9.0,TV-14,24 min,(2011–2014),113757
-10,Naruto: Shippuden,8.7,TV-PG,24 min,(2007–2017),139472
-11,Kill Bill: Vol. 1,8.2,R,111 min,(2003),1146088
-12,Death Note,8.9,TV-14,23 min,(2006–2007),347465
-13,Chainsaw Man,8.5,TV-MA,25 min,(2022– ),39528
-14,Fullmetal Alchemist: Brotherhood,9.1,TV-14,24 min,(2009–2010),180875
-15,Bleach,8.2,TV-14,24 min,(2004–2012),61490
-16,JoJo's Bizarre Adventure,8.5,TV-14,24 min,(2012– ),29095
-17,Monster,8.7,TV-14,24 min,(2004–2005),36674
-18,One Punch Man,8.7,TV-PG,24 min,(2015–2019),172401
-19,Bleach: Thousand-Year Blood War,9.1,TV-MA,24 min,(2022– ),20541
-20,Devilman: Crybaby,7.6,TV-MA,25 min,(2018),24678
-21,Dragon Ball Z,8.8,TV-PG,24 min,(1989–1996),138093
-22,Cyberpunk: Edgerunners,8.3,TV-MA,24 min,(2022),61524
-23,Tokyo Revengers,7.9,TV-14,24 min,(2021– ),21066
-24,Berserk,8.7,TV-MA,23 min,(1997–1998),45135
-25,Dr. Stone,8.1,TV-14,24 min,(2019– ),23917
-26,Cowboy Bebop,8.9,TV-14,24 min,(1998–1999),128170
-27,Spy x Family,8.4,TV-14,24 min,(2022– ),30408
-28,Neon Genesis Evangelion,8.5,TV-MA,24 min,(1995–1996),76743
-29,Mushoku Tensei: Jobless Reincarnation,8.4,TV-14,24 min,(2021– ),14472
-30,Gintama,8.7,TV-14,25 min,(2005–2021),13135
-31,Perfect Blue,8.0,R,81 min,(1997),85002
-32,Boruto: Naruto Next Generations,6.6,TV-14,23 min,(2017– ),24601
-33,Knights of the Zodiac,8.5,TV-PG,24 min,(1986–1989),10678
-34,Demon Slayer the Movie: Mugen Train,8.2,R,117 min,(2020),65746
-35,Kill Bill: Vol. 2,8.0,R,137 min,(2004),777084
-36,Haikyu!!,8.7,TV-14,24 min,(2014–2020),29914
-37,Steins;Gate,8.8,TV-14,24 min,(2011–2015),67387
-38,Mob Psycho 100,8.6,TV-14,24 min,(2016–2022),38687
-39,A Silent Voice: The Movie,8.1,Not Rated,130 min,(2016),91114
-40,Code Geass,8.7,TV-14,24 min,(2006–2008),73597
-41,The Seven Deadly Sins: Signs of Holy War,7.8,TV-14,24 min,(2014–2021),35090
-42,Ghost in the Shell,7.9,TV-MA,83 min,(1995),149375
-43,Tokyo Ghoul,7.7,TV-MA,24 min,(2014),58898
-44,Sword Art Online,7.5,TV-14,24 min,(2012– ),49044
-45,Fairy Tail,7.9,TV-14,24 min,(2009–2019),26284
-46,My Dress-Up Darling,8.0,TV-14,24 min,(2022– ),11057
-47,The Witcher: Nightmare of the Wolf,7.2,TV-MA,83 min,(2021),47554
-48,Erased,8.5,TV-14,264 min,(2016),52688
-49,The Promised Neverland,8.2,TV-14,23 min,(2019–2021),42399
-50,How Do You Live?,,TV-14,125 min,(2023),
-51,Kaguya-sama: Love is War,8.5,TV-14,24 min,(2019– ),17008
-52,Weathering with You,7.5,PG-13,112 min,(2019),48847
-53,Nausicaä of the Valley of the Wind,8.0,PG,117 min,(1984),174872
-54,"Re: Zero, Starting Life in Another World",8.1,TV-14,24 min,(2016– ),21221
-55,High School DxD,7.6,TV-MA,23 min,(2012–2018),12193
-56,Fruits Basket,8.6,TV-14,24 min,(2019–2021),7625
-57,World's End Harem,5.9,TV-MA,24 min,(2021–2022),1393
-58,Neon Genesis Evangelion: The End of Evangelion,8.1,TV-MA,87 min,(1997),59194
-59,Paprika,7.7,R,90 min,(2006),88446
-60,Why Raeliana Ended Up at the Duke's Mansion,7.4,,,(2023– ),366
-61,The Wind Rises,7.7,PG-13,126 min,(2013),91135
-62,Parasyte: The Maxim,8.3,TV-MA,22 min,(2014–2015),43016
-63,Record of Ragnarok,6.4,TV-14,24 min,(2021– ),7265
-64,Classroom of the Elite,7.7,TV-14,24 min,(2017– ),10007
-65,Highschool of the Dead,7.2,TV-MA,24 min,(2010),14420
-66,Jujutsu Kaisen 0,7.8,PG-13,112 min,(2021),24876
-67,Goblin Slayer,7.5,TV-MA,30 min,(2018– ),8903
-68,Overlord,7.7,TV-MA,30 min,(2015– ),11979
-69,Fire Force,7.6,TV-14,23 min,(2019– ),9240
-70,Violet Evergarden,8.4,TV-14,24 min,(2018),25928
-71,Psycho-Pass,8.2,TV-MA,25 min,(2012– ),20709
-72,Ultraman,6.8,TV-14,25 min,(2019–2023),2428
-73,Akame ga Kill!,7.8,TV-MA,24 min,(2014),26865
-74,Redo of Healer,6.4,TV-MA,24 min,(2021– ),4061
-75,Dororo,8.3,Not Rated,30 min,(2019),16699
-76,Is It Wrong to Try to Pick Up Girls in a Dungeon?,7.4,TV-14,24 min,(2015– ),9349
-77,Dead Mount Death Play,6.9,,,(2023– ),419
-78,Whisper of the Heart,7.8,G,111 min,(1995),67220
-79,Ranking of Kings,8.5,TV-14,23 min,(2021– ),10585
-80,Konosuba: God's Blessing on This Wonderful World!,7.8,TV-14,24 min,(2016–2023),13015
-81,Belle,7.1,PG,121 min,(2021),14888
-82,Food Wars,8.1,TV-14,24 min,(2015–2020),11267
-83,I Want to Eat Your Pancreas,8.0,Not Rated,109 min,(2018),20542
-84,The Cat Returns,7.1,G,75 min,(2002),60246
-85,Serial Experiments Lain,8.1,TV-14,316 min,(1998),15502
-86,Trigun Stampede,7.4,TV-14,24 min,(2023– ),1285
-87,The Disastrous Life of Saiki K.,8.3,TV-14,24 min,(2016–2018),9129
-88,The Garden of Words,7.4,TV-14,46 min,(2013),48768
-89,Hellsing Ultimate,8.2,Not Rated,50 min,(2006–2012),24994
-90,Elfen Lied,7.9,TV-MA,24 min,(2004),35144
-91,Black Lagoon,7.9,TV-MA,25 min,(2006),16492
-92,Rent-a-Girlfriend,7.1,TV-14,23 min,(2020– ),7010
-93,Porco Rosso,7.7,PG,94 min,(1992),94911
-94,Darling in the Franxx,7.3,TV-14,24 min,(2018),12138
-95,Legend of the Galactic Heroes,9.0,TV-MA,25 min,(1988–1997),4054
-96,Dragon Ball Super: Broly,7.7,PG,100 min,(2018),29715
-97,Dota: Dragon's Blood,7.8,TV-MA,25 min,(2021– ),20627
-98,When Marnie Was There,7.7,PG,103 min,(2014),44091
-99,Banana Fish,8.2,TV-MA,22 min,(2018),7194
-100,Gurren Lagann,8.3,TV-14,24 min,(2007),19649
-101,From Up on Poppy Hill,7.4,PG,91 min,(2011),47776
-102,My Teen Romantic Comedy SNAFU,7.9,TV-14,24 min,(2013–2023),7840
-103,Skip and Loafer,7.9,,23 min,(2023– ),614
-104,The Tale of The Princess Kaguya,8.0,PG,137 min,(2013),50113
-105,Kingdom,8.5,TV-MA,25 min,(2012– ),2597
-106,Death Parade,7.9,TV-MA,24 min,(2015),18247
-107,Tales from Earthsea,6.3,PG-13,115 min,(2006),41927
-108,The Rising of the Shield Hero,7.9,TV-14,24 min,(2019– ),15363
-109,Ninja Scroll,7.8,Not Rated,94 min,(1993),39090
-110,KILL la KILL,7.9,TV-14,25 min,(2013–2014),15649
-111,Blade Runner: Black Lotus,6.3,TV-14,,(2021– ),3057
-112,"Bastard!! Heavy Metal, Dark Fantasy",6.5,TV-MA,25 min,(2022– ),2042
-113,Redline,7.5,Not Rated,102 min,(2009),15736
-114,Kakegurui,7.1,TV-14,24 min,(2017–2019),11401
-115,Vampire Hunter D: Bloodlust,7.6,R,103 min,(2000),33653
-116,5 Centimeters per Second,7.5,TV-PG,63 min,(2007),61067
-117,How NOT to Summon a Demon Lord,7.0,TV-MA,24 min,(2018– ),4089
-118,Belladonna of Sadness,7.3,Unrated,86 min,(1973),7043
-119,A Whisker Away,6.7,TV-PG,104 min,(2020),12182
-120,Only Yesterday,7.6,PG,119 min,(1991),34753
-121,Nier: Automata Ver1.1a,7.4,TV-14,23 min,(2023– ),863
-122,Memories,7.5,PG-13,113 min,(1995),19915
-123,The Future Diary,7.5,TV-MA,25 min,(2011–2013),18764
-124,Prison School,7.6,TV-MA,24 min,(2015–2016),6665
-125,Call of the Night,7.4,TV-14,23 min,(2022– ),2336
-126,Beastars,7.7,TV-MA,23 min,(2019– ),11284
-127,Evangelion: 3.0+1.01 Thrice Upon a Time,8.0,TV-MA,154 min,(2021),12359
-128,Deadman Wonderland,7.1,TV-MA,24 min,(2011),11377
-129,"Don't Toy with Me, Miss Nagatoro",7.2,TV-14,24 min,(2021– ),4203
-130,Ergo Proxy,7.9,TV-14,25 min,(2006),15308
-131,Tomo-chan Is a Girl!,7.6,TV-14,23 min,(2023),1591
-132,Angel's Egg,7.6,Not Rated,71 min,(1985 Video),10822
-133,Wolf Children,8.1,PG,117 min,(2012),47185
-134,Berserk: The Golden Age Arc I - The Egg of the King,7.5,TV-MA,76 min,(2012),13533
-135,Heaven Official's Blessing,8.2,TV-14,,(2020– ),1985
-136,Golden Boy,8.0,Not Rated,165 min,(1995–1996),6440
-137,Gantz: O,7.1,,95 min,(2016),15951
-138,Noragami,7.9,TV-14,24 min,(2014–2015),17404
-139,The Quintessential Quintuplets,7.7,TV-PG,24 min,(2019–2021),6029
-140,The Daily Life of the Immortal King,7.2,TV-14,18 min,(2020– ),1962
-141,Cowboy Bebop: The Movie,7.8,TV-14,115 min,(2001),50877
-142,Final Fantasy VII: Advent Children,7.2,PG-13,101 min,(2005),57291
-143,Ghost in the Shell: Stand Alone Complex,8.5,TV-MA,24 min,(2002–2005),20334
-144,Summoned to Another World for a Second Time,5.5,,,(2023– ),237
-145,Pom Poko,7.3,PG,119 min,(1994),32154
-146,Bubble,6.3,TV-PG,100 min,(2022),6977
-147,The Animatrix,7.3,Unrated,100 min,(2003 Video),80409
-148,Tokyo Godfathers,7.8,PG-13,92 min,(2003),43450
-149,The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far,6.5,TV-14,,(2023– ),438
-150,Vampire Hunter D,7.0,Not Rated,80 min,(1985),16637
-151,Drifting Home,6.3,PG,119 min,(2022),3131
-152,The Girl Who Leapt Through Time,7.7,TV-PG,98 min,(2006),68657
-153,FLCL,8.1,TV-14,151 min,(2000–2001),18746
-154,The Red Turtle,7.5,PG,80 min,(2016),36879
-155,Buddy Daddies,8.0,TV-14,24 min,(2023),1230
-156,"No Game, No Life",7.6,TV-14,23 min,(2014),17194
-157,Mieruko-chan,7.2,TV-14,24 min,(2021– ),2100
-158,Romantic Killer,7.6,TV-14,24 min,(2022),1961
-159,Harem in the Labyrinth of Another World,6.3,TV-MA,24 min,(2022– ),1101
-160,The Angel Next Door Spoils Me Rotten,7.4,TV-14,,(2023– ),1011
-161,Vermeil in Gold: A Desperate Magician Barges Into the Magical World Alongside the Strongest Calamity,6.5,TV-MA,24 min,(2022– ),1247
-162,Toradora!,8.0,TV-14,24 min,(2008–2009),17239
-163,"Why the Hell are You Here, Teacher!?",6.3,TV-MA,12 min,(2019),1765
-164,Date a Live,6.9,TV-14,25 min,(2013– ),3617
-165,Yuri!!! On Ice,8.3,TV-14,20 min,(2016),9284
-166,Monster Musume: Everyday Life with Monster Girls,6.6,TV-MA,23 min,(2015– ),2946
-167,Welcome to the N.H.K.,8.3,TV-MA,24 min,(2006),7390
-168,When They Cry,7.8,TV-MA,24 min,(2006),6141
-169,Lupin III: The Castle of Cagliostro,7.6,,102 min,(1979),31930
-170,ReLIFE,7.8,TV-14,24 min,(2016–2018),5695
-171,Evangelion: 1.0 You Are (Not) Alone,7.6,PG-13,98 min,(2007),25941
-172,Inuyashiki,7.7,Not Rated,24 min,(2017),4632
-173,Kimi ni Todoke: From Me to You,7.8,TV-PG,24 min,(2009–2011),4567
-174,The Reincarnation of the Strongest Exorcist in Another World,7.1,TV-14,23 min,(2023),646
-175,Barefoot Gen,8.0,TV-PG,83 min,(1983),8419
-176,"More Than a Married Couple, But Not Lovers.",7.4,,24 min,(2022– ),1433
-177,Lupin III: The First,6.9,Not Rated,93 min,(2019),3447
-178,Spice and Wolf,7.8,TV-14,24 min,(2008–2009),4754
-179,Grand Blue,7.8,Not Rated,24 min,(2018),3695
-180,Summer Wars,7.4,PG,114 min,(2009),30808
-181,SK8 the Infinity,8.1,TV-14,,(2021– ),4021
-182,Wonder Egg Priority,7.4,TV-MA,23 min,(2021– ),3580
-183,Metropolis,7.2,PG-13,108 min,(2001),22067
-184,Maquia: When the Promised Flower Blooms,7.4,Not Rated,115 min,(2018),7458
-185,Nisekoi,7.2,TV-PG,25 min,(2014–2016),3852
-186,"Welcome to Demon-School, Iruma-kun",7.7,TV-14,23 min,(2019– ),2024
-187,Kiss x sis,6.0,TV-MA,24 min,(2010),2215
-188,Sacrificial Princess & the King of Beasts,7.9,TV-14,23 min,(2023– ),80
-189,Yasuke,6.2,TV-MA,30 min,(2021– ),5731
-190,Mirai,7.0,PG,98 min,(2018),17111
-191,Kubo Won't Let Me Be Invisible,7.1,TV-14,24 min,(2023– ),379
-192,Boruto: Naruto The Movie,7.8,PG,95 min,(2015),11465
-193,Neo Tokyo,7.0,,50 min,(1987),3982
-194,The Boy and the Beast,7.6,PG-13,119 min,(2015),25554
-195,Jin-Roh: The Wolf Brigade,7.3,R,102 min,(1999),17794
-196,Made in Abyss: Dawn of the Deep Soul,8.0,TV-MA,113 min,(2020),4777
-197,To the Forest of Firefly Lights,7.8,,45 min,(2011),20129
-198,Aggretsuko,8.0,TV-14,15 min,(2018–2023),7052
-199,Pengin haiwei,7.1,Not Rated,117 min,(2018),3470
-200,Ghost in the Shell 2: Innocence,7.4,PG-13,100 min,(2004),39447
-201,Spriggan,6.8,TV-MA,45 min,(2022– ),1335
-202,Captain Tsubasa,8.2,TV-G,22 min,(2018–2019),1812
-203,Haganai: I Don't Have Many Friends,7.0,TV-MA,25 min,(2011– ),2540
-204,Danganronpa: The Animation,6.8,TV-14,25 min,(2013),2905
-205,Space Dandy,8.1,TV-14,24 min,(2014),4371
-206,Knights of the Zodiac: Saint Seiya,4.6,TV-14,24 min,(2019–2022),2104
-207,Battle Angel,7.2,Not Rated,54 min,(1993),5626
-208,School Days,5.9,TV-14,,(2007),2714
-209,Resident Evil: Degeneration,6.4,R,98 min,(2008),32272
-210,My Life as Inukai-san's Dog,4.3,TV-MA,,(2023– ),289
-211,Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist,7.0,TV-MA,22 min,(2015– ),2784
-212,Hajimete No Gal,6.1,TV-MA,24 min,(2017– ),1960
-213,Mary and the Witch's Flower,6.8,PG,103 min,(2017),15263
-214,To LOVE-Ru,6.4,TV-14,24 min,(2008–2010),1495
-215,In This Corner (and Other Corners) of the World,7.8,PG-13,129 min,(2016),11793
-216,Durarara!!,7.8,TV-14,24 min,(2010),7588
-217,Aesthetica of a Rogue Hero,6.9,TV-MA,,(2012),1895
-218,Stitch!,4.5,TV-Y7,,(2008–2015),319
-219,Bakugan Battle Brawlers,5.6,TV-Y7,22 min,(2007–2011),3157
-220,Yashahime: Princess Half-Demon,7.1,TV-14,,(2020– ),1147
-221,Ghost in the Shell SAC_2045,6.4,TV-MA,25 min,(2020– ),2781
-222,And You Thought There Is Never a Girl Online?,6.4,TV-MA,24 min,(2016),1395
-223,The Place Promised in Our Early Days,6.9,TV-PG,90 min,(2004),14686
-224,Heaven's Lost Property,7.2,TV-MA,,(2009–2010),1982
-225,Wise Man's Grandchild,6.8,TV-14,24 min,(2019– ),2694
-226,White Snake,7.0,,99 min,(2019),4865
-227,Saekano: How to Raise a Boring Girlfriend,7.0,TV-14,24 min,(2015–2017),1434
-228,Tekkonkinkreet,7.5,R,111 min,(2006),14115
-229,My Hero Academia: Two Heroes,7.3,PG-13,96 min,(2018),11616
-230,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,7.8,Not Rated,68 min,(2003),15168
-231,My Hero Academia: Heroes Rising,7.8,PG-13,104 min,(2019),9030
-232,Silver Fang,8.9,,25 min,(1986),3022
-233,A Certain Scientific Railgun,7.5,TV-14,24 min,(2009– ),1738
-234,Full Metal Panic!,7.6,TV-14,24 min,(2002–2006),5739
-235,"The Night Is Short, Walk on Girl",7.5,PG-13,92 min,(2017),5794
-236,Rosario + Vampire,6.9,TV-14,25 min,(2008),3442
-237,Love Flops,6.1,,,(2022– ),337
-238,Steamboy,6.8,PG-13,126 min,(2004),18249
-239,Konosuba!: God's Blessing on This Wonderful World! - Legend of Crimson,7.8,Not Rated,90 min,(2019),4703
-240,Karakai Jouzu no Takagi-san,7.7,TV-PG,23 min,(2018– ),2574
-241,Kizumonogatari Part 1: Tekketsu,7.4,,64 min,(2016),3351
-242,Sword of the Stranger,7.8,Not Rated,103 min,(2007),17578
-243,The Iceblade Sorcerer Shall Rule the World,6.2,TV-14,,(2023),464
-244,Dragon Ball Z: Revival Fusion,7.6,PG,51 min,(1995),11503
-245,Battle of the Planets,7.6,TV-Y7,30 min,(1978–1980),2128
-246,Sword Art Online the Movie: Ordinal Scale,7.3,TV-14,119 min,(2017),8610
-247,Flavors of Youth,6.6,TV-PG,74 min,(2018),8072
-248,Robotech,8.5,TV-Y7,30 min,(1985),3860
-249,A Certain Magical Index,6.8,TV-14,23 min,(2008–2019),2156
-250,My Neighbors the Yamadas,7.1,PG,104 min,(1999),15025
-251,Fullmetal Alchemist the Movie: Conqueror of Shamballa,7.3,PG-13,105 min,(2005),11833
-252,Btooom!,7.1,TV-MA,25 min,(2012),4451
-253,Promare,7.0,PG-13,111 min,(2019),4786
-254,Urusei Yatsura,7.0,TV-14,25 min,(2022– ),427
-255,Free!,7.4,TV-PG,24 min,(2013– ),3399
-256,Beyblade Burst,6.8,TV-Y7,24 min,(2016– ),703
-257,Fist of the North Star,7.1,Not Rated,110 min,(1986),7073
-258,Dead Leaves,7.1,Not Rated,55 min,(2004),4235
-259,The Deer King,6.4,R,113 min,(2021),751
-260,To Love-Ru - Darkness,7.0,TV-14,25 min,(2012–2017),1023
-261,Yuuna and the Haunted Hot Springs,6.8,TV-14,24 min,(2018– ),631
-262,Panty & Stocking with Garterbelt,7.3,TV-MA,23 min,(2010–2011),2731
-263,Ikki tousen,5.9,TV-MA,325 min,(2003– ),1233
-264,Appleseed,6.9,R,101 min,(2004),18338
-265,Chillin' in My 30s after Getting Fired from the Demon King's Army,6.7,TV-14,23 min,(2023),453
-266,Robot Carnival,6.8,Unrated,90 min,(1987 Video),2755
-267,The Hidden Dungeon Only I Can Enter,6.4,TV-14,24 min,(2021),1805
-268,"WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",7.2,TV-14,25 min,(2013),2301
-269,Handyman Saitou in another world,7.0,TV-14,23 min,(2023),501
-270,Zombieland Saga,7.1,TV-MA,24 min,(2018– ),1316
-271,Appleseed Alpha,6.5,PG-13,93 min,(2014),8676
-272,A Place Further Than the Universe,8.2,,23 min,(2018),2537
-273,Yu-Gi-Oh!: The Movie - Pyramid of Light,4.9,PG,90 min,(2004),8854
-274,The Garden of Sinners: Overlooking View,7.0,,49 min,(2007),2596
-275,Immoral Guild,6.1,,,(2022),256
-276,Revenger,6.5,TV-MA,23 min,(2023– ),312
-277,Patlabor: The Movie,7.0,Unrated,100 min,(1989),5391
-278,Blood: The Last Vampire,6.6,Not Rated,48 min,(2000),12991
-279,Tsuredure Children,7.3,TV-14,13 min,(2017– ),1992
-280,Stand by Me Doraemon,7.3,TV-PG,95 min,(2014),8741
-281,Yamada-kun to 7-nin no Majo,7.2,TV-14,24 min,(2014–2015),2364
-282,Tsugumomo,6.6,TV-MA,,(2017–2020),426
-283,Wings of Honneamise,7.2,Unrated,121 min,(1987),5538
-284,Kase-san and Morning Glories,7.2,,58 min,(2018),705
-285,The 8th Son? Are You Kidding Me?,6.5,,24 min,(2020– ),1157
-286,Radiant,6.7,TV-PG,24 min,(2018– ),578
-287,Trigun: Badlands Rumble,7.4,TV-14,90 min,(2010),5684
-288,Yu-Gi-Oh!: The Dark Side of Dimensions,6.9,PG,130 min,(2016),3310
-289,The Marginal Service,5.1,,,(2023),36
-290,Daily Lives of High School Boys,7.8,TV-PG,24 min,(2012),2694
-291,Is this a Zombie?,6.9,TV-MA,25 min,(2011–2012),1846
-292,Tsukigakirei,7.8,TV-14,24 min,(2017),2244
-293,Eden,6.6,TV-Y7,25 min,(I) (2021– ),1344
-294,Roujin Z,6.8,PG-13,80 min,(1991),2975
-295,Astro Boy,6.9,TV-Y7,30 min,(2003–2004),536
-296,Bobobo-bo Bo-bobo,7.1,TV-Y7-FV,26 min,(2003–2005),944
-297,Bottom-Tier Character Tomozaki,7.0,,24 min,(2021– ),1120
-298,Our Last Crusade or the Rise of a New World,6.4,TV-14,23 min,(2020– ),846
-299,Senpai ga Uzai Kouhai no Hanashi,7.4,TV-14,,(2021– ),1069
-300,Thermae Romae Novae,7.0,TV-MA,30 min,(2022),1077
-301,Dakaichi: I'm Being Harassed by the Sexiest Man of the Year-,7.3,,24 min,(2018– ),1150
-302,"Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",6.3,TV-14,23 min,(2019– ),908
-303,The Pet Girl of Sakurasou,7.7,TV-14,24 min,(2012–2013),4821
-304,Kenji Miyazawa's Night on the Galactic Railroad,7.0,Unrated,113 min,(1985),2210
-305,Raven of the Inner Palace,7.4,,23 min,(2022),296
-306,Idaten Jump,8.2,TV-PG,20 min,(2005–2006),640
-307,Majikoi ~ Oh! Samurai Girls,5.7,TV-14,,(2011–2012),332
-308,Dragonaut: The Resonance,6.2,TV-14,25 min,(2007–2009),130
-309,Magical Sempai,6.2,TV-14,15 min,(2019– ),634
-310,Love Tyrant,6.3,TV-14,24 min,(2017),838
-311,The World God Only Knows,7.3,TV-14,24 min,(2010–2013),1119
-312,Okko's Inn,7.1,PG,94 min,(2018),2148
-313,Splinter Cell,,,,,
-314,Colorful,7.4,TV-14,126 min,(2010),6707
-315,Project A-Ko,6.9,Unrated,86 min,(1986),1388
-316,Oban Star Racers: The Alwas Cycle,8.0,TV-Y7,25 min,(2006),2017
-317,Urusei Yatsura 2: Beautiful Dreamer,7.4,Unrated,90 min,(1984),2109
-318,Stand by Me Doraemon 2,7.5,Not Rated,96 min,(2020),4443
-319,Black Cat,7.0,TV-PG,25 min,(2005–2006),1169
-320,Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World,6.0,TV-14,,(2023),414
-321,Are You Really the Only One Who Likes Me,7.0,TV-14,,(2019– ),1114
-322,Medabots,6.7,TV-Y7,30 min,(1999–2004),2411
-323,Macross: Do You Remember Love?,7.7,Not Rated,114 min,(1984),3294
-324,O Maidens in Your Savage Season,7.2,TV-14,24 min,(2019– ),840
-325,Astro Boy,7.4,TV-Y7,30 min,(1963–1965),993
-326,Mobile Suit Gundam ZZ,6.8,TV-Y7,30 min,(1986–1987),655
-327,Koi to uso,6.1,TV-14,24 min,(2017– ),746
-328,Witch Craft Works,6.7,TV-14,22 min,(2014–2015),553
-329,The Kingdom of Dreams and Madness,7.7,Not Rated,118 min,(2013),5422
-330,Malevolent Spirits: Mononogatari,6.8,TV-14,,(2023– ),149
-331,Made in Abyss: Journey's Dawn,7.4,,119 min,(2019),776
-332,Wonderland,3.6,Unrated,80 min,(2011),362
-333,A Dog's Courage,6.1,TV-PG,102 min,(I) (2018),198
-334,Maoyu ~ Archenemy & Hero,6.9,TV-14,23 min,(2013– ),749
-335,Venus Wars,6.6,Not Rated,103 min,(1989),1866
-336,Boarding School Juliet,7.3,Not Rated,24 min,(2018),831
-337,Didn't I Say to Make My Abilities Average in the Next Life?!,6.5,TV-14,23 min,(2019),726
-338,Bright: Samurai Soul,5.5,TV-14,80 min,(2021),979
-339,"Play it Cool, Guys",7.2,,,(2022–2023),166
-340,Time of Eve,7.2,,106 min,(2010),3979
-341,Terminator Salvation: The Machinima Series,5.4,TV-14,14 min,(2009),598
-342,When Supernatural Battles Became Commonplace,6.5,TV-14,24 min,(2014),526
-343,Princess Connect! Re: Dive,6.4,TV-14,23 min,(2020– ),575
-344,Children of the Whales,7.0,TV-MA,24 min,(2017),1701
-345,"My Sister, My Writer",4.1,,24 min,(2018– ),170
-346,Modest Heroes,6.6,PG,53 min,(2018),2937
-347,Armed Girl's Machiavellism,6.6,TV-14,,(2017),463
-348,Amagi Brilliant Park,7.0,TV-14,24 min,(2014–2015),1271
-349,Dragons of Wonderhatch,,,,,
-350,Pui Pui Molcar,8.1,TV-Y7,2 min,(2021– ),519
-351,Myriad Colors Phantom World,6.3,TV-14,24 min,(2016– ),859
-352,Digimon Frontier,6.7,TV-Y7,,(2002–2003),2800
-353,Cat Soup,7.6,Not Rated,34 min,(2001),5713
-354,Eternights,,,,(2023 Video Game),
-355,Dusk Maiden of Amnesia,7.3,TV-14,24 min,(2012),1118
-356,Mega Man,6.6,TV-Y7,22 min,(1994–1995),1093
-357,Revolutionary Girl Utena: The Movie,7.2,Not Rated,100 min,(1999),1686
-358,Digimon Tamers,7.6,TV-Y7,,(2001–2002),2193
-359,Konohana Kitan,7.2,,23 min,(2017– ),259
-360,"Saving 80,000 Gold in Another World for my Retirement",6.5,TV-14,,(2023),262
-361,Her Blue Sky,6.8,,106 min,(2019),1343
-362,Les Miserables: Shoujo Cosette,8.1,,24 min,(2007),346
-363,Appleseed: Ex Machina,7.0,PG-13,105 min,(2007),9759
-364,Teknoman,8.4,TV-Y7,,(1995),86
-365,Vexille,6.8,PG-13,109 min,(2007),7785
-366,Monster Hunter: Legends of the Guild,5.1,TV-14,58 min,(2021 TV Movie),1423
-367,Ghost in the Shell: SAC_2045 - Sustainable War,5.9,,119 min,(2021),406
-368,The Murder of Sonic the Hedgehog,8.1,E,,(2023 Video Game),66
-369,Horus: Prince of the Sun,6.6,Not Rated,82 min,(1968),2396
-370,Galaxy Express 999,7.4,PG,129 min,(1979),2217
-371,Poupelle of Chimney Town,6.4,PG,100 min,(2020),559
-372,Pokémon the Movie: The Power of Us,6.2,Not Rated,100 min,(2018),2809
-373,Mysterious Girlfriend X,7.1,TV-MA,30 min,(2012– ),917
-374,Burn the Witch,6.7,,63 min,(2020),1065
-375,The Anthem of the Heart,7.3,,119 min,(2015),6066
-376,Mobile Suit Gundam Thunderbolt,7.6,,,(2015–2017),71
-377,Genius Party,6.9,Not Rated,102 min,(2007),1597
-378,Zoids: Chaotic Century,7.9,TV-Y7,,(1999– ),663
-379,Origin: Spirits of the Past,6.3,Not Rated,94 min,(2006),4771
-380,Beelzebub,7.5,TV-MA,,(2011–2012),2191
-381,Beyblade X,,,,,
-382,Blend S,6.9,TV-14,23 min,(2017),1406
-383,Arcadia of My Youth,7.1,Not Rated,130 min,(1982),963
-384,Assassin(s),6.5,,128 min,(1997),2174
-385,Too Cute Crisis,7.0,,,(2023– ),60
-386,THE IDOLM@STER CINDERELLA GIRLS U149,7.3,TV-14,24 min,(2023– ),23
-387,Snow Daze,6.8,M,,(2018 Video Game),31
-388,Aho Girl,6.6,,12 min,(2017),1215
-389,Class of '09,7.1,M,,(2021 Video Game),9
-390,Digimon Adventure 02,7.4,TV-G,30 min,(2000–2001),1808
-391,Astro Boy,7.3,TV-G,24 min,(1980–2004),959
-392,Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desuka?,5.2,TV-MA,24 min,(2019– ),493
-393,Ultramarine Magmell,6.1,TV-14,24 min,(2019),731
-394,Armitage III: Dual Matrix,6.3,Not Rated,90 min,(2001 Video),1204
-395,Cardfight!! Vanguard,5.8,,25 min,(2011– ),136
-396,The Dog of Flanders,7.7,Not Rated,93 min,(1997),681
-397,Kizuna No Allele,4.1,,,(2023– ),26
-398,I Want You to Show Me Your Panties with a Disgusted Face,5.3,,4 min,(2018),117
-399,Linkin Park: Lost,8.3,,3 min,(2023 Music Video),29
-400,Giovanni's Island,7.3,,102 min,(2014),2140
-401,Mai Mai Miracle,6.9,,93 min,(2009),1166
-402,Chibi Godzilla Raids Again,,,3 min,(2023),
-403,Mato Seihei no Slave,,,,(2024– ),
-404,Lovesick,4.9,,90 min,(2011),192
-405,The Fire Hunter,6.3,TV-14,24 min,(2023– ),118
-406,Engine Sentai Go-onger,6.4,TV-PG,25 min,(2008–2009),130
-407,Oni,7.9,T,,(2001 Video Game),208
-408,The Idolm@ster,6.6,,30 min,(2011),211
-409,Maria the Virgin Witch,6.7,TV-MA,24 min,(2015– ),321
-410,Master Keaton,7.9,,30 min,(1998–2000),204
-411,RWBY Chibi,7.6,TV-PG,85 min,(2016– ),585
-412,The Adventures of Tyrano Boy,6.2,,82 min,(2015),20
-413,Robotech: The Shadow Chronicles,6.3,PG,88 min,(2006),1600
-414,Monsuno,4.9,TV-Y7,,(2011– ),633
-415,Dragon Crisis!,6.0,,,(2011– ),175
-416,Macross Plus Movie Edition,7.6,,115 min,(1995),648
-417,This Art Club Has a Problem!,6.6,TV-PG,24 min,(2016– ),401
-418,Doraemon the Movie: Nobita's Dinosaur,7.1,PG,107 min,(2006),1369
-419,I Want You to Show Me Your Panties with a Disgusted Face 2,6.2,,6 min,(2019),62
-420,Slug Street Scrappers: Beat Em Up,8.2,Not Rated,79 min,(2013),105
-421,Never-Ending Man: Hayao Miyazaki,6.8,,70 min,(2016 TV Movie),788
-422,Vandread,7.0,TV-14,,(2000–2001),897
-423,Puppet Princess,6.8,Not Rated,40 min,(2000 Video),106
-424,"How Clumsy You Are, Miss Ueno.",5.8,,15 min,(2019– ),184
-425,The Dragon from Russia,5.5,,96 min,(1990),454
-426,Take My Brother Away!,7.1,,3 min,(2017–2020),190
-427,Muse Dash,7.3,T,,(2018 Video Game),25
-428,Spirit Blade Mountain,6.7,,,(2016– ),109
-429,Pole Position,6.5,TV-Y7,30 min,(1984–1985),338
-430,Prince Planet,8.1,,30 min,(1965–1966),208
-431,Naruto Shippûden: Ultimate Ninja Storm 3,8.1,T,,(2013 Video Game),643
-432,Ground Control to Psychoelectric Girl,6.6,TV-Y,24 min,(2011– ),256
-433,Space Battleship Yamato,7.2,G,135 min,(1977),404
-434,Biohazard 4D: Executer,5.6,,19 min,(2000),535
-435,Kimagure Orange Road: I Want to Return to That Day,7.6,,69 min,(1988),501
-436,MM!,6.8,TV-MA,,(2010),236
-437,Musical Kuroshitsuji: Noah's Ark Circus,7.9,,190 min,(2017),23
-438,Pingu in the City,7.3,TV-G,7 min,(2017–2019),177
-439,Ginga e Kickoff,7.9,,,(2012–2013),38
-440,GirlFight: inVite,5.7,Not Rated,13 min,(2016),379
-441,Different Kinds of Rain,6.1,,91 min,(2017),396
-442,Otaku,6.7,,52 min,(1994),173
-443,Marvel vs. Capcom 2: New Age of Heroes,8.2,T,,(2000 Video Game),834
-444,THE IDOLM@STER CINDERELLA GIRLS,6.2,TV-14,24 min,(2014–2015),145
-445,Rock Bottom,6.3,,53 min,(II) (2020),14
-446,Daigunder,8.6,,30 min,(2002),104
-447,BlackedTheAnime,1.6,TV-Y,,(2020– ),1082
-448,Ultraman X: Here He Comes! Our Ultraman,6.1,,73 min,(2016),164
-449,Afro Samurai Champloo,7.7,,30 min,(2019),12
-450,Zoe and the Astronaut,6.1,,88 min,(2018),109
-451,Pretty Rhythm: Aurora Dream,8.0,,30 min,(2011–2012),28
-452,Kunoichi Tsubaki no mune no uchi,6.4,,,(2022– ),171
-453,Dark Cat,4.4,,60 min,(1991),121
-454,Gal Guardians: Demon Purge,,T,,(2023 Video Game),
-455,Adam Chaplin 2,,,,,
-456,Flint: The Time Detective,5.9,TV-Y7,30 min,(1998–1999),265
-457,Maximillian,4.1,,72 min,(2019),120
-458,Re: Zero kara hajimeru isekai seikatsu: Death or Kiss,8.5,,,(2017 Video Game),85
-459,Final Fantasy VII: Advent Children Bonus Disc,7.1,Not Rated,,(2006 Video),28
-460,The Klutzy Witch: Fuka and the Witch of Darkness,,,,(2023),
-461,Oblivion Island: Haruka and the Magic Mirror,6.8,TV-G,93 min,(2009),739
-462,PERSONA3 the Movie #3 Falling Down,6.5,Not Rated,83 min,(2015),464
-463,Marvel vs. Capcom: Clash of Super Heroes,8.1,T,,(1998 Video Game),695
-464,Castlevania: Aria of Sorrow,8.2,T,,(2003 Video Game),367
-465,Kureyon Shinchan: Arashi o Yobu: Utau Ketsudake Bakudan!,6.3,,102 min,(2007),99
-466,Please Tell Me! Galko-chan,7.0,TV-14,8 min,(2016–2017),313
-467,Moero! Top Striker,7.8,,25 min,(1992–1993),297
-468,Shinzo,7.4,TV-Y7,,(2000–2001),264
-469,Go Go Anime!,,Not Rated,60 min,(2004 Video),
-470,Evil Zone,8.2,T,,(1999 Video Game),46
-471,Date A Bullet: Nightmare or Queen,6.7,,29 min,(2020),115
-472,Japan Sinks: 2020 Theatrical Edition,6.5,,151 min,(2020),17
-473,Policenauts,8.4,,,(1994 Video Game),148
-474,Tales of the Abyss,7.9,T,,(2005 Video Game),234
-475,The King of Fighters XV,7.6,T,,(2021 Video Game),61
-476,Tales of Vesperia,8.2,T,,(2008 Video Game),308
-477,Anime Abandon,6.1,TV-14,,(2011– ),158
-478,Jujutsu kaisen: Jujutôku,,,,(2021 Podcast Series),
-479,22/7,6.6,TV-14,24 min,(2020– ),57
-480,Afterimage,,E10+,,(2023 Video Game),
-481,Love & Loathing & Lulu & Ayano,5.9,,105 min,(2010),133
-482,Model Combat,,TV-MA,,(2019),
-483,Pani poni dasshu!,6.6,TV-PG,23 min,(2005– ),210
-484,The Rapture,6.7,Not Rated,96 min,(2007 Video),49
-485,My Neck,,,,(2021– ),
-486,THE iDOLM@STER MILLION LIVE!,,,,(2023– ),
-487,Fame-ish,5.1,Not Rated,94 min,(2020),80
-488,Chronexia and the Eight Seals,2.3,,,(2016– ),22
-489,Cowboy Bebop: The Movie - Featurettes,8.2,Not Rated,42 min,(2003),383
-490,Garasu no kamen,7.6,TV-PG,24 min,(1984),76
-491,Untitled Dragon Ball & Animes Mix Movie,,,,,
-492,Shonen Jump: Naruto the Movie - Ninja Clash in the Land of Snow - Making Movies Ninja Style,6.6,Not Rated,20 min,(2007 Video),10
-493,Maken-ki! Two: Takeru Turns into a Woman!? Naked in a Southern Island!,7.8,,,(2013 Video),12
-494,Bright Memory: Infinite,6.8,,,(2021 Video Game),69
-495,AnimeTV,4.4,,,(2010– ),20
-496,Coffee Talk,7.2,T,,(2020 Video Game),93
-497,Gal*Gun: Double Peace,5.7,M,,(2015 Video Game),22
-498,Slug Street Scrappers: Rise of Ryuken,8.3,Unrated,49 min,(2012),77
-499,Future Folktales,8.0,,23 min,(2020),56
-500,CrossCode,8.4,T,,(2018 Video Game),31
-501,Corpse Factory,,,,(2022 Video Game),
-502,Mega Man 8,6.8,K-A,,(1996 Video Game),331
-503,Yume no Hoshi no Button Nose,8.2,,24 min,(1985–1986),39
-504,Petite Princess Yucie,7.4,TV-PG,25 min,(2002–2003),88
-505,The Idolmaster Movie: Beyond the Brilliant Future!,6.6,,121 min,(2014),123
-506,Mecha-Ude,6.6,,25 min,(2018 Video),27
-507,Carried by the Wind: Tsukikage Ran,7.3,,,(2000),76
-508,Oishinbo,7.8,,23 min,(1988–1992),21
-509,Corrector Yui,7.1,TV-Y7,,(1999–2000),62
-510,Madonna: Drowned World Tour 2001,8.5,R,105 min,(2001 TV Special),1383
-511,Rockman.exe Stream,7.4,TV-14,30 min,(2004–2005),29
-512,VA-11 Hall-A,8.1,M,,(2016 Video Game),86
-513,8 Man,5.6,,83 min,(1992),98
-514,Himitsu no Akko-chan,6.7,,24 min,(1988– ),11
-515,Maerchen Maedchen,5.4,,23 min,(2018– ),101
-516,Cooking with Valkyries,6.6,,,(2019– ),15
-517,Sekirei: Kusano's First Shopping Trip,7.3,,10 min,(2009 Video),60
-518,X-Blades,5.8,M,,(2007 Video Game),43
-519,Saint October,7.6,,,(2007),14
-520,LOVE LIVE HINA: Hinata Girls ga Osaka na,,,65 min,(2000 Video),
-521,Flaming Alpine Rose: Jeudi & Lundi,7.6,,24 min,(1985),21
-522,Deep Space Waifu,,M,,(2017 Video Game),
-523,Hurricane Polimar,7.6,,25 min,(1974–1975),75
-524,Slug Street Scrappers,8.3,Unrated,16 min,(2012),49
-525,Otaku Unite!,6.6,,70 min,(2004),78
-526,Naruto the Movie 2: The Legend of the Stone of Gelel - Write and Adapt like a Ninja,,Not Rated,23 min,(2006 Video),
-527,The World of Dragon Ball Z,6.8,Not Rated,20 min,(2000 Video),54
-528,Soul of Darkness,,T,,(2010 Video Game),
-529,Animenia,6.5,Not Rated,,(2008– ),28
-530,Puchimas!: Petit Idolm@ster,5.0,,3 min,(2013–2014),43
-531,IDOLiSH7 Vibrato,8.2,,14 min,(2018 TV Short),30
-532,Boku no Son Goku,,,95 min,(2003),
-533,"Patrasche: A Dog of Flanders, Made in Japan",7.3,,90 min,(2007),28
-534,Solatorobo: Red the Hunter,7.2,E10+,,(2010 Video Game),14
-535,Himote House,7.5,,,(2018),84
-536,Archangel Alpha,,,,(2016),
-537,Anxiety,,,,(2018– ),
-538,Kurogane Communication,6.8,TV-PG,15 min,(1998– ),42
-539,Onmyô taisenki,8.2,,30 min,(2004–2005),21
-540,America's Greatest Otaku,4.8,,,(2011– ),19
-541,The Adventures of Qiaohu Magic Island,,,80 min,(2021),
-542,Battle Spirits: Shounen Gekiha Dan,,,24 min,(2009–2010),
-543,Dragon Ball Z: Ultimate Battle 22,5.9,T,,(1995 Video Game),143
-544,Hood,7.5,,20 min,(2011),13
-545,Mars Daybreak,7.3,TV-PG,,(2004– ),60
-546,Moyashimon,5.3,,24 min,(2010– ),15
-547,Jushin Riger,8.4,,30 min,(1989–1990),25
-548,A Moderate Folly,,,95 min,(2020),
-549,Pokémon Puzzle League,7.0,E,,(2000 Video Game),126
-550,Gunslinger Stratos: The Animation,5.7,TV-14,,(2015),88
-551,Wakakusa no Shârotto,6.5,,24 min,(1977–1978),24
-552,Batoru sutajiamu D.O.N.,7.0,,,(2006 Video Game),47
-553,Gambo,6.9,,12 min,(2013),22
-554,Mr. Massagy,4.8,M,,(2016 Video Game),16
-555,The 44th Chamber of Shaolin,,,14 min,(2023),
-556,Precure All Stars New Stage 2,7.3,,,(2013),10
-557,Prince of Tennis: Atobe's Gift,6.6,,,(2005),27
-558,Death Note,7.6,,10 min,(II) (2017),7
-559,Anime Fan Tom,8.2,Not Rated,71 min,(2010),11
-560,The Casebook of Charlotte Holmes,6.6,,24 min,(1977–1978),22
-561,Litchi DE Hikari Club,4.0,,3 min,(2012),32
-562,A Girl in a Lower Grade,,,,(1999),
-563,Planetarian: Snow Globe,7.1,,36 min,(2021 TV Special),23
-564,Technotise,,,,,
-565,The Wings of Rean,5.8,TV-PG,25 min,(2005– ),16
-566,Rokudenashi blues,,,87 min,(1996),
-567,19 Letters,8.2,,,(2018– ),9
-568,Dragon Force,8.4,K-A,,(1996 Video Game),27
-569,Master Keaton,,,,(1999–2000),
-570,Initial D: Battle Stage 3,5.6,,93 min,(2021 Video),17
-571,A Demon's Destiny: The Lone Warrior,4.2,TV-14,,(2009– ),10
-572,My Other Me: A Film About Cosplayers,8.0,Not Rated,85 min,(2013),88
-573,MarzGurl Reviews,5.8,TV-PG,20 min,(2008– ),73
-574,Zettai Karen Children: Gentei kaikin!! OVA chou sakidori special!!,,,16 min,(2010 Video),
-575,The Mirror/Anime,,,,,
-576,Voice of Fox,7.0,,15 min,(2018),24
-577,Mock & Sweet,7.6,,24 min,(1986–1987),24
-578,Re: Stage! Dream Days,6.1,TV-14,,(2019– ),16
-579,Battle Spirits: The Core Bearers,,,24 min,(2022),
-580,Kaiketsu Zorori the Movie: Secret Of,,,,(2017),
-581,Nekopara OVA: Koneko no hi no yakusoku,6.7,,21 min,(2018 Video),14
-582,Shattered Heaven,,,15 min,(2013– ),
-583,Linking Love,6.4,,116 min,(2017),22
-584,Sekai Meisaku Gekijou Kanketsu Ban: Romeo no Aoi Sora Part 1,,,45 min,(2001 TV Special),
-585,Ikimono-san,,,2 min,(2023– ),
-586,Pluster World,8.1,,,(2003–2004),10
-587,THE IDOLM@STER CINDERELLA GIRLS Theater,6.8,TV-14,3 min,(2017–2019),8
-588,Maesetsu!,6.2,TV-14,,(2020),20
-589,Did You Know Anime?,7.0,,,(2014– ),29
-590,Pokémon Channel,4.9,E,,(2003 Video Game),67
-591,Rex Park: Curse of the Golden Buddha,,,80 min,(2021),
-592,Pothound,7.6,,11 min,(2011),29
-593,Milk inside a bag of milk inside a bag of milk,7.0,T,,(2020 Video Game),39
-594,Tales of Legendia,7.6,T,,(2005 Video Game),81
-595,Record of Lodoss War: Deedlit in Wonder Labyrinth,7.4,,,(2020 Video Game),20
-596,III on a Match,,,,,
-597,Pink mizu-dorobô ame-dorobô,6.4,,30 min,(1990),23
-598,Lycoris That Blazes the Earth,,,175 min,(2014 Video),
-599,Method: A Voice Actor Prepares,,,12 min,(2022),
-600,Sekai Meisaku Gekijou Kanketsu Ban: Daisougen no Chiisana Tenshi Bush Baby Part 1,,,45 min,(2001 TV Special),
-601,Zorori the Naughty Hero: The secret of ZZ,8.1,,70 min,(2017),21
-602,Uta no prince-sama - Revolutions,7.0,,24 min,(2015),47
-603,Blazing Transfer Student,6.3,,46 min,(1991 Video),16
-604,Wansa-kun,8.1,,30 min,(1973),12
-605,Battle Spirits: Gallet's Revolution,,,24 min,(2020– ),
-606,Aikatsu on Parade!,6.4,TV-Y,24 min,(2019– ),11
-607,Enfrentamiento para Compartir un Paraguas,,,11 min,(2022),
-608,Coffee Talk: Hibiscus & Butterfly,6.4,T,,(2023 Video Game),12
-609,WCW SuperBrawl II,7.0,,,(1992 TV Special),77
-610,Three Little Ghosts,6.9,,26 min,(1991–1992),15
-611,Anime: Drawing a Revolution,6.6,,54 min,(2007 TV Movie),84
-612,Yuki Kajiura Live Vol. 1 Reprise,,,,(2020 TV Special),
-613,Super Real Mahjong PIV,,,,(1993 Video Game),
-614,Cold Dark Mirror,6.4,,85 min,(2015),9
-615,Sekai Meisaku Gekijou Kanketsu Ban: Romeo no Aoi Sora Part 2,,,45 min,(2001 TV Special),
-616,Panel de Pon,7.3,E,,(1995 Video Game),25
-617,Tokio Baby,5.2,,28 min,(2010),61
-618,Demon Turf,,E10+,,(2021 Video Game),
-619,Million Doll,7.8,TV-14,,(2015),70
-620,Yu Yu Hakusho 100% Serious Battle,5.3,,,(2018 Video Game),9
-621,Dragon Ball: Advanced Adventure,7.6,E10+,,(2004 Video Game),18
-622,E.X. Troopers,,,,(2012 Video Game),
-623,Bright Memory,6.2,M,,(2019 Video Game),56
-624,Tales of Destiny,7.9,,,(2006 Video Game),10
-625,9 Years of Shadows,,,,(2023 Video Game),
-626,Crimson Tears,7.3,T,,(2004 Video Game),17
-627,Vanguard Bandits,8.0,T,,(1999 Video Game),25
-628,Danchi Tomoo,,,30 min,(2013–2015),
-629,Alundra,7.9,T,,(1997 Video Game),135
-630,BlazBlue: Chrono Phantasma,7.4,T,,(2012 Video Game),59
-631,Otaku Movie Anatomy,,,60 min,(2015– ),
-632,Cliff Hanger,7.5,,,(1983 Video Game),47
-633,Sekai Meisaku Gekijou Kanketsu Ban: Akage no Anne Part 1,,,45 min,(2001 TV Special),
-634,Fortune Quest,,,25 min,(1997– ),
-635,Ishida and Asakura,,,,(2020– ),
-636,Tales of Destiny,7.5,T,,(1997 Video Game),60
-637,Beckii: Schoolgirl Superstar at 14,5.9,,57 min,(2010 TV Movie),14
-638,Lupin III - Speciale L'Avventura Italiana,,,30 min,(2015 TV Movie),
-639,Dragon Ball Z for Kinect,2.6,T,,(2012 Video Game),36
-640,Bento Monogatari,7.3,,27 min,(2010),72
-641,The Witch's House MV,7.8,M,,(2018 Video Game),14
-642,Invasion: Anime,7.0,Unrated,,(2002),13
-643,Cosplayers: The Movie,2.8,,44 min,(2009 Video),24
-644,Himote House OVA,,,16 min,(2020 Video),
-645,Tottoko Hamutarou 2: Hamu-chanzu Daishuugou Dechu,,E,,(2001 Video Game),
-646,Dead Estate,7.5,M,,(2021 Video Game),9
-647,Fans and Freaks: The Culture of Comics and Conventions,8.6,,80 min,(2002),29
-648,Super Sentai Spirits 2004 Live,,,130 min,(2005 Video),
-649,"Farewell, FamiKamen Rider",6.3,,120 min,(2015),24
-650,Ro-Kyu-Bu! Tomoka no ichigo sunday,,,25 min,(2013 Video),
-651,Tales of Destiny II,8.2,T,,(2000 Video Game),80
-652,Valdis Story: Abyssal City,,,,(2013 Video Game),
-653,Animania: The Documentary,,,24 min,(2007 TV Movie),
-654,Pachinko Sexy Reaction,,,,(1998 Video Game),
-655,Executions: The Making of 'The Animatrix',7.7,,55 min,(2003 Video),164
-656,Rave Master: Special Attack Force,6.9,T,,(2005 Video Game),12
-657,Steam Punk and the Next Generation,,,,(2011),
-658,Tsukikage no Tokio,6.1,,7 min,(2015),8
-659,The Legend of the Mystical Ninja Starring Goemon,8.2,E,,(1998 Video Game),80
-660,1 on 1's w/Deuces,,,,(2020– ),
-661,Azure Striker Gunvolt: The Anime,,T,22 min,(2017 Video),
-662,Eiyuu Gaiden Mozaicka,7.0,,,(1991),9
-663,Paranormasight: The Seven Mysteries of Honjo,8.2,M,,(2023 Video Game),6
-664,Sync,8.0,,74 min,(II) (2016),13
-665,Kono Mangga ga Sugoi!,,,,(2018),
-666,Shimajiro Armor Hero: The Version,,,60 min,(2020),
-667,Yûsha tokkyû Might Gaine,7.5,,,(1993– ),16
-668,Nodojiman the World,,,,(2018 TV Movie),
-669,"Akai Shouzou: Char, Soshite Frontal e",,,98 min,(2010),
-670,Neon Genesis Evangelion: Ayanami Raising Project with Asuka Complement Project,,,,(2003 Video Game),
-671,Power Stone,7.8,,,(1999 Video Game),69
-672,Neon Genesis Evangelion: That Little Red-Haired Girl,5.3,Not Rated,7 min,(2005 Video),9
-673,Con Trek,,,17 min,(2009– ),
-674,Super-Happy Kill Time,8.2,,3 min,(2017– ),26
-675,Tales of Destiny 2,,,,(2002 Video Game),
-676,Yu Yu Hakusho: Dark Tournament,6.8,T,,(2004 Video Game),21
-677,Saturday Night Stream,,,180 min,(2015– ),
-678,Ichigeki Sacchuu!! Hoihoi-san,5.9,,15 min,(2004 Video),11
-679,Ultraman Super Fighter Legend,,,40 min,(1996 Video),
-680,Duel Masters Zero,,,,(2007–2008),
-681,Toonami: Broken Promise (Dreams),6.8,,3 min,(2001 Music Video),11
-682,Assholitis,,,6 min,(2017),
-683,Magnos the Robot,,,90 min,(1983),
-684,Shabu Shabu Manga,,,14 min,(2009),
-685,Lost in Fansubs,,PG-13,60 min,(2009 Video),
-686,"Dragon Ball Z: Battle of Gods, Behind the Scenes - Battle of Voice Actors",6.2,,10 min,(2014 Video),7
-687,Sekai Meisaku Gekijou Kanketsu Ban: Peter Pan no Bouken Part 2,,,45 min,(2001 TV Special),
-688,Yo Reviews,,,,(2017– ),
-689,Happening Star,,,50 min,(2012 Video),
-690,Gegege no Kitarou: Obake Nighter,,,30 min,(1997),
-691,Visitor,,,84 min,(1998 TV Movie),
-692,Word!,,,,(2020– ),
-693,Designing Your Future,8.2,,30 min,(2006– ),10
-694,Tower of the Murder Angel,,,5 min,(2016 Video),
-695,From Ingestion to Excretion,,,2 min,(2012),
-696,I'm glad I could keep running,6.2,,15 min,(2018),9
-697,Into the Blue - Perfect Blue Relay Interview File,,,30 min,(2008 Video),
-698,Intermezzo,6.4,,23 min,(2002 Video),26
-699,Akakage,6.3,,,(1969),19
-700,Supa Miruku Chan,7.1,TV-MA,8 min,(1998),24
-701,Yuki Kajiura Live,8.0,,100 min,(2008 Video),12
-702,Flur: Blades of the Universe,,,35 min,(2014– ),
-703,Elemental Gearbolt,7.2,T,,(1997 Video Game),23
-704,Ping Cherry,,,5 min,(2007 Video),
-705,The Samaritan,,,,(II),
-706,Fragile Machine,6.8,,34 min,(2005),72
-707,Sekai Meisaku Gekijou Kanketsu Ban: Daisougen no Chiisana Tenshi Bush Baby Part 2,,,45 min,(2001 TV Movie),
-708,Young Rocket Samurai,,,21 min,(2002 Video),
-709,Anime Related 1,,,93 min,(2006 Video),
-710,Pretty guardians of a queer time and place (extract),,,11 min,(2020 Video),
-711,Dodgeball Academia,7.9,E,,(2021 Video Game),15
-712,The Graveyard Shift Talk Show,,,,(2005– ),
-713,Silent Möbius gaiden: Bakumatsu Anbu shimatsu ki,5.9,,58 min,(1993 Video),9
-714,IVAA,,,,(TV Special),
-715,Eternal Eyes,,E,,(1999 Video Game),
-716,Battle Spirits: Mirage,,,24 min,(2021–2022),
-717,Thousand Arms,7.5,T,,(1999 Video Game),27
-718,Propheteering,,,7 min,(2009),
-719,Ghost 1.0,,E10+,,(2016 Video Game),
-720,Maple Town no Koutsuu Anzen,,,14 min,(1987 Video),
-721,Geek Unique,,,,(1999– ),
-722,Sekai Meisaku Gekijou Kanketsu Ban: Peter Pan no Bouken Part 1,,,45 min,(2001 TV Movie),
-723,Totally Street Fighter!,5.5,,5 min,(2009),28
-724,Puppet Princess: Outtakes,,,,(2001 Video),
-725,The Otaku Corner,,,,(2017),
-726,Super Robot Spirits 2003 -Spring Team-,,,115 min,(2003 Video),
-727,Robonation Super Live Super Robot Spirits Vol.1,,,111 min,(2004 Video),
-728,Lectures by Satoshi Kon,,,42 min,(2007 Video),
-729,Seikai no monshô tokubetsu hen,,,90 min,(2000 TV Movie),
-730,Mercy of Whims,,,,(2019– ),
-731,Investigating Anime,2.8,,,(2010 Video),12
-732,Albert Odyssey: Legend of Eldean,7.9,,,(1996 Video Game),11
-733,Petit Manga,,,5 min,(2009),
-734,D-1 Devastator,,,,(1992–1993),
-735,Toonami: Advanced Robotics,4.1,,3 min,(2001 Music Video),20
-736,Saber Marionette J Again OVA,7.5,,30 min,(2001 Video),21
-737,Translyatsia Safronova: Pro Konstruktory,2.5,,65 min,(2015 TV Special),28
-738,ROH: Contention,,,,(2009 Video),
-739,Sword Art Online: Fatal Bullet,6.7,T,,(2018 Video Game),62
-740,Chô Jigen Kakumei Anime: Dimension Hai Sukûru,5.0,,25 min,(2019– ),11
-741,Seven Days in Japan,7.4,PG-13,35 min,(2005),15
-742,Line Offline Salaryman,,,5 min,(2013– ),
-743,Fighter's High Gaiden: Adam Kane,,,9 min,(2010 Video),
-744,AnimeIntensity,,,,(2011– ),
-745,From Then to Now: Behind the Scenes,,Not Rated,21 min,(2003 Video),
-746,FanLove,,,97 min,(2016),
-747,All Ages of Geek,,,,(2019 Video),
-748,Kendo Rage,7.2,E,,(1993 Video Game),7
-749,Anime Related 2,,PG-13,58 min,(2006 Video),
-750,Cartoon Boom,,,,(2015 Podcast Series),
-751,BooruBrowser,,,,(2016 Video Game),
-752,Pokémon Shuffle,6.2,,,(2015 Video Game),49
-753,Dr. Slump & Arale-chan: Hello! Wonder Island,6.4,,,(1981 TV Movie),8
-754,Mega Man Battle Network 2,7.1,E,,(2001 Video Game),28
-755,Musasi-no,,,,(2022– ),
-756,World of Horror,7.4,M,,(2019 Video Game),11
-757,Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www,,,14 min,(2014),
-758,Wonder Boy: Asha in Monster World,,E10+,,(2021 Video Game),
-759,Animax Special: The Making of 'Metropolis',6.3,,33 min,(2002 Video),29
-760,Gtts,,,,,
-761,Weeb Watch-a-Thon,,,,(2019 Video),
-762,Sekai Meisaku Gekijou Kanketsu Ban: Konnichiwa Anne Part 1,,,45 min,(2011 TV Special),
-763,Melon Soda,,,16 min,(2008),
-764,Acc3so,,,30 min,(2012–2014),
-765,Engimon,,,24 min,(2018),
-766,Drill Dozer,7.3,E,,(2005 Video Game),41
-767,The Last Digidestined,,,6 min,(2019),
-768,Lost Ruins,,,,(2021 Video Game),
-769,Sigma Star Saga,,E10+,,(2005 Video Game),
-770,Invasión,,,,(2005–2008),
-771,Sekai Meisaku Gekijou Kanketsu Ban: Konnichiwa Anne Part 2,,,45 min,(2011 TV Special),
-772,Echogeddon,,,,(2016– ),
-773,Tuer encore? Jamais plus!,,,23 min,(2009),
-774,Sekai Meisaku Gekijou Kanketsu Ban: Akage no Anne Part 2,,,45 min,(2001 TV Special),
-775,Aura,,,32 min,(II) (2017),
-776,Violet Battlefield,,TV-14,,(2013– ),
-777,Madoromi no Vevara,,,10 min,(2019 Video),
-778,Momodora: Reverie Under the Moonlight,6.4,T,,(2016 Video Game),25
-779,Castlevania: The Lecarde Chronicles 2,,T,,(2017 Video Game),
-780,Anime. Faszination des Fremden,,,60 min,(2008),
-781,Kaubôi bibappu,8.3,Not Rated,,(1998 Video Game),32
-782,Hamtaro: Ham-Ham Heartbreak,6.8,E,,(2002 Video Game),7
-783,Infinite Adventures,,,,(2018 Video Game),
-784,Frank DanCoolo: Paranormal Drug Dealer,7.1,PG-13,8 min,(2010),61
-785,Megami Kouhosei Special Curriculum: Nakama,,,24 min,(2002 Video),
-786,Pop Filter Podcast,,,,(2019 Video),
-787,Ys III: Wanderers from Ys,7.2,,,(1989 Video Game),16
-788,Tenkai Knights: Brave Battle,2.3,E,,(2014 Video Game),13
-789,Hamtaro: Ham-Ham Games,,E,,(2004 Video Game),
-790,TV Animation X: Unmei No Tatakai,6.5,,,(2002 Video Game),8
-791,Spriggan: Rob Zombie - Feel So Numb,,,,(2008 Music Video),
-792,Atelier Iris 3: Grand Phantasm,7.5,T,,(2006 Video Game),32
-793,Magic Knight Rayearth,8.2,T,,(1995 Video Game),31
-794,The Lo0n,,,5 min,(2011),
-795,Cybernaut,,,,(1984 Video Game),
-796,Mega Man Battle Network 4,4.8,E,,(2003 Video Game),8
-797,Robotech: The New Generation,6.5,,,(2007 Video Game),14
-798,Psychic Force 2012,5.6,T,,(1998 Video Game),13
-799,Find Love 2: The Prologue,,,,(1998 Video Game),
-800,Toonami: Mad Rhetoric (Walking Stick),,,3 min,(2001 Music Video),
-801,Coromon,7.3,E,,(2022 Video Game),8
-802,Otakus,8.3,,8 min,(2007),125
-803,Cotton Fantasy: Superlative Night Dreams,,E10+,,(2021 Video Game),
-804,Hamtaro: Rainbow Rescue,,E,,(2003 Video Game),
-805,ActRaiser Renaissance,,E10+,,(2021 Video Game),
-806,Ara Fell,,T,,(2020 Video Game),
-807,Mega Man Battle Network 5: Double Team DS,,E,,(2005 Video Game),
-808,Sûpâ Riaru Mâjan PV,,,,(1994 Video Game),
-809,Time Hollow,7.2,T,,(2008 Video Game),14
-810,The Legend of the Mystical Ninja,7.6,E,,(1991 Video Game),80
-811,Psychic Force,6.5,T,,(1995 Video Game),10
-812,Ib,,T,,(2022 Video Game),
-813,Recettear: An Item Shop's Tale,6.5,E,,(2007 Video Game),12
-814,Super Real Mahjong PII & PIII Custom,,,,(1994 Video Game),
-815,Demon Turf: Neon Splash,,E10+,,(2022 Video Game),
-816,Cotton 100%,,E10+,,(1994 Video Game),
-817,Momodora,5.2,,,(2010 Video Game),11
-818,Rusted Moss,,,,(2023 Video Game),
-819,Minoria,,T,,(2019 Video Game),
-820,Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition,6.4,,,(2015 Video Game),32
-821,Macross Frontier Music Clip Shuu: Nyankuri,7.2,,,(2010 Music Video),16
-822,Robotech: The Macross Saga,7.6,E,,(2002 Video Game),48
-823,"Prinny 2: Dawn of Operation Panties, Dood!",6.5,T,,(2010 Video Game),8
-824,Find Love 2: Rhapsody,,,,(1998 Video Game),
-825,Cotton 2: Magical Night Dreams,,E10+,,(1997 Video Game),
-826,Nero: Innocence,,,4 min,(2010 Music Video),
-827,30XX,,E10+,,(2021 Video Game),
-828,TV Animation X: Kado o bufeito,,,,(2002 Video Game),
-829,Strong Bad's Cool Game for Attractive People Episode 5: 8-Bit Is Enough,8.2,E10+,,(2008 Video Game),31
-830,Spriggan: Saju - Jing Ling,,,,(2012 Music Video),
-831,Kawaii Deathu Desu,,,,(2019 Video Game),
-832,M.o.v.e: Raimei - Out of Kontrol,,,5 min,(2005 Music Video),
-833,Momodora II,6.0,,,(2011 Video Game),9
-834,Otomedius,,T,,(2007 Video Game),
-835,Momodora III,7.0,,,(2014 Video Game),9
-836,Evan's Remains,6.7,E,,(2020 Video Game),11
-837,Blaster Master Zero 2,,E10+,,(2019 Video Game),
-838,ANNCast,,,,(2009 Podcast Series),
-839,Panorama Cotton,,E10+,,(1994 Video Game),
-840,Psychic Force Complete,,,,(2005 Video Game),
-841,DaiCast,,,,(2017 Podcast Series),
-842,Puyo Pop,,E,,(2001 Video Game),
-843,Parodius Portable,,T,,(2007 Video Game),
-844,Noodle Shop Podcast,,,,(2022 Podcast Series),
-845,Super Real Mahjong PII & PIII,,,,(1992 Video Game),
-846,Ys IV: Mask of the Sun,,,,(1993 Video Game),
-847,Vacant Sky Vol. I: Contention,6.6,T,,(2008 Video Game),14
-848,M.U.S.H.A.: Metallic Uniframe Super Hybrid Armor,8.2,,,(1990 Video Game),22
-849,Rainbow Cotton,,E10+,,(2000 Video Game),
-850,Shadowrun,,,,(1996 Video Game),
-851,Jack Move,,E10+,,(2022 Video Game),
-852,Milon's Secret Castle,2.8,,,(1986 Video Game),32
-853,Another Century's Episode,,,,(2005 Video Game),
-854,Castlevania: Resurrection,,T,,(2021 Video Game),
-855,Pocky & Rocky 2,7.6,E,,(1994 Video Game),9
-856,Mega Man Battle Network 4.5: Real Operation,,E,,(2004 Video Game),
-857,Black Belt Challenge,,E,,(2002 Video Game),
-858,Air Strike 1944: Flight for Freedom,,E,,(2006 Video Game),
-859,DeathSmiles II,,T,,(2009 Video Game),
-860,Reaper,,,,(2020 Music Video),
-861,Khimera: Destroy All Monster Girls,,,,(2016 Video Game),
-862,Puyo Puyo 2,,E,,(1994 Video Game),
-863,Blaster Master Zero 3,,E10+,,(2021 Video Game),
-864,Hate Plus,,,,(2013 Video Game),
-865,Psychic Force: Puzzle Taisen,,,,(1997 Video Game),
-866,Slime-San,,E10+,,(2017 Video Game),
-867, Ranma ½ OVA,7.4,Not Rated,31 min,(1993–2008),481
-868, Crying Freeman,6.6,TV-MA,52 min,(1988–1994),289
-869, Crying Freeman,6.5,TV-MA,56 min,(1988–1994),226
-870, Crying Freeman,6.4,TV-MA,52 min,(1988–1994),208
-871, Crying Freeman,6.3,TV-MA,52 min,(1988–1994),206
-872, Crying Freeman,6.7,TV-MA,52 min,(1988–1994),165
-873, Outlaw Star,7.3,TV-14,25 min,(1998– ),108
-874, Mai otome,,,25 min,(2005–2006),
-875, SMG4,7.5,TV-14,10 min,(2011– ),39
-876, SMG4,7.0,TV-14,13 min,(2011– ),37
-877, SMG4,6.9,TV-14,14 min,(2011– ),36
-878, SMG4,7.2,TV-14,12 min,(2011– ),35
-879, SMG4,7.5,TV-14,12 min,(2011– ),34
-880, SMG4,7.2,TV-14,12 min,(2011– ),32
-881, SMG4,7.5,TV-14,11 min,(2011– ),31
-882, SMG4,7.4,TV-14,10 min,(2011– ),31
-883, SMG4,7.6,TV-14,12 min,(2011– ),33
-884, That Time I Got Reincarnated as a Slime,6.8,TV-PG,24 min,(2018– ),162
-885, SMG4,7.8,TV-14,13 min,(2011– ),49
-886, SMG4,7.5,TV-14,17 min,(2011– ),58
-887, Senki Zessho Symphogear,,,,(2012– ),
-888, Asdfmovie,6.8,TV-PG,2 min,(2008– ),172
-889, Girls Bravo,6.6,TV-MA,,(2004–2005),27
-890, SMG4,6.6,TV-14,13 min,(2011– ),25
-891, Ranma ½,6.4,TV-14,23 min,(1989–1992),46
-892, The Late Show Con Karim Musa,,,13 min,(2016– ),
-893, The Late Show Con Karim Musa,,,14 min,(2016– ),
-894, Ranma ½,6.4,TV-14,23 min,(1989–1992),37
-895, Night Warriors: Darkstalkers' Revenge,,TV-14,,(1997–1998),
-896, Super HxEros,5.8,,,(2020– ),24
-897, Miss Machiko,,,,(1981–1983),
-898, Miss Machiko,,,,(1981–1983),
-899, Mushoku Tensei: Jobless Reincarnation,8.3,TV-14,24 min,(2021– ),1348
-900, Brandon's Cult Movie Reviews,,,,(2011– ),
-901, Jaiden Animations,7.6,TV-G,2 min,(2014– ),15
-902, Rick and Morty,6.4,TV-14,23 min,(2013– ),8858
-903, SMG4,5.9,TV-14,11 min,(2011– ),33
-904, World's End Harem,7.6,TV-MA,,(2021–2022),79
-905, World's End Harem,7.8,TV-MA,,(2021–2022),80
-906, World's End Harem,7.2,TV-MA,,(2021–2022),71
-907, World's End Harem,7.3,TV-MA,,(2021–2022),70
-908, World's End Harem,7.0,TV-MA,,(2021–2022),73
-909, Aika Zero,5.7,,25 min,(2009– ),19
-910, Yu-Gi-Oh! The Abridged Series,7.8,TV-14,,(2006– ),24
-911, Corncast,,,74 min,(2020–2021),
-912, Corncast,,,102 min,(2020–2021),
-913, Corncast,,,84 min,(2020–2021),
-914, Corncast,,,77 min,(2020–2021),
-915, Corncast,,,69 min,(2020–2021),
-916, Corncast,,,54 min,(2020–2021),
-917, JAR Media Podcast,,E10+,70 min,(2016– ),
-918, JAR Media Podcast,,E10+,119 min,(2016– ),
-919, Fist of the North Star,6.9,TV-14,25 min,(1984–1988),38
-920, Black Lagoon: Roberta's Blood Trail,7.6,TV-MA,34 min,(2010–2011),150
-921, Girls Bravo,7.3,TV-MA,,(2004–2005),14
-922, SMG4,5.4,TV-14,10 min,(2011– ),18
-923, QAnon Anonymous,,,,(2018– ),
-924, Brandon's Cult Movie Reviews,,,24 min,(2011– ),
-925," Um, Actually",,,39 min,(2018– ),
-926, Weebs & Waifus,,,,(2022– ),
-927, Miss Machiko,,,,(1981–1983),
-928, The Matt Walsh Show,,,,(2018– ),
-929, The Matt Walsh Show,,,,(2018– ),
-930, The Matt Walsh Show,,,,(2018– ),
-931, Sankarea,7.4,TV-MA,25 min,(2012),28
-932, Attack on Titan,9.1,TV-MA,26 min,(2013–2023),23654
-933,Milk outside a bag of milk outside a bag of milk,,T,,(2021 Video Game),
-934,Hammerhead,,,8 min,(2015),
-935, Sekirei,7.6,TV-MA,28 min,(2008–2010),46
-936, Haganai: I Don't Have Many Friends,7.9,TV-MA,25 min,(2011– ),43
-937, Mushi-Shi,8.5,TV-14,44 min,(2005–2014),1552
-938, A Certain Scientific Railgun,7.1,TV-14,,(2009– ),162
-939, Mushi-Shi: Next Passage,8.6,TV-14,47 min,(2014–2015),1209
-940, In Search of the Lost Future,,TV-14,23 min,(2014– ),
-941, The Art of Japanese Life,5.5,,59 min,(2017),28
-942, Rage of Bahamut: Virgin Soul,7.5,,24 min,(2017),28
-943, Rage of Bahamut: Virgin Soul,7.1,,24 min,(2017),27
-944, Doraemon,7.4,TV-PG,11 min,(1979–2005),7
-945, Doraemon,6.9,TV-PG,11 min,(1979–2005),11
-946, Gods School,8.2,,,(2018– ),13
+rank_id,title,show_type,rating,votes,runtime_minutes,episodes
+1b,Fullmetal Alchemist,TV,8.72,13518,24,51
+2b,Death Note,TV,8.86,13099,23,37
+3b,Cowboy Bebop,TV,8.93,12432,25,26
+4b,Spirited Away,movie,8.96,10699,125,
+5b,Princess Mononoke,movie,8.92,9963,133,
+6b,,TV,8.56,10223,24,14
+7b,Elfen Lied,TV,8.29,10528,25,13
+8b,Neon Genesis Evangelion,TV,8.32,10364,25,26
+9b,Code Geass: Lelouch of the Rebellion,TV,8.85,9303,24,25
+10b,Bleach,TV,7.94,9238,23,366
+11b,Code Geass: Lelouch of the Rebellion R2,TV,9.01,7988,half,25
+12b,FLCL,OAV,8.18,8759,half,6
+13b,Naruto,TV,7.52,9383,23,220
+14b,Samurai Champloo,TV,8.53,8020,23,26
+15b,Trigun,TV,8.37,8055,half,26
+16b,Gurren Lagann,TV,8.73,7069,25,27
+17b,Howl's Moving Castle,movie,8.62,6935,118,
+18b,Rurouni Kenshin: Trust & Betrayal,OAV,8.91,6704,half,4
+19b,Full Metal Panic!,TV,8.12,7275,23,24
+20b,Ouran High School Host Club,TV,8.52,6774,24,26
+21b,Fullmetal Alchemist: Brotherhood,TV,9.09,6089,24,64
+22b,Clannad,TV,8.58,6310,25,24
+23b,Fruits Basket,TV 1/2001,8.13,6401,24,26
+24b,Akira,movie,7.96,6517,124,
+25b,Cowboy Bebop: The Movie,,8.44,6066,120,
+26b,Chobits,TV,7.63,6693,26,26
+27b,Full Metal Panic? Fumoffu,TV,8.40,6072,24,12
+28b,5 Centimeters Per Second,movie,8.67,5847,62,
+29b,Rurouni Kenshin,TV 1996,8.36,5998,25,95
+30b,,movie,8.66,5591,98,
+31b,Ghost in the Shell,movie,8.23,5873,83,
+32b,Clannad After Story,TV,8.85,5380,half,25
+33b,Hellsing,TV,7.64,6185,23,13
+34b,Final Fantasy VII: Advent Children,movie,8.00,5894,101,
+35b,Azumanga Daioh,TV,8.38,5596,half,26
+36b,Fullmetal Alchemist: The Movie - Conqueror of Shamballa,,7.99,5691,105,
+37b,Ghost in the Shell: Stand Alone Complex,TV,8.51,5242,25,26
+38b,Nausicaä of the Valley of the Wind,movie,8.68,5140,116,
+39b,Mushi-Shi,TV,8.80,5052,25,26
+40b,Darker than Black,TV,8.30,5323,24,26
+41b,Steins;Gate,TV,9.08,4864,half,24
+42b,Fate/stay night,TV,7.51,5859,half,24
+43b,Claymore,TV,8.17,5336,23,26
+44b,Toradora!,TV,8.47,5074,24,25
+45b,Inuyasha,TV,7.29,5878,25,167
+46b,Castle in the Sky,movie,8.53,4967,124,
+47b,Full Metal Panic! The Second Raid,TV,8.42,5024,24,13
+48b,Black Lagoon,TV,8.29,5079,24,12
+49b,Blood+,TV,7.98,5225,half,50
+50b,Angel Beats!,TV,8.53,4876,24,13
+51b,Neon Genesis Evangelion: The End of Evangelion,movie,8.33,4970,97,
+52b,My Neighbor Totoro,movie,8.65,4778,86,
+53b,Grave of the Fireflies,movie,8.69,4661,88,
+54b,Dragon Ball Z,TV,7.17,5639,half,291
+55b,Eureka Seven,TV,8.30,4764,25,50
+56b,Air,TV,7.95,4906,24,13
+57b,Berserk,TV 1997,8.45,4574,24,25
+58b,Love Hina,TV,7.40,5218,half,25
+59b,Last Exile,TV,8.33,4546,23,26
+60b,When They Cry - Higurashi,TV,8.09,4633,24,26
+61b,GTO: Great Teacher Onizuka,TV,8.66,4272,27,43
+62b,Baccano!,TV,8.66,4267,half,16
+63b,Wolf's Rain,TV,7.94,4522,half,26
+64b,Welcome to the NHK,TV,8.50,4191,24,24
+65b,Sword Art Online,TV,7.34,4829,24,25
+66b,Serial Experiments Lain,TV,7.89,4484,half,13
+67b,Shakugan no Shana,TV,8.01,4390,25,24
+68b,Haibane Renmei,TV,8.47,4114,half,13
+69b,One Piece,TV,8.15,4261,25,
+70b,Attack on Titan,TV,8.33,4147,24,25
+71b,Kiki's Delivery Service,movie,8.28,4142,103,
+72b,Naruto Shippūden,TV,7.89,4338,23,500
+73b,,TV,8.08,4170,25,26
+74b,Samurai 7,TV,8.16,4031,25,26
+75b,Soul Eater,TV,8.11,3993,25,51
+76b,Ergo Proxy,TV,7.99,4043,half,23
+77b,Black Lagoon: The Second Barrage,TV,8.44,3819,24,12
+78b,Spice and Wolf,TV,8.37,3848,24,13
+79b,School Rumble,TV,8.25,3899,23,26
+80b,Lucky Star,TV,8.00,3997,24,24
+81b,Eden of the East,TV,8.37,3806,22,11
+82b,Kanon,TV 2/2006,8.63,3666,24,24
+83b,Gungrave,TV,8.35,3764,25,26
+84b,Puella Magi Madoka Magica,TV,8.61,3614,24,12
+85b,Dragon Ball,TV,7.28,4269,half,153
+86b,Monster,TV,8.76,3546,24,74
+87b,High School of the Dead,TV,7.54,4025,24,12
+88b,Summer Wars,movie,8.71,3460,114,
+89b,Chrono Crusade,TV,7.76,3853,24,24
+90b,Bakemonogatari,TV,8.34,3578,25,15
+91b,anohana: The Flower We Saw That Day,TV,8.75,3354,23,11
+92b,Gunslinger Girl,TV,7.94,3663,23,13
+93b,Lunar Legend Tsukihime,TV,8.03,3555,24,12
+94b,,TV,7.76,3669,24,13
+95b,Yu Yu Hakusho: Ghost Files,TV,8.10,3513,half,112
+96b,R.O.D -The TV-,,8.35,3405,25,26
+97b,Read or Die,OAV,8.05,3528,29,3
+98b,Mobile Suit Gundam Seed,TV,8.08,3467,half,50
+99b,Durarara!!,TV,8.06,3475,25,24
+100b,Paranoia Agent,TV,7.89,3534,25,13
+101b,My-HiME,TV,8.06,3435,25,26
+102b,Cardcaptor Sakura,TV,7.94,3462,half,70
+103b,Outlaw Star,TV,7.87,3478,half,26
+104b,Ah! My Goddess,TV,7.67,3568,half,26
+105b,RahXephon,TV,8.01,3272,23,26
+106b,Paprika,movie,8.29,3153,86,
+107b,Mobile Suit Gundam Wing,TV,7.55,3458,half,49
+108b,.hack//SIGN,TV,7.01,3645,25,26
+109b,Please Teacher!,TV,7.61,3334,22,12
+110b,K-ON!,TV,7.83,3229,24,14
+111b,Voices of a Distant Star,OAV,8.12,3111,25,1
+112b,Rumbling Hearts,TV,7.88,3191,24,14
+113b,,movie,8.86,2837,163,
+114b,Ghost in the Shell 2: Innocence,movie,7.85,3178,99,
+115b,Honey and Clover,TV,8.40,2948,25,26
+116b,D.N.Angel,TV,7.36,3341,23,26
+117b,Gankutsuou: The Count of Monte Cristo,TV,8.47,2877,24,24
+118b,Witch Hunter Robin,TV,7.41,3281,24,26
+119b,Perfect Blue,movie,8.10,2993,80,
+120b,Kimi ni Todoke - From Me to You,TV,8.44,2864,23,25
+121b,Trinity Blood,TV,7.39,3272,24,24
+122b,Nodame Cantabile,TV,8.65,2795,25,23
+123b,Shuffle!,TV,7.51,3189,24,24
+124b,Neon Genesis Evangelion: Death & Rebirth,movie,7.13,3304,139,
+125b,Ninja Scroll,movie,7.55,3095,94,
+126b,Rurouni Kenshin: Reflection,OAV,8.06,2898,35,2
+127b,Genshiken,TV,8.11,2868,25,12
+128b,Excel Saga,TV,7.44,3124,half,26
+129b,Ghost in the Shell: Stand Alone Complex 2nd GIG,TV,8.75,2652,,26
+130b,BECK: Mongolian Chop Squad,TV,8.42,2753,25,26
+131b,Kino's Journey,TV,8.57,2696,24,13
+132b,Gantz,TV,7.14,3229,24,26
+133b,,TV,8.43,2730,25,45
+134b,Hellsing Ultimate,OAV,8.41,2733,50,10
+135b,Whisper of the Heart,movie,8.48,2699,111,
+136b,Vampire Hunter D: Bloodlust,movie,7.99,2858,102,
+137b,When They Cry - Kai,TV,8.14,2804,24,24
+138b,Vampire Knight,TV,7.59,3003,24,13
+139b,Scrapped Princess,TV,7.96,2854,half,24
+140b,Tsubasa: RESERVoir CHRoNiCLE,TV,7.62,2971,25,
+141b,Evangelion: 1.0 You Are,movie,8.43,2674,101,
+142b,Black Cat,TV,7.49,2983,24,24
+143b,His and Her Circumstances,TV,8.00,2788,24,26
+144b,Noir,TV,7.58,2929,24,26
+145b,Blood: The Last Vampire,movie,6.78,3262,48,
+146b,Sailor Moon,TV,6.97,3115,Half,46
+147b,D.Gray-man,TV,7.89,2732,half,103
+148b,xxxHOLiC,TV,7.92,2717,25,24
+149b,Hunter X Hunter,TV,8.56,2498,23,62
+150b,ef: a tale of memories,TV,8.54,2496,24,12
+151b,Moribito - Guardian of the Spirit,TV,8.48,2511,25,26
+152b,Midori Days,TV,7.66,2774,24,13
+153b,Planetes,TV,8.55,2451,25,26
+154b,School Rumble: 2nd Semester,TV,8.34,2513,24,26
+155b,Rosario + Vampire,TV,7.11,2936,25,13
+156b,Millennium Actress,movie,8.57,2427,87,
+157b,Bamboo Blade,TV,8.21,2531,half,26
+158b,,movie,8.18,2542,91,
+159b,Appleseed,movie,7.15,2892,107,
+160b,Porco Rosso,movie,8.17,2514,93,
+161b,Ga-Rei-Zero,TV,8.07,2535,24,12
+162b,Love Hina Again,OAV,7.30,2777,30,3
+163b,Speed Grapher,TV,7.76,2605,25,24
+164b,Kaze no Stigma,TV,7.60,2657,24,24
+165b,Looking Up At The Half-Moon,TV,8.53,2369,half,6
+166b,A Certain Magical Index,TV,7.24,2783,24,24
+167b,Romeo × Juliet,TV,8.44,2375,half,24
+168b,Basilisk,TV,7.62,2615,24,24
+169b,Blue Exorcist,TV,7.76,2563,half,25
+170b,,TV,7.40,2670,24,26
+171b,Mobile Suit Gundam 00,TV,8.22,2379,24,25
+172b,Black Butler,TV,7.82,2491,half,24
+173b,Golden Boy,OAV,7.93,2457,25,6
+174b,,OAV,7.14,2722,,9
+175b,Another,TV,7.90,2454,half,12
+176b,Love Hina X'mas Special - Silent Eve,,7.63,2537,44,
+177b,Fairy Tail,TV,7.72,2490,24,175
+178b,Spice and Wolf II,TV,8.52,2242,24,12
+179b,Ai Yori Aoshi,TV,7.38,2586,half,24
+180b,Evangelion: 2.0 You Can,movie,8.75,2173,108,
+181b,Full Metal Panic! The Second Raid,OAV,8.00,2368,half,1
+182b,,TV,7.76,2443,24,12
+183b,S-CRY-ed,TV,7.07,2660,23,26
+184b,Strawberry Panic!,TV,8.26,2257,half,26
+185b,,movie,7.92,2348,75,
+186b,Skip Beat!,TV,8.33,2232,Half,25
+187b,Tokyo Godfathers,movie,8.39,2203,92,
+188b,Dragon Ball GT,TV,5.48,3372,half,64
+189b,Please Twins!,TV,7.26,2524,22,12
+190b,Kurenai,TV,8.01,2280,25,12
+191b,Karin,TV,7.50,2432,25,24
+192b,"Now and Then, Here and There",TV,8.17,2230,Half,13
+193b,Kaleido Star,TV,8.63,2110,23,51
+194b,Elfen Lied,OAV,7.39,2460,25,1
+195b,KenIchi the Mightiest Disciple,TV,8.24,2188,half,50
+196b,Oreimo,TV,7.53,2380,24,16
+197b,Air Gear,TV,7.54,2373,half,25
+198b,NANA,TV,8.52,2097,half,47
+199b,Rozen Maiden,TV,7.65,2334,24,12
+200b,Fate/Zero,TV,8.24,2167,,13
+201b,Naruto the Movie: Ninja Clash in the Land of Snow,,7.02,2537,82,
+202b,Honey and Clover II,TV,8.54,2083,25,12
+203b,Vandread,TV,7.41,2387,23,13
+204b,Darker than Black: Gemini of the Meteor,TV,7.75,2279,24,12
+205b,Ranma ½,TV,7.67,2302,Half,161
+206b,Destiny of the Shrine Maiden,TV,7.85,2247,half,12
+207b,Shakugan no Shana Second,TV,7.88,2235,26,24
+208b,Psycho-Pass,TV,8.09,2166,half,22
+209b,My Bride is a Mermaid,TV,7.99,2193,24,26
+210b,School Days,TV,6.47,2705,25,12
+211b,Lovely Complex,TV,8.23,2124,24,24
+212b,Love Hina Spring Special - I Wish Your Dream,,7.25,2406,45,
+213b,Pokémon,TV,5.57,3122,25,276
+214b,Corpse Princess: Aka,TV,7.78,2234,24,13
+215b,Maria Watches Over Us,TV,8.53,2027,half,13
+216b,Bleach the Movie: Memories of Nobody,,7.40,2325,87,
+217b,Escaflowne: The Movie,,6.75,2548,98,
+218b,Afro Samurai,TV,7.05,2436,25,5
+219b,Tenjho Tenge,TV,6.94,2460,23,24
+220b,Utawarerumono,TV,7.88,2158,23,26
+221b,Mobile Suit Gundam Seed Destiny,TV,7.42,2287,24,50
+222b,Ah! My Goddess: The Movie,,7.81,2168,105,
+223b,X,TV,7.63,2215,24,24
+224b,Maid Sama!,TV,7.28,2321,24,26
+225b,"She, The Ultimate Weapon",TV,7.59,2217,23,13
+226b,,TV 2009 renewal,7.15,2344,25,14
+227b,Deadman Wonderland,TV,7.46,2246,half,12
+228b,Ghost Hunt,TV,7.85,2123,25,25
+229b,Rurouni Kenshin: The Motion Picture,,7.34,2246,90,
+230b,Bludgeoning Angel Dokuro-chan,TV,6.92,2363,13,8
+231b,Ponyo on the Cliff by the Sea,movie,7.90,2058,101,
+232b,Sayonara Zetsubou-sensei,TV,8.17,1985,half,12
+233b,Oh My Goddess!,OAV,7.59,2133,half,5
+234b,Bunny Drop,TV,8.75,1849,half,11
+235b,Hell Girl,TV,7.52,2144,25,26
+236b,Negima!,TV,7.07,2272,half,26
+237b,Sword of the Stranger,movie,8.44,1897,102,
+238b,InuYasha the Movie 2: The Castle Beyond the Looking Glass,,7.47,2124,100,
+239b,Noein - to your other self,TV,7.95,1996,half,24
+240b,Birdy the Mighty: Decode,TV,7.91,1993,half,13
+241b,One Punch Man,TV,8.22,1917,,
+242b,,TV,7.69,2042,25,26
+243b,Metropolis,movie,7.37,2125,107,
+244b,InuYasha the Movie: Affections Touching Across Time,,7.36,2127,100,
+245b,Jin-Roh - The Wolf Brigade,movie,7.89,1984,101,
+246b,Digimon Adventure,TV,6.75,2316,half,54
+247b,,TV,7.63,2036,24,12
+248b,A Certain Scientific Railgun,TV,7.49,2074,24,24
+249b,Baka and Test - Summon the Beasts,TV,7.75,1987,24,13
+250b,Myself; Yourself,TV,7.90,1944,23,13
+251b,Vampire Knight Guilty,TV,7.76,1966,24,13
+252b,Sekirei,TV,7.44,2046,half,12
+253b,,TV,7.15,2119,25,26
+254b,Getbackers,TV,7.59,1996,26,49
+255b,Fushigi Yugi,TV,7.54,2005,25,52
+256b,,movie series,8.67,1743,,
+257b,Heroic Age,TV,7.82,1933,25,26
+258b,Kill la Kill,TV,8.19,1835,24,24
+259b,Wolf's Rain,OAV,8.21,1827,half,4
+260b,,TV,7.63,1965,24,13
+261b,Lupin III: The Castle of Cagliostro,movie,8.20,1808,100,
+262b,Corpse Princess: Kuro,TV,7.92,1868,24,13
+263b,Buso Renkin,TV,7.37,1996,25,26
+264b,Hikaru no Go,TV,8.17,1786,23,75
+265b,Samurai Deeper Kyo,TV,7.20,2020,24,26
+266b,Ghost in the Shell: Stand Alone Complex: Solid State Society,movie,8.31,1745,105,
+267b,Vampire Hunter D,OAV,7.02,2066,80,1
+268b,Hajime no Ippo,TV,8.74,1654,24,76
+269b,Cat Planet Cuties,TV,7.66,1874,24,12
+270b,Case Closed,TV,7.56,1900,25,
+271b,InuYasha the Movie 3: Swords of an Honorable Ruler,,7.78,1842,98,
+272b,Vandread: The Second Stage,TV,7.45,1919,23,13
+273b,True Tears,TV,7.46,1915,24,13
+274b,K-ON!!,TV 2,7.67,1844,24,26
+275b,Rideback,TV,7.82,1803,half,12
+276b,Guilty Crown,TV,7.29,1919,half,22
+277b,Gosick,TV,8.26,1693,24,24
+278b,DearS,TV,6.76,2065,24,12
+279b,Suzuka,TV,7.40,1871,half,26
+280b,Rosario + Vampire Capu2,TV,7.33,1888,half,13
+281b,Magical Shopping Arcade Abenobashi,TV,7.42,1859,24,13
+282b,"No Game, No Life",TV,8.17,1678,24,12
+283b,Ah! My Goddess: Flights of Fancy,TV,7.88,1739,24,24
+284b,Gravitation,TV,7.46,1833,22,13
+285b,Martian Successor Nadesico,TV,7.76,1762,22,26
+286b,Tenchi Muyo!,OAV 1/1992,7.91,1727,30,6
+287b,Mobile Suit Gundam Wing: Endless Waltz,OAV,7.59,1793,30,3
+288b,Fate/Zero,TV 2,8.39,1621,23,12
+289b,My-Otome,TV,7.63,1783,half,26
+290b,Hayate the Combat Butler,TV,7.88,1727,25,52
+291b,Crest of the Stars,TV,8.04,1691,25,13
+292b,Blassreiter,TV,7.71,1761,half,24
+293b,Angelic Layer,TV,7.34,1844,24,26
+293b,Black Blood Brothers,TV,7.04,1923,half,12
+293b,Devil May Cry,TV,6.85,1976,half,12
+296b,Please Teacher!,OAV,7.48,1802,21,1
+297b,,TV,7.50,1795,24,12
+298b,Natsume's Book of Friends,TV,8.41,1601,half,13
+299b,Birdy the Mighty Decode:02,TV,8.10,1661,24,12
+300b,Macross Frontier,TV,8.35,1593,26,25
+301b,Yakitate!! Japan,TV,7.02,1884,25,69
+302b,Casshern Sins,TV,7.63,1732,24,24
+303b,Last Order Final Fantasy VII,OAV,7.37,1786,25,1
+304b,Minami-ke,TV,7.89,1664,25,13
+305b,Blue Gender,TV,6.64,1964,25,26
+306b,Ikki Tousen,TV,6.21,2090,24,13
+307b,Squid Girl,TV,7.92,1636,24,12
+308b,Mobile Suit Gundam 00 Second Season,TV,8.31,1556,24,25
+309b,Steamboy,movie,7.38,1749,126,
+310b,Kurokami The Animation,TV,7.81,1654,half,23
+311b,Demon King Daimao,TV,7.16,1797,24,12
+312b,Paradise Kiss,TV,7.90,1623,23,12
+313b,Cardcaptor Sakura The Movie 2: The Sealed Card,,8.21,1559,79,
+314b,MoonPhase,TV,7.47,1706,24,26
+315b,Ai Yori Aoshi ~Enishi~,TV,7.33,1738,half,13
+316b,Chaos;HEAd,TV,6.74,1884,27,12
+317b,Time of Eve,ONA,8.57,1480,15,6
+318b,School Rumble: Extra Class,OAV,8.01,1577,25,2
+319b,Haganai,TV,7.55,1663,half,12
+320b,Tenchi Universe,TV,7.42,1678,half,26
+321b,Mahoromatic - Automatic Maiden,TV,7.49,1662,24,12
+322b,CANAAN,TV,7.66,1622,24,13
+323b,Shonen Onmyouji,TV,7.95,1562,24,26
+324b,Is This a Zombie?,TV,7.56,1636,25,12
+325b,Mobile Suit Gundam: The 08th MS Team,OAV,7.97,1548,22,12
+326b,Rozen Maiden: Träumend,TV,7.88,1565,25,12
+327b,Maburaho,TV,6.92,1780,24,24
+328b,Girls Bravo,TV,6.72,1831,24,24
+329b,Xam'd: Lost Memories,ONA,7.54,1630,25,26
+330b,Hunter X Hunter,OAV,8.57,1434,23,8
+331b,"Love, Chunibyo & Other Delusions!",TV,7.95,1547,24,12
+332b,Den-noh Coil,TV,8.41,1459,25,26
+333b,Revolutionary Girl Utena,TV,8.02,1512,25,39
+334b,Nisemonogatari,TV,8.10,1496,25,11
+335b,RIN - Daughters of Mnemosyne,TV,7.48,1616,46,6
+336b,Pokémon: The First Movie,movie 1,6.26,1931,96,
+337b,Kimi ni Todoke 2nd Season,TV,8.35,1446,23,12
+338b,Eden of the East: The King of Eden,movie,7.89,1530,82,
+339b,Your Lie in April,TV,8.46,1419,23,22
+340b,Burst Angel,TV,6.61,1807,24,24
+341b,Maria Watches Over Us Season 2: Printemps,TV,8.81,1353,24,13
+342b,Kannagi: Crazy Shrine Maidens,TV,7.73,1539,24,13
+343b,Tokyo Ghoul,TV,7.23,1644,25,12
+344b,your name.,movie,8.97,1320,106,
+345b,Princess Tutu,TV,8.38,1411,23,38
+346b,Shaman King,TV 2001,7.27,1622,23,64
+347b,Aishiteruze Baby,TV,7.68,1527,25,26
+348b,Cardcaptor Sakura: The Movie,,7.59,1545,82,
+349b,Initial D,TV,7.85,1493,25,26
+350b,Parasyte -the maxim-,TV,8.19,1431,23,24
+351b,ERASED,TV,8.30,1412,half,12
+352b,Loveless,TV,7.32,1588,23,12
+353b,S.A,TV,7.65,1520,half,24
+354b,Full Moon o Sagashite,TV,8.18,1420,half,52
+355b,High School DxD,TV,7.41,1568,half,12
+356b,Hunter X Hunter: Greed Island,OAV,8.40,1379,23,8
+357b,Phantom ~Requiem for the Phantom~,TV,7.54,1531,24,26
+358b,Macross Plus,OAV,7.97,1444,40,4
+359b,Naruto the Movie: Legend of the Stone of Gelel,movie 2,6.67,1718,96,
+360b,REC,TV,7.73,1482,12,10
+361b,Bleach: The DiamondDust Rebellion,movie 2,7.49,1528,95,
+362b,Hunter X Hunter: G I Final,OAV,8.45,1353,23,14
+363b,Shiki,TV,7.42,1538,23,22
+364b,Gintama,TV,8.39,1357,25,201
+365b,Sola,TV,7.76,1463,24,15
+366b,Green Green,TV,6.30,1792,24,12
+367b,Karas,OAV,7.67,1473,,6
+368b,,TV,7.64,1479,24,12
+369b,Katanagatari,TV,8.40,1343,50,12
+370b,Noragami,TV,7.57,1486,24,12
+371b,My Little Monster,TV,7.79,1445,half,13
+372b,Dance in the Vampire Bund,TV,6.61,1698,24,12
+373b,Banner of the Stars,TV,8.00,1400,25,13
+374b,Btooom!,TV,7.39,1515,24,12
+375b,Infinite Stratos,TV,6.97,1600,half,12
+375b,Kids on the Slope,TV,8.55,1305,,12
+377b,Sailor Moon R,TV,7.27,1535,half,43
+378b,B Gata H Kei - Yamada’s First Time,TV,7.25,1538,half,12
+379b,Kiddy Grade,TV,7.13,1562,half,24
+380b,Nodame Cantabile: Paris,TV,8.39,1327,23,11
+381b,To Love-Ru,TV,7.06,1575,24,26
+382b,Sound of the Sky,TV,7.80,1426,24,14
+383b,Heaven's Lost Property,TV,7.45,1488,24,13
+384b,Record of Lodoss War,OAV,7.38,1497,25,13
+385b,,TV,8.22,1341,25,26
+386b,Accel World,TV,7.42,1484,24,24
+387b,.hack//Legend of the Twilight,TV,6.49,1692,24,12
+388b,,TV,7.59,1444,25,25
+389b,Azumanga Daioh - The Very Short Movie,,7.22,1516,5,
+390b,Air,movie,7.40,1477,91,
+391b,Nabari no Ou,TV,7.39,1478,24,26
+392b,Chrome Shelled Regios,TV,7.63,1427,24,24
+393b,Boogiepop Phantom,TV,7.31,1488,22,12
+394b,HYOUKA,TV,8.01,1357,26,22
+395b,,TV,7.59,1427,22,178
+396b,Sailor Moon S,TV,7.63,1411,half,38
+397b,This Ugly Yet Beautiful World,TV,6.82,1580,24,12
+398b,ef: a tale of melodies,TV,8.54,1259,24,12
+399b,Gargantia on the Verdurous Planet,TV,7.59,1403,24,13
+400b,Hanasaku Iroha - Blossoms for Tomorrow,TV,8.31,1269,half,26
+401b,Redline,movie,8.03,1306,101,
+402b,Wolf Children,movie,8.60,1217,117,
+403b,Genshiken 2,TV,8.09,1292,24,12
+404b,Sword Art Online II,TV,7.43,1406,24,24
+405b,Ichigo 100%,TV,6.77,1541,12,26
+406b,Blue Submarine No.6,OAV,6.99,1492,30,4
+407b,Seitokai Yakuindomo,TV,7.81,1333,24,13
+408b,Uta∽Kata,TV,7.80,1332,24,12
+409b,"Ceres, Celestial Legend",TV,7.19,1444,21,24
+410b,Gunbuster,OAV,8.14,1271,30,6
+411b,Texhnolyze,TV,7.55,1365,24,22
+412b,Hunter × Hunter,TV 2011,8.66,1181,24,148
+413b,Natsume's Book of Friends,TV 2,8.58,1191,24,13
+414b,Gunslinger Girl: Il Teatrino,TV,7.81,1308,half,13
+415b,InuYasha the Movie 4: Fire on the Mystic Island,,7.30,1397,86,
+416b,Strike Witches,TV,7.48,1364,half,12
+417b,My Teen Romantic Comedy SNAFU,TV,7.86,1297,24,13
+418b,From the New World,TV,7.92,1286,24,25
+419b,Kekkaishi,TV,7.75,1312,24,52
+420b,GUNxSWORD,TV,7.35,1382,25,26
+421b,Desert Punk,TV,6.99,1454,24,24
+422b,Aria the Animation,TV,7.98,1269,25,13
+423b,ItaKiss,TV,7.79,1298,24,25
+424b,Tsubasa Tokyo Revelations,OAV,8.46,1192,25,3
+425b,X,movie,5.60,1799,100,
+426b,Mobile Suit Gundam Wing: Endless Waltz Special Edition,movie,7.71,1303,87,
+427b,Witchblade,TV,7.29,1376,half,24
+428b,,movie,8.06,1238,95,
+429b,Sekirei: Pure Engagement,TV,7.73,1286,24,14
+430b,A Certain Magical Index II,TV,7.36,1348,24,24
+431b,Dusk maiden of Amnesia,TV,7.64,1291,half,13
+432b,Mobile Fighter G Gundam,TV,6.83,1442,24,49
+433b,,TV,7.48,1312,24,24
+434b,Elemental Gelade,TV,7.42,1320,half,26
+435b,Peacemaker,TV,7.30,1337,half,24
+436b,Puni Puni Poemy,OAV,6.74,1441,30,2
+437b,Digimon Adventure 02,TV,6.61,1459,half,50
+438b,Log Horizon,TV,8.10,1186,24,25
+439b,Denpa teki na Kanojo,OAV,8.24,1162,42,2
+440b,Nyan Koi!,TV,7.43,1286,24,12
+441b,Darker than Black - Kuro no Keiyakusha: Gaiden,OAV,7.74,1228,24,4
+442b,Night Raid 1931,TV,7.56,1251,25,13
+443b,Akame ga KILL!,TV,7.46,1267,23,24
+444b,Yu-Gi-Oh!,TV 1/1998,5.41,1741,half,27
+445b,He Is My Master,TV,6.57,1431,24,12
+446b,Death Parade,TV,7.89,1192,23,12
+447b,xxxHOLiC: Kei,TV,8.31,1131,24,13
+448b,Wagnaria!!,TV,7.75,1211,half,13
+449b,Clannad,movie,7.49,1252,90,
+450b,Cromartie High School,TV,7.53,1245,12,26
+451b,Air In Summer,special,7.82,1194,24,
+452b,Banner of the Stars II,TV,8.16,1144,25,10
+453b,Angel Sanctuary,OAV,6.22,1498,half,3
+454b,Bubblegum Crisis: Tokyo 2040,TV,7.03,1326,half,26
+455b,Spiral,TV,7.32,1272,25,25
+456b,Ōkami-san & Her Seven Companions,TV,7.56,1229,24,12
+457b,Bakuman.,TV,8.19,1135,24,25
+458b,Chihayafuru,TV,8.42,1103,half,25
+459b,Tiger & Bunny,TV,8.23,1129,half,25
+460b,Eden of the East: Paradise Lost,movie,7.84,1182,93,
+461b,Please Twins!,OAV,7.18,1290,26,1
+462b,Madlax,TV,7.54,1227,25,26
+463b,Kanokon: The Girl Who Cried Fox,TV,6.61,1394,half,12
+464b,Mobile Suit Gundam,TV,7.70,1197,half,43
+465b,,TV,7.88,1168,25,26
+466b,,TV,7.46,1232,half,12
+467b,Lucky Star OVA,,7.90,1162,42,
+468b,Kokoro Connect,TV,7.71,1186,half,17
+469b,Dragon Ball Z: The Tree of Might,movie 3,6.09,1499,60,
+470b,Dragon Ball Z: Dead Zone,movie 1,6.22,1462,41,
+471b,Is It Wrong to Try to Pick Up Girls in a Dungeon?,TV,7.52,1206,24,13
+472b,Beyond the Boundary,TV,7.55,1200,24,12
+473b,Magical Girl Lyrical Nanoha,TV,7.55,1199,26,13
+474b,Saiyuki,TV,7.28,1242,25,50
+475b,Waiting in the Summer,TV,7.91,1142,half,12
+476b,Freezing,TV,7.22,1245,half,12
+477b,Descendants of Darkness,TV,7.16,1256,25,13
+477b,Prétear,TV,7.18,1252,half,13
+479b,Mahoromatic: Something More Beautiful,TV,7.49,1197,24,14
+480b,Kämpfer,TV,5.99,1493,24,12
+481b,Jyu-Oh-Sei,TV,7.33,1219,23,11
+482b,,TV,8.32,1072,25,36
+482b,Bokura ga Ita,TV,7.75,1151,26,26
+484b,Aria - The Natural,TV,8.12,1098,24,26
+485b,Memories,movie,7.81,1137,113,
+486b,Appleseed: Ex Machina,movie,7.49,1185,105,
+487b,Ghost Hound,TV,7.44,1184,25,22
+488b,Pokémon 2000 - The Movie,movie 2,6.19,1418,102,
+489b,Naruto Special: Battle at Hidden Falls. I Am the Hero!,OAV,6.47,1356,40,1
+490b,Princess Jellyfish,TV,8.08,1085,22,11
+491b,,TV,8.09,1083,25,39
+492b,Monthly Girls' Nozaki-kun,TV,8.17,1072,24,12
+493b,Kasimasi - Girl Meets Girl,TV,7.08,1236,half,12
+494b,xxxHOLiC the Movie: A Midsummer Night's Dream,,7.78,1122,one,
+495b,Re:ZERO -Starting Life in Another World-,TV,8.42,1037,half,25
+496b,Bleach: The Sealed Sword Frenzy,OAV,6.98,1249,half,1
+497b,Nichijou - My Ordinary Life,TV,8.26,1055,24,26
+498b,Genshiken,OAV,8.02,1087,24,
+499b,My Hero Academia,TV,8.15,1069,half,13
+500b,Kyo kara Maoh!,TV,7.73,1122,23,78
+501b,Pom Poko,movie,7.38,1174,118,
+502b,,movie,8.31,1043,46,
+503b,Strawberry Eggs,TV,7.05,1227,23,13
+504b,Kite,OAV,6.73,1285,26,2
+505b,Tenchi the Movie - Tenchi Muyo in Love,,7.66,1127,95,
+506b,Magical Girl Lyrical Nanoha A's,TV,8.08,1068,25,13
+507b,Arakawa Under the Bridge,TV,7.54,1140,24,13
+508b,Zombie-Loan,TV,6.95,1236,24,13
+509b,Battle Angel,OAV,7.21,1191,29,2
+510b,Maria Holic,TV,7.27,1179,half,12
+511b,Tenchi in Tokyo,TV,6.23,1373,half,26
+512b,Dragon Ball Z: The World's Strongest,movie 2,6.18,1383,59,
+513b,,TV,7.50,1138,25,24
+514b,Fractale,TV,7.46,1144,23,11
+515b,Tales from Earthsea,movie,6.72,1267,116,
+516b,Tokyo Magnitude 8.0,TV,8.24,1028,23,11
+517b,Dragon Ball Z: Bardock - The Father of Goku,special,7.09,1189,47,
+518b,Black Butler II,TV,7.43,1134,24,12
+519b,Origin ~Spirits of the Past~,movie,7.03,1198,94,
+520b,Tenchi Muyo! Ryo-Ohki,OAV 2/1994,7.96,1056,30,6
+521b,Bleach: Memories in the Rain,OAV,6.86,1222,half,1
+522b,C – Control – The Money and Soul of Possibility,TV,7.37,1137,24,11
+523b,Strawberry Marshmallow,TV,7.92,1057,24,12
+524b,Samurai Harem,TV,6.94,1206,24,12
+525b,Haruka Nogizaka's Secret,TV,7.39,1126,25,12
+526b,Koi Kaze,TV,7.76,1072,23,13
+527b,Aquarion,TV,6.79,1221,half,26
+528b,"Say ""I love you.""",TV,7.64,1082,half,13
+529b,Black Lagoon: Roberta's Blood Trail,OAV,8.10,1019,33,5
+530b,Magic Knight Rayearth,TV,7.04,1165,25,20
+531b,Haganai NEXT,TV,7.49,1090,24,12
+532b,Pandora Hearts,TV,7.64,1066,24,25
+533b,Grenadier,TV,6.63,1227,25,12
+534b,Naruto the Movie: Guardians of the Crescent Moon Kingdom,movie 3,6.36,1277,95,
+535b,Sailor Moon Sailor Stars,TV,7.90,1022,25,34
+536b,K,TV,7.06,1143,25,13
+537b,Trigun: Badlands Rumble,movie,7.98,1010,90,
+538b,Sailor Moon SuperS,TV,6.97,1156,half,39
+539b,InuYasha: The Final Act,TV,8.07,998,25,26
+540b,Magi: The Labyrinth of Magic,TV,7.36,1094,25,25
+541b,When They Cry - Rei,OAV,7.32,1098,half,5
+542b,Sankarea: Undying Love,TV,7.47,1076,half,12
+543b,Junjō Romantica,TV,8.12,988,half,12
+544b,Dragon Ball Z: The History of Trunks,special,7.27,1104,47,
+545b,Valkyria Chronicles,TV,7.82,1024,24,26
+546b,Pumpkin Scissors,TV,7.37,1086,24,24
+547b,Kanon,TV 1/2002,7.20,1110,23,13
+548b,Ground Control to Psychoelectric Girl,TV,7.63,1047,half,13
+549b,Initial D: Second Stage,TV,8.01,997,23,13
+550b,,TV,6.77,1177,24,12
+551b,Stellvia,TV,7.71,1032,half,26
+552b,Chibits,special,6.78,1168,6,
+553b,Dragon Ball Z: Cooler's Revenge,movie 5,6.48,1222,60,
+554b,Hetalia - Axis Powers,TV,7.53,1050,5,
+555b,Yu-Gi-Oh!,TV 2/2000,6.47,1222,24,224
+556b,Only Yesterday,movie,7.77,1018,118,
+557b,Sailor Moon R: The Movie,,7.27,1084,one,
+558b,Macross Zero,OAV,8.08,974,35,5
+559b,Dragon Ball Z: Broly - The Legendary Super Saiyan,movie 8,7.01,1113,71,
+560b,KonoSuba – God’s blessing on this wonderful world!!,TV,7.87,990,23,11
+561b,Naruto Shippūden,movie,7.29,1067,90,
+562b,Aldnoah.Zero,TV,6.99,1112,23,12
+563b,Penguindrum,TV,8.02,969,half,24
+564b,Panty & Stocking with Garterbelt,TV,7.31,1062,23,13
+565b,She and Her Cat,OAV,7.65,1010,5,1
+566b,Black Rock Shooter,OAV,6.90,1119,one,
+567b,Terror in Resonance,TV,7.89,978,23,11
+568b,Tokyo Ghoul √A,TV,6.89,1118,,12
+569b,Baka and Test - Summon the Beasts 2,TV,7.88,974,,13
+570b,Digimon Tamers,TV,7.05,1083,half,51
+571b,Akane Iro ni Somaru Saka,TV,6.73,1134,25,12
+572b,,TV,6.66,1146,23,26
+573b,Kamichu!,TV,7.95,959,half,16
+574b,Reborn!,TV,7.95,958,24,203
+575b,Revolutionary Girl Utena: The Movie,,7.31,1041,80,
+576b,H2O ~Footprints in the Sand~,TV,7.29,1042,24,12
+577b,Gunbuster 2: Diebuster,OAV,7.81,961,27,6
+578b,Momo: The Girl God of Death,TV,7.51,996,half,6
+579b,Ah My Buddha,TV,6.45,1158,24,13
+580b,Chobits,OAV,6.80,1097,24,1
+581b,Amagami SS,TV,7.74,963,,25
+582b,Heaven's Lost Property Forte,TV,7.59,982,25,12
+583b,D.C. ~Da Capo~,TV,6.99,1066,24,26
+584b,Blast of Tempest,TV,7.52,989,,24
+585b,Michiko & Hatchin,TV,6.88,1080,23,22
+586b,07-Ghost,TV,7.24,1027,,25
+587b,Kimi ga Aruji de Shitsuji ga Ore de,TV,7.39,1005,half,13
+588b,Mobile Suit Gundam 0080: War in the Pocket,OAV,7.68,967,half,6
+589b,Flame of Recca,TV,6.89,1075,23,42
+590b,Pani Poni Dash!,TV,7.45,994,23,26
+591b,Steins;Gate: The Movie - Load Region of Déjà Vu,,7.99,926,90,
+592b,Mononoke,TV,8.49,869,23,12
+593b,Nekomonogatari,TV,7.94,922,21,4
+594b,INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem,movie,8.03,911,67,
+595b,Mobile Suit Zeta Gundam,TV,8.20,890,Half,50
+596b,Dead Leaves,OAV,6.83,1067,50,
+596b,Solty Rei,TV,7.64,954,24,24
+598b,Good Luck! Ninomiya-kun,TV,6.89,1058,25,12
+599b,Inukami!,TV,7.32,995,half,26
+600b,Royal Space Force - The Wings of Honnêamise,movie,7.77,937,125,
+601b,Detroit Metal City,OAV,8.12,895,14,12
+602b,,TV,7.74,936,,24
+603b,Aria the Scarlet Ammo,TV,6.69,1083,25,12
+604b,Dragon Ball Z: The Return of Cooler,movie 6,6.43,1125,,
+605b,Fate/stay night: Unlimited Blade Works,TV,8.21,878,24,13
+606b,Mobile Suit Gundam 0083: Stardust Memory,OAV,7.44,968,half,13
+607b,Gakuen Alice,TV,7.74,929,half,26
+608b,Aria the Origination,TV,8.50,845,25,13
+609b,Fate/stay night: Unlimited Blade Works,movie,7.44,961,105,
+610b,Mayo Chiki!,TV,7.38,967,half,13
+611b,Heaven's Memo Pad,TV,7.76,919,half,12
+612b,Shigofumi - Letters from the Departed,TV,7.96,895,half,12
+613b,Sailor Moon S: The Movie,,7.17,991,one,
+614b,Zoku Sayonara Zetsubou-sensei,TV,8.13,873,half,13
+615b,Nodame Cantabile: Finale,TV,8.33,851,24,11
+616b,Tokyo Majin,TV,6.48,1089,25,14
+616b,Ikki Tousen: Dragon Destiny,TV,7.02,1005,,12
+618b,3x3 Eyes,OAV,7.09,995,30,4
+619b,Made in Abyss,TV,8.69,811,24,13
+620b,Kiss×sis,TV,6.95,1013,24,12
+621b,Bleach the Movie: Fade to Black,movie 3,7.46,944,94,
+622b,Student Council's Discretion,TV,7.34,959,24,12
+623b,Children Who Chase Lost Voices,movie,7.88,890,116,
+623b,JoJo's Bizarre Adventure,TV,7.81,898,24,26
+625b,Gunsmith Cats,OAV,7.35,954,half,3
+626b,Demon Slayer: Kimetsu no Yaiba,TV,7.88,890,,26
+627b,Comedy,OAV,8.29,846,10,
+628b,Rozen Maiden: Ouvertüre,special,7.82,896,24,
+629b,,TV,8.00,875,24,26
+630b,Overlord,TV,7.71,907,24,13
+631b,Ninja Nonsense,TV,7.07,987,24,12
+632b,,TV,6.73,1035,,24
+633b,Inu X Boku Secret Service,TV,7.46,933,24,12
+634b,GATE,TV,7.70,903,23,12
+635b,Initial D: Fourth Stage,TV,8.14,853,27,24
+636b,Kiba,TV,7.28,951,half,51
+637b,Attack on Titan,TV 2/2017,8.37,827,24,12
+638b,Ninja Scroll,TV,6.35,1090,25,13
+638b,Kimikiss pure rouge,TV,7.62,908,25,24
+640b,Initial D: Third Stage,movie,7.94,870,114,
+641b,WATAMOTE,TV,7.25,952,24,12
+642b,Princess Lover!,TV,5.98,1151,24,12
+643b,Hell Girl: Two Mirrors,TV,7.95,865,half,26
+644b,Kuroko's Basketball,TV,7.50,913,half,
+645b,Spy×Family,TV,8.22,831,,
+646b,Saint Seiya,TV,7.14,952,25,114
+646b,Haré+Guu,TV,7.89,862,23,26
+648b,Pale Cocoon,OAV,7.81,868,23,1
+649b,Naruto: Akaki Yotsuba no Clover o Sagase,OAV,6.05,1119,17,1
+650b,Tokko,TV,6.57,1029,24,13
+651b,,OAV,8.77,770,25,110
+652b,Occult Academy,TV,7.14,944,24,13
+653b,Daily Lives of High School Boys,TV,7.91,851,half,12
+654b,,TV,7.56,885,,12
+655b,Tsubasa RESERVoir CHRoNiCLE the Movie: The Princess in the Birdcage Kingdom,,7.11,941,35,
+656b,Dragon Ball Z: Fusion Reborn,movie 12,7.15,935,50,
+657b,No. 6,TV,7.32,911,half,11
+658b,Negima!?,TV,7.25,920,25,26
+659b,Peach Girl,TV,7.07,942,25,25
+660b,Steel Angel Kurumi,TV,6.99,953,15,24
+661b,Fafner,TV,7.23,920,24,25
+662b,Tekkonkinkreet,movie,7.97,833,111,
+663b,Lupin the 3rd,TV,7.04,943,25,23
+664b,,OAV,6.96,952,38,3
+665b,Shugo Chara!,TV,7.58,873,half,51
+666b,Azumanga Web Daioh,ONA,6.97,948,4,1
+667b,Nagasarete Airantou,TV,7.56,871,24,26
+668b,Food Wars! Shokugeki no Soma,TV,8.14,808,25,24
+669b,Moyashimon,TV,7.87,833,half,11
+670b,Hand Maid May,TV,6.96,942,25,11
+671b,Dragon Half,OAV,7.21,908,25,2
+672b,Patlabor: The Movie,movie 1,7.65,852,99,
+672b,Afro Samurai: Resurrection,movie,7.13,914,91,
+674b,Assassination Classroom,TV,7.76,840,30,22
+675b,Ranma ½ OAV,,7.88,827,26,11
+675b,Is This a Zombie? of the Dead,TV,7.08,921,half,10
+677b,Bubblegum Crisis,OAV,7.27,896,,8
+678b,,TV,7.59,855,25,25
+679b,Oreimo 2,TV,7.38,878,half,16
+680b,Omamori Himari,TV,7.19,899,24,12
+681b,Maria Watches Over Us 3rd Season,OAV,8.77,736,52,5
+682b,Otoboku - Maidens Are Falling for Me!,TV,7.22,894,24,12
+683b,,movie,8.34,771,115,
+684b,Infinite Ryvius,TV,7.64,839,24,26
+684b,Kurau: Phantom Memory,TV,7.70,832,24,24
+686b,Mobile Suit Gundam: Char's Counterattack,movie,7.81,820,124,
+687b,Mob Psycho 100,TV,8.30,772,half,12
+688b,.hack//Roots,TV,6.69,956,30,26
+689b,Evangelion: 3.0 You Can,movie,7.53,848,,
+690b,MAOYU,TV,7.35,867,24,12
+691b,Tenchi The Movie 2 - The Daughter of Darkness,,7.01,908,60,
+691b,Cat Soup,OAV,7.53,846,34,1
+693b,Chihayafuru 2,TV,8.09,787,,
+694b,A Silent Voice,movie,8.73,729,,
+695b,Minami-ke: Okawari,TV,7.57,840,24,13
+696b,Hajime no Ippo: New Challenger,TV,8.63,736,23,26
+697b,Zoids,TV,6.63,957,,67
+698b,Date A Live,TV,7.21,875,24,12
+699b,.hack//Liminality,OAV,6.67,941,30,4
+700b,Nadia - The Secret of Blue Water,TV,7.71,813,25,39
+701b,Tenjho Tenge: Ultimate Fight,OAV,6.94,902,24,2
+701b,A Certain Scientific Railgun S,TV,7.50,835,24,24
+703b,Murder Princess,OAV,7.00,893,23,6
+704b,Barakamon,TV,7.93,787,22,12
+705b,Robotics;Notes,TV,7.68,807,23,22
+706b,Shakugan no Shana SP: Koi to Onsen no Kōgai Gakushū!,OAV,7.35,843,26,1
+707b,Spriggan,movie,6.52,950,90,
+708b,Hayate the Combat Butler!!,TV,8.00,772,25,25
+709b,Dragonaut - The Resonance,TV,6.37,969,half,26
+710b,Shakugan no Shana,movie,7.43,830,86,
+711b,Bastard!!,OAV,6.62,931,half,6
+712b,Kaiji,TV,8.11,759,23,26
+713b,Charlotte,TV 2015,7.58,811,24,13
+714b,Bokusatsu Tenshi Dokuro-chan Second,OAV,6.90,891,13,4
+715b,Kodocha,TV,7.96,771,22,102
+716b,Dragon Ball Z: Super Android 13!,movie 7,6.47,948,45,
+717b,Street Fighter II: The Animated Movie,,6.88,892,101,
+718b,Cross Game,TV,8.75,700,24,50
+719b,Martian Successor Nadesico: The Motion Picture - Prince of Darkness,,6.88,891,87,
+720b,Dragon Ball Z: Lord Slug,movie 4,5.83,1051,45,
+720b,DNA²,TV,6.71,913,half,12
+722b,Golden Time,TV,7.77,787,25,24
+723b,Disgaea,TV,6.86,890,half,12
+724b,Noragami Aragoto,TV,7.70,792,24,13
+725b,Slam Dunk,TV,8.23,741,22,101
+726b,Nura: Rise of the Yokai Clan,TV,7.65,797,24,26
+726b,Monogatari Series Second Season,TV,8.57,711,24,26
+728b,Dragon Ball Z: Broly - Second Coming,movie 10,6.39,953,One,
+729b,Blue Seed,TV,7.04,863,23,26
+730b,Broken Blade,movie series,8.05,753,50,
+731b,11eyes,TV,6.39,947,25,12
+732b,El-Hazard: The Magnificent World,OAV,7.61,795,24,7
+733b,Kobato.,TV,8.01,754,24,24
+734b,Pokémon 3 - The Movie,movie 3,6.20,974,91,
+735b,Ben-To,TV,7.28,829,half,12
+736b,Comic Party,TV,6.80,887,half,13
+737b,Natsume's Book of Friends,TV 3,8.54,703,25,13
+738b,Pet Shop of Horrors,TV,7.08,847,25,4
+739b,Yosuga no Sora - In solitude where we are least alone,TV,6.74,889,24,12
+740b,Slayers - The Motion Picture,,7.05,850,65,
+741b,Emma: A Victorian Romance,TV,8.09,740,25,12
+742b,Armitage III,OAV,7.12,840,Half,4
+743b,Video Girl Ai,OAV,7.55,791,29,6
+744b,Nisekoi - False Love,TV,7.25,824,24,20
+745b,Sengoku Basara - Samurai Kings,TV,5.85,1020,24,12
+746b,Library War,TV,6.96,854,23,12
+747b,Dragon Ball Z: Wrath of the Dragon,movie 13,7.05,842,51,
+748b,Tenchi Muyo! The Night Before The Carnival,OAV,7.83,758,45,1
+749b,Umineko - When They Cry,TV,7.04,843,23,26
+750b,Bakuman. 2,TV,8.40,706,half,25
+751b,RahXephon: Pluralitas Concentio,movie,7.29,813,116,
+752b,Tari Tari,TV,7.95,745,half,13
+753b,Aesthetica of a Rogue Hero,TV,7.02,843,24,12
+754b,,TV,7.58,779,24,12
+755b,Fullmetal Alchemist: The Sacred Star of Milos,movie,7.31,808,110,
+756b,Yona of the Dawn,TV,7.92,745,24,24
+757b,Kamisama Kiss,TV,7.75,761,24,13
+758b,Dual! Parallel Trouble Adventure,TV,7.20,819,,13
+759b,Jing: King of Bandits,TV,6.91,851,23,13
+760b,Patlabor 2: The Movie,movie 2,7.77,757,107,
+761b,High School DxD New,TV,7.56,777,24,12
+762b,Tenchi Forever!: The Movie,,7.14,823,95,
+763b,Jormungand,TV,7.76,755,half,12
+764b,Dragon Ball Z: Bojack Unbound,movie 9,6.83,858,50,
+765b,Shin chan,TV,6.71,873,half,
+765b,El Cazador de la Bruja,TV,7.17,817,24,26
+767b,Koihime Musō,TV,7.42,789,half,12
+768b,Black Bullet,TV,7.20,812,24,13
+768b,My Hero Academia,TV 2,8.32,702,23,25
+770b,School Rumble Sangakki,OAV,7.51,777,25,2
+771b,Blood Lad,TV,7.41,785,24,10
+772b,Armitage III: Poly-Matrix,movie,6.83,851,90,
+773b,K-ON!,movie,8.04,722,110,
+774b,Persona 4: The Animation,TV,7.47,776,half,26
+775b,Mysterious Girlfriend X,TV,7.37,781,half,13
+776b,MM!,TV,7.31,787,,12
+777b,"Listen to Me, Girls. I Am Your Father!",TV,7.54,762,half,12
+778b,Mushoku Tensei: Jobless Reincarnation,TV 2,8.05,712,,
+779b,Bokurano,TV,7.62,750,half,24
+779b,,TV,5.90,969,24,24
+781b,Samurai Girls,TV,6.95,821,24,12
+782b,Rave Master,TV,6.48,881,24,51
+782b,Time of Eve,movie,8.50,672,106,
+784b,Mezzo Forte,OAV,6.95,821,29,2
+785b,Banner of the Stars III,OAV,7.94,718,,2
+786b,Arjuna,TV,6.59,865,23,13
+787b,Knights of Sidonia,TV,7.85,725,24,12
+788b,Wagnaria!!2,TV,7.94,716,half,13
+789b,Kill Bill Chapter 3: The Origin of O-Ren,movie segment,7.67,740,8,
+790b,,TV,7.59,747,half,12
+791b,Dragon Ball Z Kai,TV,7.59,747,,97
+792b,Welcome to THE SPACE SHOW,movie,8.21,690,136,
+793b,Intrigue in the Bakumatsu - Irohanihoheto,TV,7.42,763,24,26
+794b,My-Otome Zwei,OAV,7.35,769,29,4
+795b,Free! - Iwatobi Swim Club,TV,7.37,766,,
+796b,Armitage: Dual-Matrix,movie,6.77,833,90,
+796b,Amaenaide yo!! Katsu!!,TV,6.94,812,24,13
+798b,,movie,7.17,786,121,
+799b,Happy Lesson,TV,6.69,840,25,14
+800b,Saber Marionette J,TV,7.29,770,half,25
+801b,Sailor Moon SuperS: The Movie,,7.00,802,one,
+802b,Ladies versus Butlers!,TV,6.97,805,24,12
+803b,My Teen Romantic Comedy SNAFU TOO!,TV,7.95,705,half,13
+804b,Strike the Blood,TV,7.59,738,24,24
+805b,"Problem children are coming from another world, aren't they?",TV,7.51,745,23,10
+806b,Beelzebub,TV,7.61,734,24,60
+807b,Bible Black,OAV,6.84,817,28,6
+807b,Mind Game,movie,7.98,700,104,
+809b,Eyeshield 21,TV,7.57,738,27,145
+810b,Bodacious Space Pirates,TV,7.43,751,half,26
+811b,Kino's Travels: Life Goes On,movie,7.91,705,30,
+812b,Kodomo no Jikan,TV,7.19,773,25,12
+813b,Kaiba,TV,8.37,664,half,12
+814b,Mahoromatic: Summer Special,,7.17,775,24,
+815b,Gravitation: Lyrics of Love,OAV,7.00,793,One,2
+816b,Hatsukoi Limited,TV,7.81,710,24,12
+817b,Mythical Detective Loki Ragnarok,TV,7.08,782,half,26
+818b,Kyo no Gononi,OAV,7.51,737,28,4
+819b,A Lull in the Sea,TV,8.07,683,26,26
+820b,,TV,7.59,725,24,24
+821b,,TV,7.85,701,,12
+822b,Yuruyuri - Happy Go Lily,TV,7.61,722,half,12
+823b,Hajime no Ippo - Champion Road,special,8.30,660,90,
+824b,Chaika - The Coffin Princess,TV,7.46,732,23,12
+825b,From Up On Poppy Hill,movie,7.94,685,91,
+826b,Puella Magi Madoka Magica The Movie Part 3: Rebellion,,8.20,663,116,
+827b,Junjō Romantica 2,TV,8.24,659,24,12
+828b,Silver Spoon,TV,8.13,668,23,11
+829b,Black Rock Shooter,TV,6.83,795,23,8
+830b,,TV,7.40,733,24,12
+830b,Amagi Brilliant Park,TV,7.64,710,,13
+832b,Galaxy Angel,TV,7.02,770,12,26
+833b,Good Luck Girl!,TV,7.58,713,half,13
+834b,Boys Over Flowers,TV,7.63,705,24,51
+835b,Requiem from the Darkness,TV,7.16,750,22,13
+836b,Princess Princess,TV,7.02,765,half,12
+837b,Kiss×sis,OAV,7.23,741,25,
+838b,Maison Ikkoku,TV,8.47,633,half,96
+839b,Mahoraba ~Heartful days~,TV,7.65,700,24,26
+840b,Hotarubi no Mori e,movie,8.31,643,45,
+841b,Record of Lodoss War: Chronicles of the Heroic Knight,TV,6.80,786,25,27
+842b,Hidamari Sketch,TV,7.86,679,,12
+843b,Tenchi Muyo! Ryo Ohki,OAV 3/2003,7.37,724,30,6
+843b,Aria the OVA ~Arietta~,,7.91,675,half,
+845b,Simoun,TV,7.62,699,half,26
+846b,,TV,7.33,727,24,12
+847b,Jubei-Chan The Ninja Girl - Secret of the Lovely Eyepatch,TV,6.93,768,25,13
+848b,Ranma ½: Nihao My Concubine,movie,7.22,735,59,
+849b,Kabaneri of the Iron Fortress,TV,7.45,712,half,12
+849b,Violet Evergarden,TV,8.46,627,,13
+851b,Big Windup!,TV,8.03,660,25,25
+852b,My Dress-Up Darling,TV,7.90,670,,12
+853b,Tactics,TV,7.01,754,24,25
+854b,Log Horizon,TV 2,7.63,691,25,25
+855b,My Love Story!!,TV,7.83,672,22,24
+856b,"Ranma ½: Big Trouble in Nekonron, China",movie,7.09,741,81,
+857b,Berserk: The Golden Age Arc I - The Egg of the King,movie,7.93,663,77,
+858b,Girls und Panzer,TV,7.68,684,24,12
+859b,Tokyo Mew Mew,TV,6.48,811,half,52
+860b,"Yamibo - Darkness, the Hat, and the Travelers of the Books",TV,7.13,735,half,13
+861b,KONOSUBA - God's blessing on this wonderful world! 2,TV,7.96,657,23,10
+862b,,TV,7.24,722,24,13
+863b,Rental Magica,TV,7.08,737,half,24
+864b,,TV,7.52,693,23,51
+865b,,TV,7.81,666,24,12
+866b,Orphen,TV,6.83,761,25,24
+867b,Motto To Love Ru,TV,7.34,707,,12
+868b,Those Who Hunt Elves,TV,6.80,763,25,12
+868b,Plastic Memories,TV,7.60,683,24,13
+870b,Final Fantasy: Unlimited,TV,5.13,1011,half,25
+871b,Toward the Terra,TV,7.93,653,24,24
+871b,Shakugan no Shana III,TV,7.61,681,,24
+873b,Campione!,TV,7.14,724,half,13
+874b,Zatch Bell,TV,5.88,879,half,150
+875b,Haikyu!!,TV,8.30,622,24,25
+876b,Pilot Candidate,TV,5.44,950,half,12
+877b,Shigurui: Death Frenzy,TV,7.22,715,25,12
+878b,Aa Megami-sama: Tatakau Tsubasa,special,7.78,663,24,
+879b,Shirobako,TV,8.31,620,24,24
+880b,Psycho-Pass 2,TV,7.21,715,,11
+881b,"Love, Chunibyo & Other Delusions! -Heart Throb-",TV,7.54,683,24,12
+882b,Natsume's Book of Friends,TV 4,8.62,597,24,13
+883b,Mezzo,TV,6.87,748,25,13
+884b,Innocent Venus,TV,6.92,742,24,12
+885b,Aldnoah.Zero,TV 2,6.67,769,24,12
+886b,Magical Girl Lyrical Nanoha StrikerS,TV,7.78,659,25,26
+887b,,TV,7.98,642,,11
+888b,Dream Eater Merry,TV,6.94,738,half,13
+889b,Girl's High,TV,6.48,789,24,12
+889b,Fate/stay night: Unlimited Blade Works,TV 2,8.02,638,,
+891b,Tenchi Muyo! GXP,TV,6.82,748,25,26
+892b,Magnetic Rose,movie,8.27,616,44,
+893b,Hamtaro,TV,4.68,1088,25,296
+894b,Nyaruko: Crawling with Love!,TV,7.12,713,half,12
+895b,Vampire Princess Miyu,TV,6.75,752,Half,26
+895b,"Grimgar, Ashes and Illusions",TV,7.88,644,24,12
+897b,Miss Kobayashi's Dragon Maid,TV,8.08,628,24,14
+898b,Akikan!,TV,6.26,807,23,12
+899b,Princess Resurrection,TV,6.87,733,25,25
+900b,Higurashi no Naku Koroni Gaiden Nekogoroshi-hen,OAV,7.14,704,23,1
+901b,Kimagure Orange Road,TV,8.11,619,25,48
+902b,Magi: The Kingdom of Magic,TV,7.52,666,,25
+903b,Tales of the Abyss,TV,7.26,690,25,26
+904b,Tenchi Muyo! War on Geminar,OAV,8.00,626,51,13
+905b,Little Witch Academia,movie,7.92,632,26,
+906b,Rune Soldier,TV,7.05,709,25,24
+906b,Tears to Tiara,TV,7.20,695,24,26
+908b,Living for the Day After Tomorrow,TV,7.59,657,25,12
+909b,Mushishi: The Next Chapter,TV,8.79,567,25,
+910b,Level E,TV,7.46,668,24,13
+911b,Ocean Waves,movie,7.25,685,72,
+911b,Naruto: Konoha Sports Festival,movie,6.20,801,11,
+911b,Rage of Bahamut: Genesis,TV,7.90,629,,13
+914b,Boys Be...,TV,6.55,757,24,13
+914b,Chivalry of a Failed Knight,TV,7.80,636,23,12
+916b,Asura Cryin',TV,6.95,714,20,13
+917b,Death Note Relight - Visions of a God,special,8.22,603,130,
+918b,Blood Blockade Battlefront,TV,7.63,650,,12
+919b,Blood-C,TV,6.08,813,half,12
+920b,Magikano,TV,6.32,781,half,13
+921b,Magic Knight Rayearth 2,TV,7.33,671,half,29
+922b,Fullmetal Alchemist: Chibi Party,OAV,7.13,690,6,
+923b,Zakuro,TV,7.59,648,24,13
+924b,,movie,8.10,607,130,
+925b,Kakurenbo - Hide & Seek,movie,6.90,712,25,
+926b,,TV,7.46,658,24,12
+927b,Digimon Frontier,TV,6.25,785,half,50
+928b,NieA_7,TV,7.14,686,23,13
+929b,Zoids/ZERO,TV,6.76,724,,26
+930b,GATE,TV 2,7.86,623,23,12
+931b,Dragon Crisis!,TV,6.83,716,half,12
+932b,Sukisho,TV,7.05,693,24,13
+933b,Arakawa under the Bridge × Bridge,TV,7.74,631,24,13
+934b,,ONA,7.50,651,5,25
+935b,Baka and Test: Summon the Beasts OVA,,7.83,622,29,2
+936b,Tachikomatic Days,OAV,7.16,680,1,52
+937b,Fushigi Yugi,OAV,6.82,713,25,3
+938b,.hack//Intermezzo,OAV,6.77,718,20,1
+939b,Needless,TV,6.98,696,24,24
+940b,Strike Witches 2,TV,7.62,638,,12
+941b,Naruto Shippūden the Movie: Bonds,,7.09,685,90,
+942b,Danganronpa The Animation,TV,6.98,695,24,13
+943b,X OAV,,6.80,710,half,1
+944b,Fullmetal Alchemist: Premium Collection,OAV,7.27,664,24,4
+945b,Unbreakable Machine-Doll,TV,7.47,644,24,12
+946b,Pokémon 4Ever,movie 4,6.08,790,76,
+946b,ReLIFE,TV,8.10,593,24,13
+948b,Final Approach,TV,6.68,718,13,13
+949b,Kamisama Kazoku,TV,7.32,655,half,13
+950b,Space Dandy,TV,7.49,640,25,13
+951b,Chainsaw Man,TV,7.87,609,,
+952b,Beyblade,TV,4.39,1086,half,51
+953b,Someday's Dreamers,TV,6.95,685,half,12
+954b,Appleseed,OAV,6.27,758,70,
+955b,Kurozuka,TV,6.92,686,,12
+956b,Otaku no Video,OAV,7.38,639,50,2
+957b,Saiyuki Reload,TV,6.47,728,24,25
+957b,King of Thorn,movie,7.41,636,120,
+959b,Demon Slayer: Kimetsu no Yaiba Entertainment District Arc,TV,8.26,570,,11
+960b,Rokka: Braves of the Six Flowers,TV,7.27,647,23,12
+961b,Ghost in the Shell: Stand Alone Complex - The Laughing Man,OAV,8.22,572,140,
+962b,Sumomomo Momomo - Chijō Saikyō no Yome,TV,6.97,673,25,22
+962b,House of Five Leaves,TV,7.89,595,23,12
+964b,Un-Go,TV,7.32,641,half,11
+965b,Humanity Has Declined,TV,7.76,604,half,12
+966b,Yumeria,TV,6.13,761,24,12
+967b,Coyote Ragtime Show,TV,6.45,723,24,12
+968b,Tsubasa: Spring Thunder,OAV,8.09,575,29,2
+969b,Dragon Ball Z: Bio-Broly,movie 11,5.47,849,45,
+970b,Project A-ko,movie,7.04,659,80,
+971b,Minami-ke: Okaeri,TV,7.76,597,24,13
+971b,86,TV 2,7.84,591,23,12
+973b,Iria - Zeiram the Animation,OAV,7.13,647,35,6
+974b,Hajime no Ippo - Mashiba vs. Kimura,OAV,8.16,565,60,1
+975b,To Love-Ru,OAV,7.30,630,26,6
+976b,Shakugan no Shana S,OAV,7.51,607,23,4
+977b,Fantastic Children,TV,7.82,583,24,26
+977b,Silver Spoon,TV 2,7.94,574,24,11
+979b,Ragnarok The Animation,TV,5.86,778,24,26
+979b,Ayakashi - Samurai Horror Tales,TV,7.43,614,half,11
+981b,Amatsuki,TV,6.94,657,half,13
+982b,SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist,TV,7.52,606,23,12
+983b,,TV,7.90,576,23,24
+984b,Hakuoki: Demon of the Fleeting Blossom,TV,5.52,823,24,12
+985b,3x3 Eyes Seima Densetsu,OAV,7.30,622,45,3
+985b,Gilgamesh,TV,6.36,714,23,26
+987b,Shattered Angels,TV,6.72,676,,12
+988b,Ghost Stories,TV,7.48,607,23,20
+989b,Maria Watches Over Us 4th Season,TV,8.70,521,half,13
+990b,Sands of Destruction,TV,7.01,644,half,13
+991b,"Eureka Seven - good night, sleep tight, young lovers",movie,7.15,631,115,
+992b,Blade of the Immortal,TV,6.84,658,half,13
+993b,Star Driver,TV,7.27,619,half,25
+994b,Riddle Story of Devil,TV,7.45,603,,12
+995b,Earl and Fairy,TV,7.21,623,24,12
+996b,Seraph of the End: Vampire Reign,TV,7.25,619,24,12
+997b,Gurren Lagann the Movie –Childhood's End-,,8.00,559,112,
+998b,Yu Yu Hakusho The Movie: Poltergeist Report,movie 2/1994,6.98,641,93,
+999b,Mobile Suit Gundam - The Movie Trilogy,,8.13,550,135,
+1000b,Bakuman. 3,TV,8.32,536,,

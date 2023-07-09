@@ -2,28 +2,28 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
-# Start index and step size for pagination
+# Step amount for page entries
 start = 0
 step = 50
 
-# Create a list to store the scraped data
+# Create a list for entries for later export
 anime_data = []
 
 while start < 1000:  # Scrape 1000 titles (20 pages)
     # Create the URL with the appropriate start index
     url = f"https://myanimelist.net/topanime.php?limit={start}"
 
-    # Send a GET request to the webpage
+    # Send a get request
     req = requests.get(url)
 
-    # Create a BeautifulSoup object
+    # Create BeautifulSoup
     soup = BeautifulSoup(req.content, "html.parser")
 
-    # Export HTML content to a text file
+    # Export html data to a text document
     with open("html_content_tableA.txt", "a", encoding="utf-8") as html_file:
         html_file.write(soup.prettify())
 
-    # Find the title and rating of each anime
+    # Find the rankid, title, rating, show type(movie/tv), runtime, episodes, and member count
     anime_entries = soup.find_all("tr", class_="ranking-list")
     for entry in anime_entries:
         rankid = entry.find("td", class_="rank ac")
@@ -44,20 +44,18 @@ while start < 1000:  # Scrape 1000 titles (20 pages)
             runtime = lines[2].strip()
             member_count = lines[3].strip().split(" ")[0].replace(",", "")
 
-            anime_data.append([rank, title_text, rating_text, show_type, episodes, runtime, member_count])
+            anime_data.append([str(rank) + 'a', title_text, rating_text, show_type, episodes, runtime, member_count])
 
-    # Update the start index for the next page
+    # Update the start index for the next page and continue scraping until 1000 entries
     start += step
 
-print(f"Html data saved to html_content_tableA.txt successfully.")
-
-# Define the CSV file path
+# Define name of csv file
 csv_file = "tableA.csv"
 
-# Write the data to the CSV file
+# Write the data to the csv file
 with open(csv_file, "w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
-    writer.writerow(["rank", "title", "rating", "show_type", "episodes", "run_time", "member_count"])  # Write header
-    writer.writerows(anime_data)  # Write data rows
+    writer.writerow(["rank", "title", "rating", "show_type", "episodes", "run_time", "member_count"])
+    writer.writerows(anime_data)
 
 print(f"Data saved to {csv_file} successfully.")
