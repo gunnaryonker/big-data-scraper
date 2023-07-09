@@ -8,7 +8,7 @@ Scraper: [myanimelistscrape.py](https://github.com/gunnaryonker/gunnaryonker.git
 Table A: [tableA.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/tableA.csv)  
 HTML Data: [HTML Data](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/html_content_tableA.txt)  
 
-Website 2: [Anime News Network]([https://www.imdb.com/](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=1000))
+Website 2: [Anime News Network](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=1000)  
 Scraper: [animenewsnetwork.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/animenewsnetwork.py)  
 Table B: [tableB.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/tableB.csv)  
 HTML Data: [HTML Data 2](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/html_content_tableB.txt)  
