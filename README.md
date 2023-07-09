@@ -1,12 +1,11 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1>Big Data and Data Mining</h1>
-    <p>Project 1:</p>
-</body>
-</html>
+# Big Data and Data Mining
+Gunnar Yonker
+
+# Projects
+## Project 1
+Website 1: [myanimelist.net](myanimelist.net)
+Scraper: [myanimelistscrape.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/myanimelistscrape.py)
+[tableA.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/tableA.csv)
+[HTML Data](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/html_content_tableA.txt)
+
+Website 2:
