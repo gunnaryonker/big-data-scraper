@@ -20,9 +20,9 @@ Table C: [tableC.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blo
 HTML Data: [HTML Data 3](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/html_content_tableC.txt)  
 
 ## Assignment 2  
-[tableA.csv]{https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableA.csv}  
-[tableAclean.py]{https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAclean.py}  
-[tableAcleaned.csv]{https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAcleaned.csv}  
-[emptyvaluechecker.py]{https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/emptyvaluechecker.py}  
-[titlevaluecounter.py]{https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/titlevaluecounter.py}  
-[Assignment 2 PDF Report]{}
+[tableA.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableA.csv)  
+[tableAclean.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAclean.py)  
+[tableAcleaned.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAcleaned.csv)  
+[emptyvaluechecker.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/emptyvaluechecker.py)  
+[titlevaluecounter.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/titlevaluecounter.py)  
+[Assignment 2 PDF Report]()  
