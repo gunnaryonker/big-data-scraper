@@ -18,3 +18,11 @@ Website 3: [IMDB](https://www.imdb.com/)
 Scraper: [imdbscrape.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/imdbscrape.py)  
 Table C: [tableC.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/tableC.csv)   
 HTML Data: [HTML Data 3](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/html_content_tableC.txt)  
+
+## Assignment 2  
+[tableA.csv]{https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableA.csv}  
+[tableAclean.py]{https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAclean.py}  
+[tableAcleaned.csv]{https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAcleaned.csv}  
+[emptyvaluechecker.py]{https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/emptyvaluechecker.py}  
+[titlevaluecounter.py]{https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/titlevaluecounter.py}  
+[Assignment 2 PDF Report]{}
