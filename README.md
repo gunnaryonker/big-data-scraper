@@ -20,9 +20,9 @@ Table C: [tableC.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blo
 HTML Data: [HTML Data 3](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/html_content_tableC.txt)  
 
 ## Assignment 2  
-[tableA.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableA.csv)  
-[tableAclean.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAclean.py)  
-[tableAcleaned.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAcleaned.csv)  
-[emptyvaluechecker.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/emptyvaluechecker.py)  
-[titlevaluecounter.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/titlevaluecounter.py)  
-[Assignment 2 PDF Report]()  
+Original table A of data: [tableA.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableA.csv)  
+Python code that re-organizing the csv of table A into the same schema to share with table B.[tableAclean.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAclean.py)  
+Table A cleaned data for same schema: [tableAcleaned.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAcleaned.csv)  
+Python code for empty value checking: [emptyvaluechecker.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/emptyvaluechecker.py)  
+Python code for title counting: [titlevaluecounter.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/titlevaluecounter.py)  
+PDF Report: [Assignment 2 PDF Report](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/Assignment%202%20Report.pdf)  
