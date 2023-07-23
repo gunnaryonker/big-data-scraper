@@ -32,4 +32,5 @@ Cleaned Table A: [tableAcleaned.csv](https://github.com/gunnaryonker/gunnaryonke
 Cleaned Table B: [tableBcleaned.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%203/tableBcleaned.csv)  
 Python code to re-organize and clean Table B [tableBclean.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%203/tableBclean.py)  
 Python code to find matching titles between tableAcleaned.csv and tableBcleaned.csv: [titleattributematching.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%203/titleattributematching.py)  
-Table C using Matching Titles:: [tableC.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%203/tableC.csv)  
+Table C using Matching Titles: [tableC.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%203/tableC.csv) 
+PDF of Matching Explanation: [matching-explanation.pdf](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%203/matching-explanation.pdf)
