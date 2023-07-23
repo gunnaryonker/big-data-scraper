@@ -24,8 +24,8 @@ def create_table_c(table_a_filename, table_b_filename, output_filename):
                                   'episodes_y': 'btable_episodes'}, inplace=True)
 
     # Setup the columns that will be in table C
-    table_c = matched_pairs[['ID', 'atable_rank', 'btable_rank', 'title', 'atable_rating', 'atable_show_type', 'atable_votes', 'btable_rating', 'atable_episodes', 
-                            'btable_show_type', 'atable_votes', 'btable_episodes']]
+    table_c = matched_pairs[['ID', 'atable_rank', 'btable_rank', 'title', 'atable_rating', 'atable_show_type', 'atable_votes', 'atable_episodes', 
+                            'btable_rating', 'btable_show_type', 'btable_votes', 'btable_episodes']]
 
     # Save the new table to the csv file
     table_c.to_csv(output_filename, index=False)
