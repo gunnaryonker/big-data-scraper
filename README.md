@@ -19,10 +19,17 @@ Scraper: [imdbscrape.py](https://github.com/gunnaryonker/gunnaryonker.github.io/
 Table C: [tableC.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/tableC.csv)   
 HTML Data: [HTML Data 3](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/html_content_tableC.txt)  
 
-## Assignment 2  
+## Project 2  
 Original table A of data: [tableA.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableA.csv)  
 Python code that re-organizing the csv of table A into the same schema to share with table B: [tableAclean.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAclean.py)  
 Table A cleaned data for same schema: [tableAcleaned.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAcleaned.csv)  
 Python code for empty value checking: [emptyvaluechecker.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/emptyvaluechecker.py)  
 Python code for title counting: [titlevaluecounter.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/titlevaluecounter.py)  
-PDF Report: [Assignment 2 PDF Report](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/Assignment%202%20Report.pdf)  
+PDF Report: [Assignment 2 PDF Report](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/Assignment%202%20Report.pdf) 
+
+## Project 3  
+Cleaned Table A: [tableAcleaned.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%202/tableAcleaned.csv)  
+Cleaned Table B: [tableBcleaned.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%203/tableBcleaned.csv)  
+Python code to re-organize and clean Table B [tableBclean.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%203/tableBclean.py)  
+Python code to find matching titles between tableAcleaned.csv and tableBcleaned.csv: [titleattributematching.py](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%203/titleattributematching.py)  
+Table C using Matching Titles:: [tableC.csv](https://github.com/gunnaryonker/gunnaryonker.github.io/blob/main/Project%201/Assignment%203/tableC.csv)  
